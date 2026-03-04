@@ -1,0 +1,1001 @@
+﻿ra;nome;email;cpf_dummy;dt_nascimento;dt_matricula;id_curso;cidade;uf;status;telefone
+20260001;Samuel Vitória Gomes;samuel.vitória.gomes.20260001@faculdade.br;783.154.956-40;2006-11-28;2026-03-13;C005;Cuiabá;ES;ATIVO;+55 17 93863-8618
+20260002;Hugo Guimarães;hugo.guimarães.20260002@campus.edu.br;188.064.282-02;2007-01-06;2025-11-08;C006;Belém;GO;ATIVO;+55 17 94088-5965
+20260003;Beatriz Irene Campos;beatriz.irene.campos.20260003@aluno.unilago.edu.br;398.179.818-42;2004-01-22;2026-02-19;C005;Ribeirão Preto;RS;ATIVO;+55 17 96753-9785
+20260004;Renata Almeida Oliveira;renata.almeida.oliveira.20260004@academico.edu.br;482.664.743-70;2002-11-10;2026-03-08;C010;Cuiabá;BA;ATIVO;+55 17 93888-4052
+20260005;Tiago Borges;tiago.borges.20260005@aluno.unilago.edu.br;421.800.831-25;2000-05-20;2025-12-10;C005;Recife;DF;CANCELADO;+55 17 92343-2570
+20260006;Fernanda Bianca Barbosa Barbosa;fernanda.bianca.barbosa.20260006@campus.edu.br;103.180.205-53;2008-01-07;2026-02-23;C006;Salvador;SP;ATIVO;+55 17 98542-3691
+20260007;Daniela Machado Cardoso;daniela.machado.cardoso.20260007@faculdade.br;970.576.652-07;2007-04-14;2026-02-26;C003;Londrina;ES;ATIVO;+55 17 95778-9981
+20260008;Elaine Lima;elaine.lima.20260008@aluno.unilago.edu.br;675.362.732-90;1998-01-04;2026-03-01;C005;Rio de Janeiro;GO;ATIVO;+55 17 95453-2847
+20260009;Elaine Nogueira;elaine.nogueira.20260009@aluno.unilago.edu.br;184.198.042-54;2001-11-18;2026-02-04;C004;Ribeirão Preto;GO;ATIVO;+55 17 97903-6490
+20260010;Vitor Nogueira Barbosa;vitor.nogueira.barbosa.20260010@faculdade.br;837.978.607-64;2007-02-11;2026-02-02;C007;São Paulo;PR;ATIVO;+55 17 94633-8135
+20260011;Alberto Campos Araújo;alberto.campos.araújo.20260011@campus.edu.br;457.775.404-32;2000-12-14;2026-03-14;C006;Londrina;CE;ATIVO;+55 17 97318-7476
+20260012;Igor Geovana Correia;igor.geovana.correia.20260012@aluno.unilago.edu.br;511.002.932-57;2002-11-11;2026-02-21;C007;Campinas;MT;ATIVO;+55 17 95170-7433
+20260013;Julia Correia;julia.correia.20260013@academico.edu.br;086.725.597-55;2001-10-24;2026-03-11;C005;Fortaleza;BA;ATIVO;+55 17 91547-5262
+20260014;Vitor Correia Almeida;vitor.correia.almeida.20260014@aluno.unilago.edu.br;681.164.242-54;2005-08-27;2026-02-27;C010;Salvador;SP;ATIVO;+55 17 99956-6361
+20260015;Karen Ribeiro;karen.ribeiro.20260015@faculdade.br;929.769.293-67;2007-04-16;2026-01-23;C008;Campo Grande;PA;ATIVO;+55 17 95862-3522
+20260016;Bianca Costa;bianca.costa.20260016@campus.edu.br;990.891.094-69;2007-12-16;2025-11-30;C003;Porto Alegre;MT;ATIVO;+55 17 91389-7780
+20260017;Ursula Ribeiro;ursula.ribeiro.20260017@campus.edu.br;037.429.001-11;2007-04-11;2026-02-09;C001;Ribeirão Preto;RJ;ATIVO;+55 17 92417-5538
+20260018;Daniela Rocha Nogueira;daniela.rocha.nogueira.20260018@campus.edu.br;443.727.360-14;2003-06-04;2025-12-01;C010;Campo Grande;ES;ATIVO;+55 17 99101-7303
+20260019;Tiago Rezende Castro;tiago.rezende.castro.20260019@academico.edu.br;680.079.467-02;2008-07-23;2026-02-13;C004;Brasília;RJ;ATIVO;+55 17 98280-9593
+20260020;Thais Cunha;thais.cunha.20260020@campus.edu.br;611.145.697-35;2005-01-27;2026-02-04;C004;Ribeirão Preto;GO;ATIVO;+55 17 94666-4390
+20260021;Rafael Vieira;rafael.vieira.20260021@faculdade.br;819.385.924-27;2000-12-11;2026-03-09;C003;Rio de Janeiro;PE;ATIVO;+55 17 94311-9504
+20260022;Lucas Silva;lucas.silva.20260022@campus.edu.br;419.079.588-10;2000-03-24;2026-01-05;C008;Brasília;PR;ATIVO;+55 17 95437-6943
+20260023;Cecilia Rezende;cecilia.rezende.20260023@faculdade.br;969.835.569-49;1999-09-15;2026-01-24;C003;Goiânia;SC;ATIVO;+55 17 98055-2583
+20260024;Jéssica Silva;jéssica.silva.20260024@campus.edu.br;823.150.768-33;2000-11-17;2026-01-01;C007;Campinas;SC;ATIVO;+55 17 95218-8058
+20260025;Renata Almeida Pereira;renata.almeida.pereira.20260025@faculdade.br;335.153.778-28;2000-09-28;2026-03-14;C006;Campo Grande;MS;ATIVO;+55 17 95927-2009
+20260026;Rafael Farias Cardoso;rafael.farias.cardoso.20260026@academico.edu.br;469.779.669-34;1997-09-20;2026-01-02;C007;Goiânia;BA;ATIVO;+55 17 95753-3403
+20260027;Gabriela Freitas Monteiro;gabriela.freitas.monteir.20260027@campus.edu.br;261.612.351-39;2001-04-13;2026-01-03;C006;Goiânia;PA;ATIVO;+55 17 94986-8400
+20260028;Henrique Gomes;henrique.gomes.20260028@faculdade.br;030.309.985-53;2005-11-04;2026-02-22;C001;Campinas;MG;ATIVO;+55 17 98261-7238
+20260029;Hugo Cunha Pinto;hugo.cunha.pinto.20260029@aluno.unilago.edu.br;448.031.749-03;2002-06-21;2025-11-10;C006;Vitória;ES;ATIVO;+55 17 99136-6971
+20260030;Lucas Davi Moura;lucas.davi.moura.20260030@academico.edu.br;474.432.582-92;1998-05-07;2025-12-31;C007;Cuiabá;GO;TRANCADO;+55 17 91521-1762
+20260031;Julia Barbosa;julia.barbosa.20260031@aluno.unilago.edu.br;900.413.202-14;2003-04-04;2025-12-04;C001;Brasília;MT;TRANCADO;+55 17 95385-5208
+20260032;Sofia Batista;sofia.batista.20260032@academico.edu.br;329.262.781-38;2002-06-20;2025-12-18;C010;Vitória;MG;ATIVO;+55 17 93689-4580
+20260033;Geovana Ferreira;geovana.ferreira.20260033@academico.edu.br;699.889.983-04;1997-08-21;2026-02-21;C003;Londrina;BA;ATIVO;+55 17 99876-7031
+20260034;Helena Pedro Lima;helena.pedro.lima.20260034@academico.edu.br;401.809.572-21;1997-10-19;2025-11-03;C009;Vitória;CE;TRANCADO;+55 17 99449-9466
+20260035;Lucas Vieira;lucas.vieira.20260035@academico.edu.br;483.080.943-79;2000-05-11;2025-11-18;C009;Cuiabá;PE;ATIVO;+55 17 93142-5416
+20260036;Caio Rafael Rezende;caio.rafael.rezende.20260036@aluno.unilago.edu.br;305.921.464-02;1996-11-16;2026-03-07;C002;Belém;MS;ATIVO;+55 17 92281-1756
+20260037;Fernanda Rezende Almeida;fernanda.rezende.almeida.20260037@faculdade.br;877.803.379-63;1997-04-01;2025-12-14;C006;Brasília;PE;ATIVO;+55 17 98932-8681
+20260038;Maria Moura Correia;maria.moura.correia.20260038@campus.edu.br;316.095.914-08;2002-11-12;2025-12-18;C008;Fortaleza;GO;ATIVO;+55 17 97964-3874
+20260039;Jéssica Farias;jéssica.farias.20260039@academico.edu.br;078.260.332-49;2000-01-06;2025-12-01;C007;Joinville;MG;ATIVO;+55 17 98760-7553
+20260040;Cecilia Pereira;cecilia.pereira.20260040@faculdade.br;171.671.335-09;2007-11-02;2025-11-20;C004;Rio de Janeiro;SP;ATIVO;+55 17 96271-6615
+20260041;Julia Martins Borges;julia.martins.borges.20260041@campus.edu.br;015.603.532-87;2000-12-17;2026-03-15;C006;Campinas;RS;ATIVO;+55 17 93397-1284
+20260042;Karen Monteiro;karen.monteiro.20260042@campus.edu.br;747.144.767-11;2005-08-03;2025-11-11;C007;Curitiba;DF;ATIVO;+55 17 99505-8836
+20260043;Fernanda Azevedo Monteiro;fernanda.azevedo.monteir.20260043@aluno.unilago.edu.br;854.703.406-24;1998-01-16;2026-01-22;C007;Londrina;BA;ATIVO;+55 17 99359-1413
+20260044;Fábio Ribeiro Campos;fábio.ribeiro.campos.20260044@academico.edu.br;051.257.004-13;2004-02-02;2026-01-24;C008;Salvador;PA;ATIVO;+55 17 92538-5298
+20260045;Daniela Maria Moura;daniela.maria.moura.20260045@faculdade.br;715.069.547-53;2007-10-28;2026-02-25;C009;Fortaleza;RS;ATIVO;+55 17 96689-8938
+20260046;Hugo Ferreira Monteiro;hugo.ferreira.monteiro.20260046@aluno.unilago.edu.br;764.527.362-56;2007-09-19;2026-02-08;C001;Campinas;MG;ATIVO;+55 17 98524-5343
+20260047;Rafael Oliveira;rafael.oliveira.20260047@campus.edu.br;852.584.764-64;2002-12-01;2026-02-20;C009;São Paulo;SP;ATIVO;+55 17 99529-9037
+20260048;Gustavo Cunha;gustavo.cunha.20260048@academico.edu.br;277.098.564-19;2002-03-12;2026-02-28;C010;São José do Rio Preto;BA;ATIVO;+55 17 95540-6955
+20260049;Henrique Geovana Castro Nogueira;henrique.geovana.castro.20260049@aluno.unilago.edu.br;940.629.639-71;1996-03-12;2025-11-30;C003;São Paulo;ES;ATIVO;+55 17 99466-2181
+20260050;Geovana Costa;geovana.costa.20260050@academico.edu.br;041.161.894-11;2002-04-03;2025-11-03;C004;Belo Horizonte;DF;ATIVO;+55 17 98532-3368
+20260051;Caio Souza;caio.souza.20260051@campus.edu.br;215.394.784-42;2007-03-10;2026-01-16;C007;Belém;MS;ATIVO;+55 17 99046-1791
+20260052;Daniela Otávio Cardoso Andrade;daniela.otávio.cardoso.a.20260052@aluno.unilago.edu.br;707.314.877-44;1996-04-25;2026-02-22;C009;Cuiabá;PR;ATIVO;+55 17 98113-9558
+20260053;Karen Freitas;karen.freitas.20260053@campus.edu.br;090.546.352-86;2004-01-20;2026-03-15;C010;São José do Rio Preto;GO;ATIVO;+55 17 93727-9382
+20260054;Mariana Patrícia Campos Gomes;mariana.patrícia.campos.20260054@faculdade.br;992.310.032-90;2008-11-25;2026-01-04;C009;Londrina;PE;ATIVO;+55 17 98442-4315
+20260055;André Costa Borges;andré.costa.borges.20260055@academico.edu.br;009.929.262-80;2007-11-12;2025-12-28;C006;Campo Grande;DF;ATIVO;+55 17 99092-8918
+20260056;Yasmin Machado;yasmin.machado.20260056@campus.edu.br;288.049.704-92;1997-05-17;2025-12-27;C004;Rio de Janeiro;GO;ATIVO;+55 17 94283-8143
+20260057;Bianca Melo;bianca.melo.20260057@academico.edu.br;293.383.717-14;2007-07-26;2026-02-27;C002;Curitiba;ES;ATIVO;+55 17 92483-7875
+20260058;Thais Elaine Andrade;thais.elaine.andrade.20260058@campus.edu.br;871.868.341-77;2004-06-26;2026-03-06;C006;Salvador;PE;ATIVO;+55 17 96759-4283
+20260059;Isabela Ursula Ramos Santos;isabela.ursula.ramos.san.20260059@campus.edu.br;820.129.454-42;2005-06-24;2026-03-07;C002;Campo Grande;MT;ATIVO;+55 17 92820-9179
+20260060;Lucas Pinto;lucas.pinto.20260060@academico.edu.br;435.913.023-26;1998-11-07;2025-11-06;C010;Porto Alegre;RS;ATIVO;+55 17 97096-7819
+20260061;Gabriela Ramos Barbosa;gabriela.ramos.barbosa.20260061@aluno.unilago.edu.br;368.575.351-09;1997-09-01;2026-02-04;C005;Brasília;MS;ATIVO;+55 17 91454-1142
+20260062;Karen Gustavo Souza;karen.gustavo.souza.20260062@faculdade.br;858.872.262-27;2008-03-25;2026-01-15;C007;Brasília;MG;TRANCADO;+55 17 97856-7518
+20260063;Daniela Ramos Correia;daniela.ramos.correia.20260063@campus.edu.br;453.546.138-92;2002-08-11;2025-12-03;C005;Salvador;PR;ATIVO;+55 17 92654-7181
+20260064;Renata Araújo Farias;renata.araújo.farias.20260064@faculdade.br;111.974.959-57;2005-03-31;2026-01-23;C010;Cuiabá;SP;ATIVO;+55 17 94080-2971
+20260065;Sofia Moura;sofia.moura.20260065@academico.edu.br;016.432.298-08;2006-01-27;2025-12-27;C004;Salvador;MG;ATIVO;+55 17 98431-3411
+20260066;Isabela Davi Rocha Martins;isabela.davi.rocha.marti.20260066@aluno.unilago.edu.br;262.342.568-99;2005-11-20;2025-12-18;C001;Campo Grande;DF;ATIVO;+55 17 96752-2466
+20260067;Davi Campos Lima;davi.campos.lima.20260067@academico.edu.br;999.194.543-33;2003-07-07;2026-02-24;C005;Joinville;CE;CANCELADO;+55 17 95119-3469
+20260068;Daniela Henrique Machado Lima;daniela.henrique.machado.20260068@faculdade.br;882.245.369-48;1999-05-18;2025-12-19;C010;Goiânia;SP;ATIVO;+55 17 94333-9881
+20260069;Karen Geovana Silva Barbosa;karen.geovana.silva.barb.20260069@faculdade.br;619.178.190-39;1999-01-26;2026-01-03;C010;Salvador;CE;ATIVO;+55 17 99878-9346
+20260070;Rafael Souza;rafael.souza.20260070@aluno.unilago.edu.br;615.993.020-24;2006-02-20;2025-12-30;C001;São José do Rio Preto;RJ;ATIVO;+55 17 92953-5940
+20260071;Daniela Mariana Castro Moura;daniela.mariana.castro.m.20260071@aluno.unilago.edu.br;353.143.612-65;1999-02-27;2026-02-13;C004;Ribeirão Preto;SP;ATIVO;+55 17 91292-4716
+20260072;Carla Cunha Barbosa;carla.cunha.barbosa.20260072@aluno.unilago.edu.br;013.408.911-10;2004-01-20;2025-12-21;C003;Fortaleza;SC;ATIVO;+55 17 98662-3796
+20260073;Patrícia Rocha Nogueira;patrícia.rocha.nogueira.20260073@aluno.unilago.edu.br;067.521.883-69;1998-12-08;2025-11-03;C003;Florianópolis;BA;TRANCADO;+55 17 96045-5499
+20260074;Natália Hugo Correia Costa;natália.hugo.correia.cos.20260074@campus.edu.br;640.266.841-02;2001-01-05;2026-01-14;C005;Goiânia;MG;ATIVO;+55 17 96824-9823
+20260075;Alberto Pinto Cunha;alberto.pinto.cunha.20260075@campus.edu.br;677.762.223-09;2003-06-20;2026-01-06;C010;Fortaleza;RJ;ATIVO;+55 17 94996-5782
+20260076;Alberto Pinto;alberto.pinto.20260076@aluno.unilago.edu.br;084.589.628-19;2006-09-02;2026-01-26;C007;Florianópolis;ES;ATIVO;+55 17 95783-1371
+20260077;Igor Rezende Barbosa;igor.rezende.barbosa.20260077@campus.edu.br;935.670.990-56;1996-09-14;2026-01-12;C010;Rio de Janeiro;RJ;TRANCADO;+55 17 99824-8703
+20260078;Diego Silva;diego.silva.20260078@campus.edu.br;567.381.678-53;1996-04-10;2025-12-04;C003;Ribeirão Preto;MS;ATIVO;+55 17 91563-5309
+20260079;Ursula Almeida Monteiro;ursula.almeida.monteiro.20260079@aluno.unilago.edu.br;704.950.948-05;2008-01-02;2025-12-02;C002;Belo Horizonte;SP;ATIVO;+55 17 96082-9347
+20260080;Henrique Barbosa Melo;henrique.barbosa.melo.20260080@academico.edu.br;331.815.728-18;2005-10-09;2025-11-05;C005;Florianópolis;SC;ATIVO;+55 17 91662-5106
+20260081;Eduarda Santos;eduarda.santos.20260081@campus.edu.br;450.917.009-34;2003-02-22;2026-01-09;C006;Ribeirão Preto;RJ;ATIVO;+55 17 96398-2628
+20260082;Igor Ana Castro Rezende;igor.ana.castro.rezende.20260082@faculdade.br;846.241.239-04;2004-10-15;2025-12-31;C006;Goiânia;GO;TRANCADO;+55 17 97320-6906
+20260083;Diego Gomes Melo;diego.gomes.melo.20260083@aluno.unilago.edu.br;413.566.252-29;2008-08-23;2025-12-05;C003;Campinas;GO;ATIVO;+55 17 99487-9369
+20260084;Tiago Araújo Pereira;tiago.araújo.pereira.20260084@faculdade.br;949.085.256-34;2001-06-08;2026-01-25;C001;Florianópolis;PE;ATIVO;+55 17 92713-9644
+20260085;Irene Lima;irene.lima.20260085@aluno.unilago.edu.br;797.220.101-02;2000-05-19;2025-12-24;C010;Campo Grande;PE;ATIVO;+55 17 94149-7298
+20260086;Vitória Tiago Gomes;vitória.tiago.gomes.20260086@aluno.unilago.edu.br;825.289.898-92;2006-06-30;2025-12-03;C010;Londrina;GO;ATIVO;+55 17 96119-9252
+20260087;Jéssica Hugo Dias;jéssica.hugo.dias.20260087@academico.edu.br;212.493.303-81;2007-11-20;2026-01-11;C004;São Paulo;DF;ATIVO;+55 17 93981-8939
+20260088;Diego Nogueira;diego.nogueira.20260088@campus.edu.br;433.339.223-87;1997-07-10;2025-12-09;C008;Ribeirão Preto;SC;ATIVO;+55 17 91282-8608
+20260089;Elaine Bianca Moura;elaine.bianca.moura.20260089@aluno.unilago.edu.br;034.357.236-89;2001-08-07;2026-02-10;C010;Brasília;MS;ATIVO;+55 17 95706-6432
+20260090;Caio Ferreira;caio.ferreira.20260090@academico.edu.br;606.972.327-12;2001-01-25;2025-12-04;C009;Londrina;PE;ATIVO;+55 17 96878-9577
+20260091;Vitor Carvalho Campos;vitor.carvalho.campos.20260091@campus.edu.br;135.500.947-28;2005-07-10;2025-11-28;C005;São José do Rio Preto;SC;ATIVO;+55 17 95787-8370
+20260092;Henrique Martins;henrique.martins.20260092@academico.edu.br;361.574.957-32;2003-07-20;2026-02-23;C002;Fortaleza;SP;ATIVO;+55 17 97963-4081
+20260093;Alberto Barbosa;alberto.barbosa.20260093@aluno.unilago.edu.br;878.688.501-59;1996-06-13;2025-12-10;C010;Fortaleza;ES;ATIVO;+55 17 94114-6169
+20260094;João Teixeira Batista;joão.teixeira.batista.20260094@academico.edu.br;538.210.939-07;2006-07-21;2026-01-27;C003;Goiânia;SP;ATIVO;+55 17 93290-3156
+20260095;Maria Ferreira;maria.ferreira.20260095@academico.edu.br;766.054.287-07;2007-03-01;2026-01-12;C004;Rio de Janeiro;RJ;ATIVO;+55 17 92781-6937
+20260096;Rafael Pedro Monteiro;rafael.pedro.monteiro.20260096@campus.edu.br;913.197.064-79;1996-02-13;2025-11-22;C001;Porto Alegre;MT;ATIVO;+55 17 99893-3565
+20260097;Jéssica Oliveira;jéssica.oliveira.20260097@faculdade.br;634.374.766-32;2005-10-07;2025-11-09;C010;Fortaleza;ES;CANCELADO;+55 17 94877-6899
+20260098;Pedro Andrade;pedro.andrade.20260098@faculdade.br;208.227.742-68;2000-12-18;2026-01-17;C007;São José do Rio Preto;RJ;ATIVO;+55 17 92473-3026
+20260099;Julia Lima;julia.lima.20260099@academico.edu.br;740.017.653-59;1996-01-31;2026-02-15;C004;Brasília;GO;ATIVO;+55 17 92294-9695
+20260100;Davi Barbosa;davi.barbosa.20260100@faculdade.br;475.582.466-14;2008-04-06;2026-01-10;C009;Cuiabá;SC;ATIVO;+55 17 97278-5069
+20260101;João Rocha Rezende;joão.rocha.rezende.20260101@aluno.unilago.edu.br;875.762.744-80;2001-03-19;2025-11-15;C003;Campinas;BA;ATIVO;+55 17 93577-8004
+20260102;Caio Rezende;caio.rezende.20260102@faculdade.br;746.664.097-27;1998-09-14;2025-11-04;C008;Goiânia;PE;ATIVO;+55 17 93711-6876
+20260103;Vitória Melo;vitória.melo.20260103@aluno.unilago.edu.br;816.877.762-50;2004-10-06;2025-12-24;C009;Goiânia;CE;ATIVO;+55 17 96567-7091
+20260104;Hugo Melo;hugo.melo.20260104@faculdade.br;679.427.439-28;2000-07-25;2026-02-13;C001;Recife;DF;ATIVO;+55 17 97795-2111
+20260105;Vitória Silva;vitória.silva.20260105@campus.edu.br;901.333.494-90;1997-07-17;2026-01-13;C001;Ribeirão Preto;RJ;ATIVO;+55 17 91122-4580
+20260106;André Azevedo Costa;andré.azevedo.costa.20260106@faculdade.br;372.072.582-90;2001-04-02;2026-03-04;C002;Campinas;SC;ATIVO;+55 17 92981-3992
+20260107;Sofia Alberto Almeida;sofia.alberto.almeida.20260107@faculdade.br;435.660.065-21;2006-03-19;2026-01-16;C005;Brasília;MT;ATIVO;+55 17 96292-3523
+20260108;Helena Rezende;helena.rezende.20260108@academico.edu.br;202.178.497-54;2001-12-28;2026-01-19;C010;São Paulo;PE;ATIVO;+55 17 99737-3893
+20260109;Vitor Geovana Souza;vitor.geovana.souza.20260109@campus.edu.br;197.521.147-41;1998-02-18;2026-01-12;C003;Cuiabá;SC;ATIVO;+55 17 96512-2834
+20260110;Leandro Ribeiro;leandro.ribeiro.20260110@faculdade.br;710.144.249-66;1997-10-06;2026-03-11;C001;São José do Rio Preto;PA;TRANCADO;+55 17 93557-4275
+20260111;Lucas Machado Carvalho;lucas.machado.carvalho.20260111@faculdade.br;094.772.920-04;2003-12-25;2026-01-23;C007;Belo Horizonte;RJ;ATIVO;+55 17 98087-2825
+20260112;Daniela Azevedo;daniela.azevedo.20260112@aluno.unilago.edu.br;297.315.787-57;1999-08-04;2025-11-29;C004;Recife;PE;ATIVO;+55 17 95729-3288
+20260113;Yasmin Pinto Martins;yasmin.pinto.martins.20260113@campus.edu.br;894.205.015-08;1997-11-24;2025-11-11;C005;Cuiabá;SP;ATIVO;+55 17 94574-6572
+20260114;Nicolas Moura Campos;nicolas.moura.campos.20260114@aluno.unilago.edu.br;408.461.700-23;2005-10-04;2026-02-19;C005;Vitória;MG;ATIVO;+55 17 95379-7312
+20260115;Diego Nogueira;diego.nogueira.20260115@faculdade.br;029.517.258-37;1996-10-05;2026-01-05;C009;Londrina;PA;ATIVO;+55 17 93984-3517
+20260116;Renata Helena Oliveira Monteiro;renata.helena.oliveira.m.20260116@aluno.unilago.edu.br;681.194.449-08;2003-05-13;2025-11-03;C009;Cuiabá;MG;ATIVO;+55 17 97421-4145
+20260117;Irene Nogueira;irene.nogueira.20260117@campus.edu.br;802.818.051-18;2001-01-19;2025-12-27;C001;Ribeirão Preto;GO;TRANCADO;+55 17 93856-9410
+20260118;Thais Ramos;thais.ramos.20260118@campus.edu.br;455.462.387-16;2004-05-09;2025-11-04;C010;São Paulo;PR;ATIVO;+55 17 94489-6863
+20260119;Diego Farias;diego.farias.20260119@aluno.unilago.edu.br;799.191.653-24;2005-07-02;2026-02-12;C009;Londrina;SC;ATIVO;+55 17 93509-4177
+20260120;Yasmin Melo Borges;yasmin.melo.borges.20260120@aluno.unilago.edu.br;513.345.291-92;2001-02-06;2025-12-07;C008;São Paulo;SC;ATIVO;+55 17 97370-7239
+20260121;Lucas Monteiro Batista;lucas.monteiro.batista.20260121@campus.edu.br;855.736.451-18;2006-04-22;2026-01-08;C001;Belo Horizonte;SP;ATIVO;+55 17 94934-4958
+20260122;Gabriela Ursula Vieira;gabriela.ursula.vieira.20260122@faculdade.br;572.388.583-16;2004-07-05;2025-12-22;C005;Recife;ES;ATIVO;+55 17 95454-6611
+20260123;Pedro Natália Gomes;pedro.natália.gomes.20260123@faculdade.br;404.800.529-43;2006-12-31;2025-12-26;C001;Goiânia;SP;ATIVO;+55 17 95184-6152
+20260124;Fábio Oliveira;fábio.oliveira.20260124@faculdade.br;798.819.793-19;2002-01-24;2026-02-18;C004;Campinas;RS;ATIVO;+55 17 99501-9511
+20260125;Daniela Costa;daniela.costa.20260125@aluno.unilago.edu.br;435.465.789-54;2000-02-21;2025-12-18;C001;Curitiba;PA;ATIVO;+55 17 91098-9220
+20260126;Leandro Ferreira;leandro.ferreira.20260126@academico.edu.br;960.404.583-19;2000-06-24;2025-12-20;C010;Belo Horizonte;SP;ATIVO;+55 17 99241-7922
+20260127;Mariana Helena Melo Barbosa;mariana.helena.melo.barb.20260127@aluno.unilago.edu.br;896.373.730-95;1998-11-05;2026-03-08;C004;Rio de Janeiro;SC;ATIVO;+55 17 98943-4880
+20260128;Gabriela Oliveira Teixeira;gabriela.oliveira.teixei.20260128@faculdade.br;184.898.140-37;2002-09-03;2026-02-06;C008;Vitória;MS;ATIVO;+55 17 91252-7150
+20260129;João Castro Cunha;joão.castro.cunha.20260129@faculdade.br;811.369.775-49;2001-05-10;2026-02-01;C005;Porto Alegre;MG;ATIVO;+55 17 92896-9776
+20260130;Felipe Carvalho Araújo;felipe.carvalho.araújo.20260130@aluno.unilago.edu.br;278.171.118-59;2006-06-25;2026-01-21;C001;Porto Alegre;PR;ATIVO;+55 17 99329-4629
+20260131;Enzo Pinto;enzo.pinto.20260131@aluno.unilago.edu.br;833.835.196-97;2008-03-02;2025-11-30;C007;Salvador;PA;ATIVO;+55 17 94311-3338
+20260132;Thais Pinto;thais.pinto.20260132@campus.edu.br;008.671.377-11;2001-03-03;2025-12-15;C004;Campo Grande;PR;ATIVO;+55 17 97578-8961
+20260133;Gustavo Karen Castro;gustavo.karen.castro.20260133@faculdade.br;030.159.607-53;2003-05-28;2026-01-04;C008;Fortaleza;CE;ATIVO;+55 17 96762-7502
+20260134;Caio Pinto;caio.pinto.20260134@campus.edu.br;417.745.852-30;2004-04-17;2025-11-07;C004;Vitória;BA;ATIVO;+55 17 93959-5903
+20260135;Gabriela Vieira;gabriela.vieira.20260135@campus.edu.br;003.256.790-04;2002-01-04;2025-12-20;C009;Fortaleza;SC;ATIVO;+55 17 97855-9019
+20260136;Karen André Araújo;karen.andré.araújo.20260136@academico.edu.br;053.152.384-42;2003-12-08;2026-01-20;C002;Londrina;PE;ATIVO;+55 17 91755-5136
+20260137;Igor Barbosa Rocha;igor.barbosa.rocha.20260137@faculdade.br;457.024.626-53;2001-03-22;2026-02-28;C009;Recife;RS;ATIVO;+55 17 91586-3076
+20260138;Gabriela Samuel Correia Andrade;gabriela.samuel.correia.20260138@academico.edu.br;304.708.982-53;2002-04-01;2025-11-11;C008;Salvador;PR;ATIVO;+55 17 91392-2335
+20260139;Otávio Rocha;otávio.rocha.20260139@aluno.unilago.edu.br;649.422.167-60;2000-05-16;2026-03-04;C010;Rio de Janeiro;CE;ATIVO;+55 17 98240-1651
+20260140;Cecilia Dias Azevedo;cecilia.dias.azevedo.20260140@faculdade.br;043.090.927-67;2005-05-10;2026-01-12;C007;Porto Alegre;GO;ATIVO;+55 17 94063-4148
+20260141;Pedro Henrique Cardoso;pedro.henrique.cardoso.20260141@faculdade.br;207.945.089-95;2006-11-20;2026-02-07;C001;Cuiabá;MS;ATIVO;+55 17 94453-8783
+20260142;Geovana Ferreira;geovana.ferreira.20260142@faculdade.br;060.340.052-31;2006-12-12;2026-03-04;C001;Campo Grande;MT;ATIVO;+55 17 95320-1484
+20260143;Fábio Cardoso Correia;fábio.cardoso.correia.20260143@academico.edu.br;676.605.041-61;2006-02-21;2025-11-30;C001;Rio de Janeiro;RJ;ATIVO;+55 17 99170-3930
+20260144;Leandro Monteiro Moreira;leandro.monteiro.moreira.20260144@aluno.unilago.edu.br;660.406.526-42;2008-03-22;2025-12-07;C001;Goiânia;BA;ATIVO;+55 17 96358-9810
+20260145;Gabriela Cecilia Machado;gabriela.cecilia.machado.20260145@faculdade.br;308.338.484-15;1996-09-23;2025-11-20;C007;Joinville;RS;ATIVO;+55 17 95671-2397
+20260146;Karen Yasmin Cunha Gomes;karen.yasmin.cunha.gomes.20260146@faculdade.br;724.749.881-85;2003-09-09;2026-03-08;C003;Salvador;RJ;ATIVO;+55 17 99933-9524
+20260147;Sofia Fábio Campos;sofia.fábio.campos.20260147@academico.edu.br;196.081.062-93;2001-08-11;2025-12-25;C010;Florianópolis;MG;ATIVO;+55 17 96542-2053
+20260148;Alberto Carvalho;alberto.carvalho.20260148@campus.edu.br;671.883.844-86;2004-12-02;2025-12-09;C003;Salvador;PR;ATIVO;+55 17 96960-7969
+20260149;Samuel Campos;samuel.campos.20260149@aluno.unilago.edu.br;984.101.204-96;2004-09-11;2025-12-30;C008;São Paulo;SP;ATIVO;+55 17 98345-4284
+20260150;Geovana Silva;geovana.silva.20260150@faculdade.br;817.541.749-05;2002-01-15;2025-12-12;C005;Rio de Janeiro;ES;ATIVO;+55 17 97782-6033
+20260151;Felipe Dias;felipe.dias.20260151@faculdade.br;970.792.430-43;2002-05-12;2026-02-22;C003;Rio de Janeiro;PA;ATIVO;+55 17 93769-6284
+20260152;Hugo Monteiro Moura;hugo.monteiro.moura.20260152@aluno.unilago.edu.br;758.273.816-80;2002-12-21;2026-01-21;C005;Goiânia;SC;ATIVO;+55 17 97500-6829
+20260153;Mariana Machado;mariana.machado.20260153@academico.edu.br;818.881.946-16;1998-12-27;2025-11-21;C004;Recife;SP;ATIVO;+55 17 97948-5892
+20260154;Igor Batista;igor.batista.20260154@academico.edu.br;535.827.818-87;2007-10-14;2026-02-22;C006;Florianópolis;MT;ATIVO;+55 17 98793-4101
+20260155;Fernanda Santos;fernanda.santos.20260155@academico.edu.br;385.197.834-93;2005-03-28;2026-02-07;C009;Salvador;RS;ATIVO;+55 17 95465-6136
+20260156;Felipe Guimarães;felipe.guimarães.20260156@campus.edu.br;777.721.375-57;2003-12-02;2026-02-26;C001;Campo Grande;DF;TRANCADO;+55 17 97875-7939
+20260157;Lucas Ferreira;lucas.ferreira.20260157@academico.edu.br;115.388.431-04;1996-02-29;2026-01-05;C006;Joinville;RS;ATIVO;+55 17 94032-9522
+20260158;Helena Barbosa;helena.barbosa.20260158@aluno.unilago.edu.br;679.858.796-60;2000-02-23;2025-11-01;C004;Brasília;SC;ATIVO;+55 17 96664-9303
+20260159;Ursula Campos;ursula.campos.20260159@campus.edu.br;319.181.983-30;2002-11-12;2025-11-23;C005;Porto Alegre;RJ;ATIVO;+55 17 98038-8931
+20260160;Ana Andrade;ana.andrade.20260160@aluno.unilago.edu.br;989.844.803-55;2007-09-29;2025-11-11;C002;Fortaleza;PR;ATIVO;+55 17 92768-1775
+20260161;Felipe Vieira;felipe.vieira.20260161@campus.edu.br;365.488.481-70;2000-12-25;2026-01-21;C001;Rio de Janeiro;MT;ATIVO;+55 17 95031-2660
+20260162;Diego Souza;diego.souza.20260162@academico.edu.br;016.274.945-32;2008-07-01;2026-01-19;C010;Campinas;SP;TRANCADO;+55 17 99359-9461
+20260163;Samuel Vieira Vieira;samuel.vieira.vieira.20260163@campus.edu.br;118.792.044-76;2000-07-10;2025-12-01;C003;Belém;MS;ATIVO;+55 17 99888-5815
+20260164;Diego Moura Carvalho;diego.moura.carvalho.20260164@aluno.unilago.edu.br;659.207.032-21;1996-10-26;2026-02-14;C004;Recife;SP;ATIVO;+55 17 95511-8640
+20260165;Otávio Monteiro;otávio.monteiro.20260165@faculdade.br;825.918.424-77;1997-12-12;2025-11-30;C001;Goiânia;MT;ATIVO;+55 17 97793-1565
+20260166;Alberto Costa;alberto.costa.20260166@academico.edu.br;468.163.296-09;2005-09-21;2026-02-15;C004;Vitória;PA;ATIVO;+55 17 96354-3013
+20260167;Otávio Maria Lima;otávio.maria.lima.20260167@aluno.unilago.edu.br;543.832.587-76;2004-04-10;2025-12-15;C007;Vitória;RJ;ATIVO;+55 17 98556-9638
+20260168;Vitória Jéssica Cunha Araújo;vitória.jéssica.cunha.ar.20260168@academico.edu.br;496.735.585-24;1997-07-02;2026-01-12;C001;Belo Horizonte;RS;ATIVO;+55 17 98140-5516
+20260169;Bruno André Cunha Moura;bruno.andré.cunha.moura.20260169@aluno.unilago.edu.br;872.236.018-70;1996-03-07;2025-11-08;C003;São Paulo;BA;ATIVO;+55 17 99151-4053
+20260170;Samuel Santos;samuel.santos.20260170@aluno.unilago.edu.br;937.551.518-29;1999-01-29;2026-01-29;C004;Belém;BA;ATIVO;+55 17 95228-3482
+20260171;Jéssica Ferreira Cunha;jéssica.ferreira.cunha.20260171@aluno.unilago.edu.br;781.516.814-11;2005-10-17;2026-01-08;C009;Porto Alegre;PA;TRANCADO;+55 17 91219-1465
+20260172;Davi Carvalho Gomes;davi.carvalho.gomes.20260172@academico.edu.br;984.610.263-79;1997-02-04;2025-11-12;C002;Joinville;BA;ATIVO;+55 17 91599-9156
+20260173;Otávio Castro;otávio.castro.20260173@aluno.unilago.edu.br;595.984.913-38;2005-08-26;2025-12-27;C010;Fortaleza;MG;ATIVO;+55 17 94438-5650
+20260174;Hugo Monteiro;hugo.monteiro.20260174@academico.edu.br;048.880.783-76;2000-07-19;2026-01-01;C004;Joinville;CE;ATIVO;+55 17 96513-7897
+20260175;Eduarda Diego Dias Moura;eduarda.diego.dias.moura.20260175@aluno.unilago.edu.br;143.060.341-24;2000-03-08;2026-03-13;C001;Campo Grande;SC;ATIVO;+55 17 94368-2564
+20260176;Fábio Dias Moura;fábio.dias.moura.20260176@faculdade.br;417.953.774-44;2000-01-23;2026-01-04;C004;Cuiabá;GO;TRANCADO;+55 17 93750-1156
+20260177;Vitória Leandro Costa;vitória.leandro.costa.20260177@faculdade.br;932.149.305-30;2005-03-23;2026-01-22;C001;Campinas;PR;TRANCADO;+55 17 95781-1775
+20260178;Isabela Campos;isabela.campos.20260178@faculdade.br;031.034.470-84;2003-02-05;2026-02-22;C001;Salvador;PR;ATIVO;+55 17 93489-5472
+20260179;Bruno Freitas Borges;bruno.freitas.borges.20260179@campus.edu.br;714.035.127-28;2001-01-01;2025-11-22;C004;Vitória;BA;ATIVO;+55 17 99676-9709
+20260180;Geovana Ferreira;geovana.ferreira.20260180@faculdade.br;090.941.749-75;2006-04-04;2025-11-27;C002;Porto Alegre;ES;ATIVO;+55 17 99013-4823
+20260181;Bruno Otávio Moura;bruno.otávio.moura.20260181@academico.edu.br;696.331.014-98;2003-12-25;2025-12-02;C010;Joinville;BA;ATIVO;+55 17 97433-1285
+20260182;Nicolas Lima;nicolas.lima.20260182@faculdade.br;875.064.324-06;1998-04-04;2026-01-07;C009;Vitória;MS;ATIVO;+55 17 98973-1215
+20260183;Eduarda Azevedo Farias;eduarda.azevedo.farias.20260183@aluno.unilago.edu.br;829.996.461-02;1998-04-28;2026-02-05;C009;Brasília;GO;ATIVO;+55 17 98140-4500
+20260184;Samuel Souza Lima;samuel.souza.lima.20260184@campus.edu.br;545.618.043-52;2004-07-01;2025-11-25;C007;Recife;ES;ATIVO;+55 17 98771-3579
+20260185;Sofia Silva;sofia.silva.20260185@campus.edu.br;769.781.705-03;1997-04-04;2026-02-19;C003;Curitiba;SC;ATIVO;+55 17 96333-6870
+20260186;Lucas Araújo Cardoso;lucas.araújo.cardoso.20260186@academico.edu.br;564.267.182-66;2001-05-07;2026-03-04;C003;Brasília;RJ;ATIVO;+55 17 91931-9091
+20260187;Otávio Moura Campos;otávio.moura.campos.20260187@aluno.unilago.edu.br;081.871.566-45;1998-04-28;2026-01-18;C004;Florianópolis;MS;ATIVO;+55 17 95675-6928
+20260188;Daniela Rocha Rezende;daniela.rocha.rezende.20260188@aluno.unilago.edu.br;090.278.022-17;2001-11-23;2026-02-23;C006;Goiânia;MG;ATIVO;+55 17 97439-2657
+20260189;Karen Nogueira;karen.nogueira.20260189@aluno.unilago.edu.br;365.559.462-60;2003-09-24;2025-12-10;C006;Curitiba;GO;ATIVO;+55 17 94360-3655
+20260190;Davi Barbosa Guimarães;davi.barbosa.guimarães.20260190@academico.edu.br;743.041.627-65;2004-03-04;2026-03-15;C008;Salvador;DF;ATIVO;+55 17 95013-5624
+20260191;Yasmin Maria Ribeiro Cardoso;yasmin.maria.ribeiro.car.20260191@faculdade.br;586.469.659-68;1997-02-10;2025-12-31;C009;São Paulo;RJ;TRANCADO;+55 17 96358-8907
+20260192;Karen Nogueira;karen.nogueira.20260192@academico.edu.br;612.801.708-24;2003-04-05;2026-02-13;C006;Florianópolis;MS;ATIVO;+55 17 95765-1005
+20260193;Isabela Batista;isabela.batista.20260193@campus.edu.br;933.101.071-24;2007-07-15;2025-11-19;C004;Cuiabá;PE;ATIVO;+55 17 92201-5443
+20260194;Fernanda Martins;fernanda.martins.20260194@aluno.unilago.edu.br;174.176.866-05;2006-07-15;2026-03-14;C010;Belém;PR;ATIVO;+55 17 93375-8322
+20260195;Irene Silva Borges;irene.silva.borges.20260195@academico.edu.br;172.349.318-61;1996-10-28;2025-12-15;C001;São José do Rio Preto;MS;ATIVO;+55 17 92444-6286
+20260196;Bruno Carvalho;bruno.carvalho.20260196@academico.edu.br;239.057.071-95;1997-09-15;2026-02-11;C010;Curitiba;PR;ATIVO;+55 17 92253-2535
+20260197;Geovana Araújo;geovana.araújo.20260197@campus.edu.br;437.977.867-39;2001-02-21;2026-01-21;C002;Brasília;MT;ATIVO;+55 17 97663-9887
+20260198;Rafael Sofia Correia;rafael.sofia.correia.20260198@faculdade.br;241.707.726-06;2002-07-16;2026-02-08;C008;Campinas;SP;ATIVO;+55 17 97425-7376
+20260199;Fernanda Jéssica Almeida;fernanda.jéssica.almeida.20260199@faculdade.br;628.120.132-85;1997-05-18;2026-02-12;C007;São José do Rio Preto;MS;ATIVO;+55 17 91911-6662
+20260200;Elaine Souza;elaine.souza.20260200@aluno.unilago.edu.br;031.845.594-74;1996-10-31;2025-12-14;C009;Rio de Janeiro;SP;ATIVO;+55 17 98731-7810
+20260201;Gustavo Karen Machado;gustavo.karen.machado.20260201@faculdade.br;642.512.208-87;2006-05-29;2026-01-12;C007;Recife;ES;ATIVO;+55 17 95865-9442
+20260202;Otávio Souza;otávio.souza.20260202@campus.edu.br;704.804.782-38;2007-03-02;2025-11-05;C009;São José do Rio Preto;MG;ATIVO;+55 17 92145-5952
+20260203;Maria Vieira;maria.vieira.20260203@campus.edu.br;584.965.046-40;2007-10-22;2025-12-02;C001;Cuiabá;RS;ATIVO;+55 17 94204-4590
+20260204;Yasmin Davi Moreira;yasmin.davi.moreira.20260204@faculdade.br;491.329.742-14;2008-05-30;2025-11-13;C008;Porto Alegre;DF;TRANCADO;+55 17 91753-2429
+20260205;André Gabriela Andrade;andré.gabriela.andrade.20260205@aluno.unilago.edu.br;266.715.123-24;1996-08-07;2026-02-23;C006;São José do Rio Preto;SP;ATIVO;+55 17 91046-9112
+20260206;Ana Costa Castro;ana.costa.castro.20260206@academico.edu.br;935.437.404-55;2002-08-29;2025-12-15;C008;Curitiba;MS;ATIVO;+55 17 94007-6972
+20260207;Thais Barbosa;thais.barbosa.20260207@aluno.unilago.edu.br;652.218.402-11;1998-03-09;2025-11-15;C004;Cuiabá;RS;ATIVO;+55 17 92939-6091
+20260208;Ana Farias;ana.farias.20260208@academico.edu.br;717.125.130-63;2002-11-29;2026-01-09;C002;Florianópolis;RJ;ATIVO;+55 17 93715-7643
+20260209;Karen Borges Farias;karen.borges.farias.20260209@faculdade.br;233.857.696-67;2008-07-31;2025-11-05;C002;Londrina;PR;ATIVO;+55 17 99673-1835
+20260210;Fernanda Ribeiro Teixeira;fernanda.ribeiro.teixeir.20260210@academico.edu.br;916.478.941-94;2005-02-06;2026-03-02;C002;Goiânia;RJ;ATIVO;+55 17 99742-7672
+20260211;Nicolas Carvalho;nicolas.carvalho.20260211@campus.edu.br;772.458.207-14;1997-08-09;2025-11-01;C003;Salvador;SC;ATIVO;+55 17 99157-7113
+20260212;Gabriela Beatriz Oliveira;gabriela.beatriz.oliveir.20260212@academico.edu.br;297.022.556-69;2006-03-19;2025-11-19;C007;São José do Rio Preto;ES;ATIVO;+55 17 98067-2941
+20260213;Fernanda Rezende Cunha;fernanda.rezende.cunha.20260213@faculdade.br;795.776.660-70;2001-03-01;2026-01-12;C003;Fortaleza;SC;ATIVO;+55 17 94900-6835
+20260214;Daniela Ramos Machado;daniela.ramos.machado.20260214@academico.edu.br;053.682.019-92;2007-04-05;2026-01-06;C008;São José do Rio Preto;BA;ATIVO;+55 17 99550-1615
+20260215;Bruno Azevedo;bruno.azevedo.20260215@aluno.unilago.edu.br;535.626.419-12;2005-09-06;2025-11-04;C009;Curitiba;ES;ATIVO;+55 17 96688-1315
+20260216;Fábio Martins Machado;fábio.martins.machado.20260216@academico.edu.br;371.451.467-46;2008-01-30;2026-01-29;C010;Fortaleza;RJ;ATIVO;+55 17 96775-7722
+20260217;Ana Teixeira;ana.teixeira.20260217@aluno.unilago.edu.br;227.737.894-46;2000-05-19;2026-01-12;C006;Cuiabá;BA;ATIVO;+55 17 91495-2185
+20260218;Vitor Isabela Borges;vitor.isabela.borges.20260218@faculdade.br;357.165.141-72;2004-02-18;2025-12-19;C005;Campo Grande;PE;ATIVO;+55 17 92499-8623
+20260219;Bruno Cardoso;bruno.cardoso.20260219@academico.edu.br;973.194.800-50;2007-08-03;2026-01-01;C010;São José do Rio Preto;GO;ATIVO;+55 17 91072-9112
+20260220;Igor Monteiro;igor.monteiro.20260220@faculdade.br;589.157.039-85;1999-08-12;2025-12-29;C006;Porto Alegre;PR;ATIVO;+55 17 96247-9999
+20260221;Nicolas Cardoso Ferreira;nicolas.cardoso.ferreira.20260221@faculdade.br;236.149.173-84;2005-08-05;2026-02-01;C005;Campo Grande;MS;ATIVO;+55 17 93643-8028
+20260222;Bianca Pereira Santos;bianca.pereira.santos.20260222@faculdade.br;557.615.708-53;1998-12-03;2026-02-25;C009;Joinville;BA;ATIVO;+55 17 95377-1178
+20260223;Cecilia Almeida Teixeira;cecilia.almeida.teixeira.20260223@campus.edu.br;651.186.659-65;2001-09-17;2026-03-07;C007;Londrina;SP;ATIVO;+55 17 96368-2069
+20260224;Maria Farias Gomes;maria.farias.gomes.20260224@aluno.unilago.edu.br;824.468.380-91;2005-01-24;2025-12-04;C007;Cuiabá;PR;ATIVO;+55 17 95166-7175
+20260225;Cecilia Guimarães Rezende;cecilia.guimarães.rezend.20260225@faculdade.br;018.586.608-06;2003-08-22;2026-01-30;C008;Belo Horizonte;RS;ATIVO;+55 17 93196-2353
+20260226;Karen Gomes Dias;karen.gomes.dias.20260226@academico.edu.br;523.943.068-65;2006-06-18;2025-12-05;C009;Cuiabá;BA;ATIVO;+55 17 97588-8614
+20260227;João Hugo Borges;joão.hugo.borges.20260227@aluno.unilago.edu.br;468.686.037-62;2006-08-14;2025-12-14;C010;Brasília;BA;ATIVO;+55 17 92035-8972
+20260228;Geovana Oliveira Teixeira;geovana.oliveira.teixeir.20260228@campus.edu.br;680.682.102-58;1999-03-23;2026-01-17;C005;Porto Alegre;RJ;TRANCADO;+55 17 94501-9322
+20260229;Davi Vieira;davi.vieira.20260229@faculdade.br;342.074.087-17;2001-02-09;2025-11-01;C005;Florianópolis;RS;ATIVO;+55 17 98559-5749
+20260230;Bruno Leandro Pereira;bruno.leandro.pereira.20260230@aluno.unilago.edu.br;995.648.120-70;2002-06-22;2026-02-08;C002;São Paulo;RS;ATIVO;+55 17 96523-9935
+20260231;Bruno Santos Souza;bruno.santos.souza.20260231@aluno.unilago.edu.br;351.485.846-82;1998-06-30;2026-01-09;C009;Rio de Janeiro;SP;ATIVO;+55 17 94428-3407
+20260232;Daniela Araújo;daniela.araújo.20260232@faculdade.br;159.446.577-90;2005-09-07;2026-01-23;C001;Recife;MT;ATIVO;+55 17 94078-5290
+20260233;Henrique Carvalho;henrique.carvalho.20260233@campus.edu.br;942.315.551-62;1997-10-09;2025-11-19;C004;São Paulo;DF;ATIVO;+55 17 96252-6466
+20260234;Pedro Teixeira Campos;pedro.teixeira.campos.20260234@academico.edu.br;400.150.420-99;2005-08-14;2026-03-13;C001;Ribeirão Preto;PA;TRANCADO;+55 17 95464-4829
+20260235;Jéssica Ribeiro;jéssica.ribeiro.20260235@academico.edu.br;584.668.527-52;2004-05-18;2025-11-01;C002;Campo Grande;PE;ATIVO;+55 17 98917-2981
+20260236;Vitor Rezende Freitas;vitor.rezende.freitas.20260236@aluno.unilago.edu.br;989.292.319-03;2008-07-12;2025-11-14;C005;Florianópolis;MG;ATIVO;+55 17 94296-6496
+20260237;Tiago Oliveira;tiago.oliveira.20260237@campus.edu.br;633.548.414-70;2006-07-27;2026-02-24;C005;Goiânia;SC;ATIVO;+55 17 91290-9149
+20260238;Cecilia Teixeira Santos;cecilia.teixeira.santos.20260238@campus.edu.br;417.865.413-77;1996-03-25;2026-03-10;C005;Porto Alegre;PE;ATIVO;+55 17 96728-8971
+20260239;Renata Costa;renata.costa.20260239@faculdade.br;103.738.019-07;2004-11-17;2026-02-05;C006;Rio de Janeiro;DF;ATIVO;+55 17 99656-3474
+20260240;Leandro Melo Andrade;leandro.melo.andrade.20260240@academico.edu.br;426.401.014-18;2006-02-26;2025-11-27;C010;Fortaleza;GO;ATIVO;+55 17 94723-2617
+20260241;Mariana Dias;mariana.dias.20260241@academico.edu.br;318.404.757-67;2007-11-08;2026-01-16;C003;São José do Rio Preto;MT;ATIVO;+55 17 91546-8709
+20260242;Hugo Souza;hugo.souza.20260242@academico.edu.br;047.549.157-27;2008-12-21;2026-01-14;C003;Porto Alegre;SC;ATIVO;+55 17 97483-3966
+20260243;Alberto Borges;alberto.borges.20260243@faculdade.br;310.995.266-76;2001-11-29;2025-11-15;C009;Rio de Janeiro;CE;ATIVO;+55 17 99178-7615
+20260244;Beatriz Ribeiro;beatriz.ribeiro.20260244@aluno.unilago.edu.br;824.120.584-73;2005-12-02;2025-11-23;C008;Porto Alegre;ES;ATIVO;+55 17 99834-4708
+20260245;Leandro Correia;leandro.correia.20260245@faculdade.br;333.200.246-06;1997-12-28;2026-02-03;C004;Londrina;SP;ATIVO;+55 17 94889-9966
+20260246;Enzo Campos Campos;enzo.campos.campos.20260246@campus.edu.br;222.431.486-87;2004-07-03;2026-01-17;C008;Brasília;DF;ATIVO;+55 17 93427-3321
+20260247;Fábio Moura;fábio.moura.20260247@aluno.unilago.edu.br;663.538.952-16;2001-08-19;2025-12-17;C002;Londrina;PA;ATIVO;+55 17 97834-7459
+20260248;Mariana Vieira;mariana.vieira.20260248@academico.edu.br;573.513.918-24;2004-10-12;2025-12-17;C005;Rio de Janeiro;DF;ATIVO;+55 17 99473-1914
+20260249;Rafael Karen Moreira;rafael.karen.moreira.20260249@aluno.unilago.edu.br;843.235.717-10;2007-07-02;2026-02-13;C009;São Paulo;SC;ATIVO;+55 17 98177-5262
+20260250;Gabriela Vieira Martins;gabriela.vieira.martins.20260250@faculdade.br;656.805.078-59;2004-11-30;2026-01-13;C008;Belém;BA;ATIVO;+55 17 98316-1124
+20260251;Jéssica Silva Vieira;jéssica.silva.vieira.20260251@campus.edu.br;217.531.958-01;2006-08-15;2026-03-01;C007;Brasília;PE;ATIVO;+55 17 93719-9833
+20260252;Beatriz Rafael Vieira;beatriz.rafael.vieira.20260252@academico.edu.br;519.315.089-45;1998-03-08;2026-03-13;C001;São José do Rio Preto;PE;ATIVO;+55 17 96531-7902
+20260253;Tiago Freitas Moura;tiago.freitas.moura.20260253@faculdade.br;618.335.799-64;2007-05-03;2025-12-17;C002;Belém;CE;ATIVO;+55 17 96628-9671
+20260254;Lucas Julia Andrade Gomes;lucas.julia.andrade.gome.20260254@academico.edu.br;931.724.276-88;2005-01-24;2025-11-20;C001;Campo Grande;PA;TRANCADO;+55 17 92870-6015
+20260255;Irene João Araújo;irene.joão.araújo.20260255@academico.edu.br;553.622.060-16;1999-04-05;2025-11-23;C006;Rio de Janeiro;MT;ATIVO;+55 17 99902-2516
+20260256;Geovana Almeida Moura;geovana.almeida.moura.20260256@academico.edu.br;015.136.256-75;2005-09-10;2025-11-09;C009;Curitiba;RJ;ATIVO;+55 17 98336-4909
+20260257;Bianca Vieira;bianca.vieira.20260257@faculdade.br;921.360.426-90;2003-05-11;2026-01-14;C009;Belém;CE;ATIVO;+55 17 97493-1527
+20260258;Jéssica Eduarda Pinto;jéssica.eduarda.pinto.20260258@campus.edu.br;367.931.276-49;1997-12-04;2025-11-13;C003;Curitiba;ES;ATIVO;+55 17 91972-2303
+20260259;Patrícia Teixeira Araújo;patrícia.teixeira.araújo.20260259@academico.edu.br;130.634.751-38;1998-05-03;2026-01-22;C005;Florianópolis;MT;ATIVO;+55 17 91923-1170
+20260260;Jéssica Otávio Correia;jéssica.otávio.correia.20260260@academico.edu.br;129.034.645-65;2003-10-20;2026-02-04;C004;Porto Alegre;RJ;ATIVO;+55 17 93634-4666
+20260261;Jéssica Teixeira;jéssica.teixeira.20260261@campus.edu.br;268.796.041-30;2003-06-24;2026-01-13;C008;Salvador;RS;ATIVO;+55 17 91255-5343
+20260262;Diego Rocha Nogueira;diego.rocha.nogueira.20260262@aluno.unilago.edu.br;993.601.142-32;1998-12-03;2025-11-20;C002;Curitiba;PA;ATIVO;+55 17 94174-8547
+20260263;Samuel Ribeiro;samuel.ribeiro.20260263@campus.edu.br;539.835.991-06;1997-12-09;2025-12-15;C006;Recife;PE;ATIVO;+55 17 91084-1629
+20260264;Mariana Moreira Almeida;mariana.moreira.almeida.20260264@aluno.unilago.edu.br;152.863.280-43;2007-07-10;2025-12-19;C005;Joinville;MT;ATIVO;+55 17 99960-2236
+20260265;Vitória Ribeiro;vitória.ribeiro.20260265@aluno.unilago.edu.br;438.588.510-17;1996-12-30;2025-12-23;C002;Goiânia;RJ;ATIVO;+55 17 96606-8113
+20260266;Irene Renata Souza;irene.renata.souza.20260266@faculdade.br;586.835.899-69;1997-11-21;2025-11-14;C005;Campinas;MS;ATIVO;+55 17 99218-6402
+20260267;Eduarda Correia Borges;eduarda.correia.borges.20260267@faculdade.br;608.205.850-30;2007-05-13;2025-11-08;C004;Brasília;PR;ATIVO;+55 17 93619-4324
+20260268;Irene Azevedo Lima;irene.azevedo.lima.20260268@faculdade.br;457.879.391-08;1999-07-13;2026-02-22;C002;Cuiabá;SP;ATIVO;+55 17 93971-4552
+20260269;Sofia Freitas;sofia.freitas.20260269@aluno.unilago.edu.br;667.986.198-28;2006-12-18;2025-11-16;C001;Brasília;SC;ATIVO;+55 17 91040-4403
+20260270;Samuel Felipe Machado;samuel.felipe.machado.20260270@aluno.unilago.edu.br;359.403.540-01;2002-04-25;2025-11-02;C002;Goiânia;MT;TRANCADO;+55 17 95026-6182
+20260271;Hugo Renata Andrade;hugo.renata.andrade.20260271@academico.edu.br;187.770.268-07;1998-12-07;2026-03-12;C001;São Paulo;PA;ATIVO;+55 17 97892-5657
+20260272;Carla Ramos Azevedo;carla.ramos.azevedo.20260272@faculdade.br;155.252.616-01;2000-04-29;2025-11-01;C008;Belém;ES;TRANCADO;+55 17 95473-1523
+20260273;Maria André Farias;maria.andré.farias.20260273@campus.edu.br;991.753.157-86;1999-03-20;2026-03-11;C006;Salvador;MT;ATIVO;+55 17 92500-7128
+20260274;Jéssica Correia Castro;jéssica.correia.castro.20260274@faculdade.br;062.515.894-91;2008-02-05;2025-12-12;C010;Joinville;CE;TRANCADO;+55 17 91748-3618
+20260275;Ana Araújo;ana.araújo.20260275@campus.edu.br;777.806.890-58;1997-07-15;2025-11-17;C003;Belo Horizonte;CE;ATIVO;+55 17 93073-8566
+20260276;Cecilia Cunha Teixeira;cecilia.cunha.teixeira.20260276@academico.edu.br;010.933.082-62;2007-01-07;2026-01-16;C003;Campinas;MG;ATIVO;+55 17 94578-1922
+20260277;Bruno Nogueira Souza;bruno.nogueira.souza.20260277@campus.edu.br;432.040.412-38;2008-04-17;2026-01-05;C005;Florianópolis;MS;ATIVO;+55 17 91324-7354
+20260278;Bruno Ferreira;bruno.ferreira.20260278@aluno.unilago.edu.br;646.281.504-26;2005-05-03;2026-01-16;C008;Goiânia;PE;ATIVO;+55 17 92493-1651
+20260279;Fábio Igor Teixeira;fábio.igor.teixeira.20260279@academico.edu.br;597.978.849-49;2006-04-04;2026-01-11;C002;Florianópolis;GO;ATIVO;+55 17 94543-9564
+20260280;Carla Ramos;carla.ramos.20260280@campus.edu.br;096.289.642-21;1997-06-23;2026-03-02;C002;Belém;RS;ATIVO;+55 17 91468-4268
+20260281;Hugo Machado Ramos;hugo.machado.ramos.20260281@aluno.unilago.edu.br;358.434.890-52;2002-02-07;2025-11-13;C009;Curitiba;PR;ATIVO;+55 17 97945-6578
+20260282;Renata Freitas;renata.freitas.20260282@campus.edu.br;480.735.084-52;1996-02-10;2026-01-11;C010;Joinville;PE;TRANCADO;+55 17 92744-8719
+20260283;Helena Otávio Nogueira Barbosa;helena.otávio.nogueira.b.20260283@aluno.unilago.edu.br;622.191.595-10;2006-03-25;2026-01-05;C009;São Paulo;SP;ATIVO;+55 17 95357-2194
+20260284;Carla Thais Pereira;carla.thais.pereira.20260284@aluno.unilago.edu.br;217.359.576-33;2002-06-17;2026-01-30;C008;Belo Horizonte;BA;ATIVO;+55 17 92097-3050
+20260285;Leandro Lucas Moreira;leandro.lucas.moreira.20260285@academico.edu.br;099.614.720-05;2007-07-02;2026-01-01;C009;Belo Horizonte;RS;ATIVO;+55 17 94109-7483
+20260286;Renata Vitor Pereira;renata.vitor.pereira.20260286@academico.edu.br;459.186.766-17;1997-03-04;2026-03-02;C004;Brasília;CE;ATIVO;+55 17 95011-3654
+20260287;Helena Isabela Cunha;helena.isabela.cunha.20260287@academico.edu.br;234.601.901-80;2008-09-12;2025-11-27;C001;Belo Horizonte;MS;ATIVO;+55 17 93389-6889
+20260288;André Ana Nogueira;andré.ana.nogueira.20260288@faculdade.br;572.564.679-09;2006-06-01;2026-02-02;C006;São José do Rio Preto;PE;ATIVO;+55 17 98399-7329
+20260289;Nicolas Silva;nicolas.silva.20260289@campus.edu.br;222.199.999-59;1999-08-02;2026-01-06;C003;Rio de Janeiro;MT;ATIVO;+55 17 95501-9237
+20260290;Maria André Souza;maria.andré.souza.20260290@aluno.unilago.edu.br;934.876.169-60;2005-02-26;2025-11-07;C010;Florianópolis;PE;ATIVO;+55 17 96231-5550
+20260291;Leandro Karen Barbosa;leandro.karen.barbosa.20260291@campus.edu.br;561.177.751-76;2004-09-23;2025-12-11;C001;Rio de Janeiro;PE;ATIVO;+55 17 93126-7989
+20260292;Pedro Alberto Batista;pedro.alberto.batista.20260292@faculdade.br;771.368.692-57;1996-09-23;2025-11-07;C003;Campinas;MS;ATIVO;+55 17 93810-3204
+20260293;Sofia Vieira;sofia.vieira.20260293@faculdade.br;388.263.070-64;2008-12-07;2025-12-11;C009;Belém;ES;ATIVO;+55 17 99686-5625
+20260294;Samuel Fernanda Teixeira;samuel.fernanda.teixeira.20260294@aluno.unilago.edu.br;011.884.793-13;2008-05-29;2025-11-27;C004;São José do Rio Preto;SP;ATIVO;+55 17 96162-2416
+20260295;Fábio Melo;fábio.melo.20260295@aluno.unilago.edu.br;901.509.479-03;1996-02-29;2026-01-27;C004;Londrina;SP;ATIVO;+55 17 99210-1285
+20260296;Fernanda Azevedo Moreira;fernanda.azevedo.moreira.20260296@faculdade.br;158.446.394-90;1997-12-26;2026-01-15;C005;Ribeirão Preto;SP;ATIVO;+55 17 99311-4801
+20260297;Alberto Borges Rezende;alberto.borges.rezende.20260297@aluno.unilago.edu.br;723.229.676-37;2008-12-15;2026-01-08;C008;Joinville;PR;ATIVO;+55 17 92970-5556
+20260298;Alberto Silva Almeida;alberto.silva.almeida.20260298@faculdade.br;924.994.020-06;2002-05-06;2025-12-28;C001;Campinas;MG;ATIVO;+55 17 93401-3315
+20260299;Lucas Moreira;lucas.moreira.20260299@faculdade.br;463.757.676-40;2006-02-18;2025-11-28;C006;Florianópolis;ES;ATIVO;+55 17 96496-6982
+20260300;Beatriz Ramos Vieira;beatriz.ramos.vieira.20260300@academico.edu.br;868.795.554-39;2002-12-24;2025-12-24;C005;Porto Alegre;MS;ATIVO;+55 17 96985-1915
+20260301;Mariana Cardoso;mariana.cardoso.20260301@aluno.unilago.edu.br;730.816.763-64;1997-06-13;2026-02-03;C007;Campo Grande;BA;ATIVO;+55 17 92073-3316
+20260302;Otávio Jéssica Pinto;otávio.jéssica.pinto.20260302@faculdade.br;294.649.046-80;1997-12-15;2026-01-13;C002;São Paulo;PR;ATIVO;+55 17 95952-5309
+20260303;Henrique Ramos;henrique.ramos.20260303@academico.edu.br;588.130.505-06;2000-12-21;2025-12-01;C008;Londrina;MS;ATIVO;+55 17 91304-7212
+20260304;Sofia Ferreira;sofia.ferreira.20260304@aluno.unilago.edu.br;697.358.971-32;2001-11-07;2025-12-11;C005;Florianópolis;MG;ATIVO;+55 17 92787-6335
+20260305;Fábio Monteiro Ramos;fábio.monteiro.ramos.20260305@faculdade.br;426.770.295-11;1999-08-09;2025-12-04;C005;Curitiba;CE;ATIVO;+55 17 96418-6197
+20260306;Tiago Martins Pinto;tiago.martins.pinto.20260306@academico.edu.br;948.190.198-33;2002-05-07;2026-03-02;C006;Belém;ES;ATIVO;+55 17 92670-2557
+20260307;Helena Moura Souza;helena.moura.souza.20260307@academico.edu.br;695.011.407-12;2004-03-23;2025-12-14;C008;Fortaleza;MG;ATIVO;+55 17 99526-7018
+20260308;Daniela Ribeiro;daniela.ribeiro.20260308@faculdade.br;835.569.333-85;1996-12-27;2026-01-10;C006;Salvador;SP;ATIVO;+55 17 93220-7284
+20260309;Jéssica Barbosa;jéssica.barbosa.20260309@academico.edu.br;788.993.615-26;2008-04-01;2025-11-04;C005;Salvador;GO;ATIVO;+55 17 91101-9160
+20260310;Jéssica Oliveira Carvalho;jéssica.oliveira.carvalh.20260310@campus.edu.br;108.223.846-10;2008-02-28;2026-01-10;C009;Rio de Janeiro;SC;ATIVO;+55 17 91632-8187
+20260311;Fábio Caio Pinto Farias;fábio.caio.pinto.farias.20260311@campus.edu.br;036.101.776-91;2004-06-21;2026-01-19;C003;Campo Grande;CE;ATIVO;+55 17 93943-7607
+20260312;Ana Lima Cardoso;ana.lima.cardoso.20260312@aluno.unilago.edu.br;107.211.390-73;2001-05-29;2026-02-24;C005;Curitiba;DF;ATIVO;+55 17 93918-2649
+20260313;Cecilia Nogueira;cecilia.nogueira.20260313@campus.edu.br;141.195.610-50;2008-09-27;2025-11-21;C010;Joinville;MG;ATIVO;+55 17 94726-9074
+20260314;Lucas Ursula Ferreira;lucas.ursula.ferreira.20260314@campus.edu.br;313.112.540-13;1999-10-18;2026-03-02;C008;Campo Grande;RJ;ATIVO;+55 17 91954-7967
+20260315;Igor Teixeira;igor.teixeira.20260315@aluno.unilago.edu.br;278.387.126-33;2001-01-23;2025-11-26;C010;Fortaleza;SP;ATIVO;+55 17 97706-2832
+20260316;Thais Farias Carvalho;thais.farias.carvalho.20260316@campus.edu.br;292.058.052-76;2004-10-21;2026-03-04;C009;Cuiabá;CE;ATIVO;+55 17 94961-7662
+20260317;Geovana Ferreira;geovana.ferreira.20260317@academico.edu.br;434.271.247-24;2002-12-25;2026-01-30;C004;Recife;ES;ATIVO;+55 17 95616-9056
+20260318;Davi Vieira;davi.vieira.20260318@academico.edu.br;958.928.732-58;2002-01-15;2026-02-09;C010;Salvador;GO;ATIVO;+55 17 95438-9096
+20260319;Yasmin Farias;yasmin.farias.20260319@academico.edu.br;743.990.159-40;1999-04-11;2026-01-16;C006;Goiânia;MS;ATIVO;+55 17 94794-1717
+20260320;Beatriz Azevedo Dias;beatriz.azevedo.dias.20260320@campus.edu.br;147.687.844-74;2007-04-15;2026-02-01;C002;Campinas;PE;ATIVO;+55 17 97540-9736
+20260321;Hugo Rocha;hugo.rocha.20260321@campus.edu.br;497.437.009-32;2005-06-20;2026-02-22;C007;São José do Rio Preto;SC;TRANCADO;+55 17 93540-9432
+20260322;Diego Gomes;diego.gomes.20260322@campus.edu.br;108.614.385-12;1996-01-31;2026-01-23;C004;Campinas;PA;ATIVO;+55 17 99031-4721
+20260323;Daniela Nicolas Martins Moura;daniela.nicolas.martins.20260323@campus.edu.br;497.445.903-92;2002-05-16;2026-03-15;C003;Goiânia;DF;ATIVO;+55 17 97859-6099
+20260324;Felipe Carvalho;felipe.carvalho.20260324@aluno.unilago.edu.br;625.757.279-46;2005-06-19;2026-01-01;C009;Ribeirão Preto;MG;ATIVO;+55 17 92263-8701
+20260325;Maria Vieira;maria.vieira.20260325@academico.edu.br;367.109.892-27;2003-06-01;2026-01-09;C008;São Paulo;CE;ATIVO;+55 17 91310-9249
+20260326;Nicolas Machado Vieira;nicolas.machado.vieira.20260326@academico.edu.br;651.972.584-44;1999-09-15;2026-02-12;C003;Vitória;MT;ATIVO;+55 17 97625-7372
+20260327;Maria Almeida;maria.almeida.20260327@campus.edu.br;494.498.658-86;2007-03-15;2026-01-31;C009;Fortaleza;MT;ATIVO;+55 17 95080-2309
+20260328;Otávio Costa;otávio.costa.20260328@academico.edu.br;081.396.482-82;2001-10-03;2025-12-29;C005;Curitiba;MT;ATIVO;+55 17 95278-9691
+20260329;Jéssica Diego Ferreira Ribeiro;jéssica.diego.ferreira.r.20260329@aluno.unilago.edu.br;044.380.814-34;2003-01-10;2025-12-24;C006;Florianópolis;SC;ATIVO;+55 17 91813-2580
+20260330;Cecilia Martins Campos;cecilia.martins.campos.20260330@faculdade.br;782.608.251-35;2004-12-10;2025-12-05;C005;Belo Horizonte;MG;ATIVO;+55 17 97404-5115
+20260331;Alberto Borges Martins;alberto.borges.martins.20260331@campus.edu.br;001.103.929-32;1997-03-20;2026-02-15;C009;Campo Grande;MG;ATIVO;+55 17 91628-5367
+20260332;Bianca Costa;bianca.costa.20260332@academico.edu.br;762.225.273-28;1996-02-22;2026-01-19;C007;Joinville;MG;ATIVO;+55 17 95009-7141
+20260333;Fernanda Souza Martins;fernanda.souza.martins.20260333@academico.edu.br;467.332.705-84;2001-12-25;2026-02-06;C004;Florianópolis;PR;ATIVO;+55 17 93419-9037
+20260334;Diego Campos Freitas;diego.campos.freitas.20260334@campus.edu.br;892.193.045-00;2004-09-20;2026-01-26;C007;Campo Grande;DF;ATIVO;+55 17 91908-9255
+20260335;Samuel Carvalho Freitas;samuel.carvalho.freitas.20260335@faculdade.br;300.387.239-04;2001-12-28;2026-02-03;C010;Joinville;PE;ATIVO;+55 17 92906-1607
+20260336;Vitória Lima Carvalho;vitória.lima.carvalho.20260336@faculdade.br;816.666.078-14;2001-10-02;2025-11-16;C005;Vitória;ES;ATIVO;+55 17 97395-8373
+20260337;Julia Fábio Cardoso;julia.fábio.cardoso.20260337@aluno.unilago.edu.br;817.663.912-10;2001-05-11;2026-03-12;C010;Goiânia;SP;ATIVO;+55 17 98840-1214
+20260338;André Pereira Farias;andré.pereira.farias.20260338@campus.edu.br;327.111.775-59;1996-05-31;2025-11-26;C008;Salvador;ES;ATIVO;+55 17 96599-5302
+20260339;Felipe Lucas Santos Melo;felipe.lucas.santos.melo.20260339@academico.edu.br;777.194.629-20;1998-04-21;2026-02-11;C008;Campinas;CE;ATIVO;+55 17 97802-2114
+20260340;Leandro Dias;leandro.dias.20260340@aluno.unilago.edu.br;073.149.910-26;2005-09-22;2025-12-07;C004;Recife;MG;ATIVO;+55 17 94845-7533
+20260341;Daniela Rocha;daniela.rocha.20260341@aluno.unilago.edu.br;524.040.868-87;2000-05-16;2025-11-13;C001;São Paulo;BA;ATIVO;+55 17 98491-8297
+20260342;Isabela Vitória Oliveira Castro;isabela.vitória.oliveira.20260342@academico.edu.br;905.488.911-71;2004-01-05;2026-02-09;C002;Londrina;SC;ATIVO;+55 17 91920-4702
+20260343;Patrícia Ramos;patrícia.ramos.20260343@academico.edu.br;712.050.163-63;2008-09-24;2025-11-19;C006;São Paulo;SC;ATIVO;+55 17 99199-5233
+20260344;Maria Araújo;maria.araújo.20260344@faculdade.br;771.202.583-92;2001-05-03;2026-01-31;C001;São Paulo;PE;ATIVO;+55 17 97402-7542
+20260345;Leandro Ramos;leandro.ramos.20260345@faculdade.br;188.340.279-08;2006-07-05;2025-12-16;C004;Porto Alegre;SP;ATIVO;+55 17 94338-4511
+20260346;Enzo Cunha;enzo.cunha.20260346@academico.edu.br;190.882.391-16;1999-07-06;2026-01-06;C010;Belo Horizonte;DF;ATIVO;+55 17 98060-4651
+20260347;Irene Ramos Guimarães;irene.ramos.guimarães.20260347@academico.edu.br;335.325.444-08;2003-10-04;2026-01-20;C010;Fortaleza;RS;ATIVO;+55 17 91885-4144
+20260348;Leandro Caio Gomes Azevedo;leandro.caio.gomes.azeve.20260348@campus.edu.br;684.658.958-61;1997-04-15;2026-02-23;C010;Goiânia;GO;ATIVO;+55 17 98671-8568
+20260349;Samuel Araújo;samuel.araújo.20260349@academico.edu.br;137.634.541-11;2000-02-19;2025-11-04;C003;Belém;BA;ATIVO;+55 17 91920-5169
+20260350;Hugo Dias Moura;hugo.dias.moura.20260350@campus.edu.br;785.820.476-24;1999-10-30;2026-02-05;C007;Belém;MS;ATIVO;+55 17 98736-5648
+20260351;Yasmin Monteiro Ferreira;yasmin.monteiro.ferreira.20260351@aluno.unilago.edu.br;814.656.943-41;2000-08-18;2025-12-09;C008;São José do Rio Preto;RJ;ATIVO;+55 17 93047-4668
+20260352;Yasmin Cunha;yasmin.cunha.20260352@campus.edu.br;263.828.854-60;1997-05-18;2026-03-11;C002;Recife;PE;ATIVO;+55 17 96543-8414
+20260353;Helena Andrade;helena.andrade.20260353@faculdade.br;867.857.796-17;1997-08-15;2025-12-14;C006;São José do Rio Preto;SP;ATIVO;+55 17 95160-5352
+20260354;Fábio Guimarães;fábio.guimarães.20260354@campus.edu.br;173.863.890-45;2006-08-19;2025-11-08;C006;Recife;RS;ATIVO;+55 17 93272-5316
+20260355;Pedro Martins;pedro.martins.20260355@aluno.unilago.edu.br;315.715.509-19;2005-02-23;2026-02-22;C009;Ribeirão Preto;DF;ATIVO;+55 17 94145-7282
+20260356;Tiago Costa;tiago.costa.20260356@faculdade.br;688.625.133-49;2001-10-14;2026-02-01;C004;São José do Rio Preto;CE;ATIVO;+55 17 99960-8431
+20260357;João Geovana Rezende Souza;joão.geovana.rezende.sou.20260357@faculdade.br;153.111.318-28;2006-06-09;2026-01-03;C007;Florianópolis;PA;ATIVO;+55 17 97945-4261
+20260358;Vitória Freitas Araújo;vitória.freitas.araújo.20260358@faculdade.br;019.561.138-61;2000-06-05;2025-11-23;C003;Salvador;DF;ATIVO;+55 17 94024-5814
+20260359;João Carvalho;joão.carvalho.20260359@campus.edu.br;310.624.099-94;1998-12-20;2026-01-16;C003;Campinas;MG;TRANCADO;+55 17 99158-1498
+20260360;Carla Farias Borges;carla.farias.borges.20260360@aluno.unilago.edu.br;005.950.039-11;2003-01-02;2026-02-02;C003;Cuiabá;GO;ATIVO;+55 17 95536-5150
+20260361;Irene Campos Rocha;irene.campos.rocha.20260361@faculdade.br;857.952.612-57;2005-02-06;2026-03-03;C009;Ribeirão Preto;CE;ATIVO;+55 17 94656-5088
+20260362;Thais Batista;thais.batista.20260362@academico.edu.br;091.138.844-33;2000-10-13;2025-12-28;C007;Campinas;SC;ATIVO;+55 17 98557-8551
+20260363;Alberto João Cunha;alberto.joão.cunha.20260363@aluno.unilago.edu.br;323.692.149-63;2008-07-11;2026-02-02;C006;Ribeirão Preto;PE;ATIVO;+55 17 94428-5595
+20260364;Maria Natália Andrade Batista;maria.natália.andrade.ba.20260364@campus.edu.br;936.817.099-92;2008-12-07;2026-01-02;C006;Rio de Janeiro;MS;TRANCADO;+55 17 93695-6672
+20260365;Julia Freitas;julia.freitas.20260365@academico.edu.br;723.781.677-46;2007-09-29;2026-01-07;C001;Belo Horizonte;RJ;ATIVO;+55 17 92952-9019
+20260366;Maria Vitória Cardoso;maria.vitória.cardoso.20260366@campus.edu.br;341.944.447-08;2002-05-13;2025-11-01;C006;Goiânia;MG;ATIVO;+55 17 98161-1834
+20260367;Isabela Andrade;isabela.andrade.20260367@faculdade.br;269.681.043-17;2000-03-30;2026-02-15;C009;Rio de Janeiro;CE;ATIVO;+55 17 91482-1579
+20260368;Tiago Pinto Barbosa;tiago.pinto.barbosa.20260368@campus.edu.br;410.280.128-79;2005-11-02;2025-12-25;C004;Ribeirão Preto;MG;ATIVO;+55 17 91249-6838
+20260369;Felipe Nogueira;felipe.nogueira.20260369@faculdade.br;957.211.990-43;2001-03-07;2025-12-19;C003;São Paulo;SC;ATIVO;+55 17 93386-2170
+20260370;Mariana Pedro Souza;mariana.pedro.souza.20260370@academico.edu.br;280.885.713-58;1997-10-05;2026-02-19;C009;Brasília;MG;ATIVO;+55 17 92568-7207
+20260371;Yasmin Renata Rezende;yasmin.renata.rezende.20260371@academico.edu.br;162.824.453-86;2000-06-02;2025-11-06;C006;Campinas;CE;ATIVO;+55 17 98846-5756
+20260372;Alberto Otávio Farias Teixeira;alberto.otávio.farias.te.20260372@aluno.unilago.edu.br;435.462.445-62;2006-12-21;2025-12-29;C009;Londrina;PR;ATIVO;+55 17 97325-8791
+20260373;Caio Carvalho;caio.carvalho.20260373@academico.edu.br;088.982.187-11;2001-11-07;2026-01-12;C004;Rio de Janeiro;PR;ATIVO;+55 17 92732-9905
+20260374;Vitor Freitas;vitor.freitas.20260374@faculdade.br;375.023.752-02;2006-01-10;2025-12-08;C004;Florianópolis;PE;ATIVO;+55 17 94387-6586
+20260375;Daniela Ursula Azevedo Correia;daniela.ursula.azevedo.c.20260375@academico.edu.br;029.562.591-54;1997-11-23;2026-01-13;C002;Joinville;BA;ATIVO;+55 17 93887-9358
+20260376;Irene Cardoso;irene.cardoso.20260376@campus.edu.br;059.166.658-69;2005-03-16;2025-12-19;C010;São Paulo;BA;ATIVO;+55 17 98298-8530
+20260377;Nicolas João Rocha;nicolas.joão.rocha.20260377@aluno.unilago.edu.br;529.706.953-72;2002-02-14;2026-02-01;C001;Campinas;PE;ATIVO;+55 17 99618-6059
+20260378;Daniela Elaine Barbosa;daniela.elaine.barbosa.20260378@campus.edu.br;922.928.000-25;2008-10-08;2026-02-06;C006;Belo Horizonte;GO;ATIVO;+55 17 94041-4095
+20260379;Julia Souza Oliveira;julia.souza.oliveira.20260379@aluno.unilago.edu.br;590.106.281-65;2002-01-05;2025-12-02;C007;Belém;GO;TRANCADO;+55 17 99755-7372
+20260380;Gustavo Dias;gustavo.dias.20260380@campus.edu.br;828.105.934-51;1998-05-22;2025-12-31;C004;Curitiba;MG;ATIVO;+55 17 96546-9180
+20260381;Renata Leandro Azevedo;renata.leandro.azevedo.20260381@aluno.unilago.edu.br;895.577.326-40;2003-06-03;2026-02-19;C007;Vitória;CE;TRANCADO;+55 17 94947-8476
+20260382;Alberto Natália Freitas Cardoso;alberto.natália.freitas.20260382@campus.edu.br;936.244.215-76;2003-02-23;2025-11-06;C006;Vitória;SP;ATIVO;+55 17 91350-3366
+20260383;Gustavo Moura;gustavo.moura.20260383@aluno.unilago.edu.br;494.036.408-64;1998-03-10;2025-12-28;C006;Recife;SC;ATIVO;+55 17 97073-1281
+20260384;Irene Pinto Batista;irene.pinto.batista.20260384@faculdade.br;014.881.651-74;2001-05-30;2025-12-15;C008;Brasília;PE;ATIVO;+55 17 99288-9853
+20260385;Carla Ursula Martins;carla.ursula.martins.20260385@aluno.unilago.edu.br;218.748.372-83;1997-07-21;2026-01-27;C007;Londrina;PA;ATIVO;+55 17 99825-5432
+20260386;Rafael Enzo Rocha Santos;rafael.enzo.rocha.santos.20260386@academico.edu.br;974.391.437-64;2007-04-12;2025-12-21;C004;Florianópolis;PA;ATIVO;+55 17 96737-2156
+20260387;Daniela Oliveira Dias;daniela.oliveira.dias.20260387@faculdade.br;970.063.209-74;2002-09-02;2025-11-02;C010;Ribeirão Preto;SP;ATIVO;+55 17 92740-7210
+20260388;Patrícia Ferreira Andrade;patrícia.ferreira.andrad.20260388@faculdade.br;781.877.386-43;1997-07-14;2025-11-07;C002;Goiânia;GO;ATIVO;+55 17 96919-4097
+20260389;Enzo Teixeira;enzo.teixeira.20260389@faculdade.br;248.546.257-06;2004-10-28;2026-01-11;C009;Salvador;ES;ATIVO;+55 17 93730-8956
+20260390;Ursula Dias;ursula.dias.20260390@faculdade.br;050.961.127-41;2002-03-24;2025-12-07;C006;Campo Grande;MG;ATIVO;+55 17 99142-9957
+20260391;Julia Borges;julia.borges.20260391@campus.edu.br;675.077.266-65;2005-10-04;2026-01-01;C010;Porto Alegre;ES;ATIVO;+55 17 93395-6263
+20260392;Irene Monteiro Santos;irene.monteiro.santos.20260392@faculdade.br;858.479.788-86;2003-10-13;2025-11-13;C007;Florianópolis;MT;CANCELADO;+55 17 95691-6279
+20260393;Elaine Fernanda Souza;elaine.fernanda.souza.20260393@campus.edu.br;988.476.237-88;1997-01-26;2025-11-07;C009;Joinville;SC;ATIVO;+55 17 91433-1365
+20260394;Bruno João Freitas;bruno.joão.freitas.20260394@aluno.unilago.edu.br;838.642.530-67;2002-04-21;2026-03-02;C004;Rio de Janeiro;MG;ATIVO;+55 17 97587-7981
+20260395;Otávio Oliveira;otávio.oliveira.20260395@campus.edu.br;215.917.280-09;2002-01-23;2025-11-17;C003;Recife;ES;CANCELADO;+55 17 92266-2117
+20260396;Ana Pinto;ana.pinto.20260396@academico.edu.br;127.896.489-23;2002-05-01;2025-12-09;C009;Salvador;BA;ATIVO;+55 17 99224-6427
+20260397;Maria Vieira Moura;maria.vieira.moura.20260397@campus.edu.br;394.270.932-64;2004-05-19;2026-02-14;C007;Londrina;SC;ATIVO;+55 17 93044-4526
+20260398;Ana Vieira;ana.vieira.20260398@faculdade.br;218.698.206-97;2002-06-15;2026-02-19;C009;Vitória;CE;ATIVO;+55 17 98604-8266
+20260399;Yasmin Farias;yasmin.farias.20260399@faculdade.br;659.464.018-09;2002-08-19;2026-01-30;C007;Campo Grande;MG;ATIVO;+55 17 92667-2034
+20260400;Alberto Caio Costa;alberto.caio.costa.20260400@faculdade.br;121.394.043-72;1999-09-21;2026-02-08;C006;Campinas;RJ;ATIVO;+55 17 93914-8021
+20260401;Alberto Rocha;alberto.rocha.20260401@academico.edu.br;189.303.190-56;2001-03-30;2026-01-19;C001;Salvador;ES;ATIVO;+55 17 97327-1872
+20260402;Eduarda Costa;eduarda.costa.20260402@campus.edu.br;785.058.561-21;1999-12-30;2025-11-29;C001;Vitória;MG;ATIVO;+55 17 98025-5671
+20260403;Hugo Henrique Melo;hugo.henrique.melo.20260403@aluno.unilago.edu.br;140.252.529-99;2004-06-26;2025-11-07;C009;Londrina;MS;TRANCADO;+55 17 95815-2970
+20260404;João Cunha;joão.cunha.20260404@campus.edu.br;453.865.777-47;2006-12-10;2026-01-15;C007;Recife;CE;ATIVO;+55 17 98320-2388
+20260405;Gustavo Araújo;gustavo.araújo.20260405@aluno.unilago.edu.br;864.813.537-35;2007-08-25;2025-12-20;C009;Joinville;PE;ATIVO;+55 17 92785-9676
+20260406;Karen Geovana Barbosa;karen.geovana.barbosa.20260406@aluno.unilago.edu.br;994.959.164-29;2008-12-27;2025-12-11;C005;Vitória;BA;ATIVO;+55 17 99661-4883
+20260407;Elaine Santos Freitas;elaine.santos.freitas.20260407@aluno.unilago.edu.br;411.123.239-45;2005-02-24;2025-11-03;C010;Brasília;PE;ATIVO;+55 17 93683-1250
+20260408;Rafael Azevedo Silva;rafael.azevedo.silva.20260408@faculdade.br;014.822.573-80;2002-06-13;2026-01-11;C001;Fortaleza;SC;ATIVO;+55 17 95518-8891
+20260409;Rafael Guimarães Castro;rafael.guimarães.castro.20260409@aluno.unilago.edu.br;230.592.839-78;2001-06-24;2026-01-11;C002;Porto Alegre;SC;ATIVO;+55 17 93562-1288
+20260410;Davi Batista Santos;davi.batista.santos.20260410@campus.edu.br;448.731.651-32;1998-09-26;2026-02-09;C001;Fortaleza;CE;ATIVO;+55 17 99992-4300
+20260411;Caio Oliveira;caio.oliveira.20260411@faculdade.br;707.830.288-54;1998-05-11;2026-01-13;C002;Curitiba;PE;ATIVO;+55 17 98460-3669
+20260412;Ana Ribeiro;ana.ribeiro.20260412@faculdade.br;393.711.567-06;2001-12-26;2025-12-02;C006;Salvador;RS;ATIVO;+55 17 92300-8659
+20260413;Felipe Moura;felipe.moura.20260413@faculdade.br;889.235.689-37;1996-07-06;2026-01-19;C004;Belo Horizonte;SC;TRANCADO;+55 17 96079-8924
+20260414;Isabela Daniela Silva;isabela.daniela.silva.20260414@academico.edu.br;169.040.643-81;2005-05-10;2026-02-07;C003;Vitória;RS;ATIVO;+55 17 95196-4604
+20260415;Bruno Fábio Costa Cardoso;bruno.fábio.costa.cardos.20260415@faculdade.br;712.532.920-04;2007-10-26;2026-02-27;C010;Porto Alegre;BA;ATIVO;+55 17 91295-4945
+20260416;Sofia Almeida;sofia.almeida.20260416@academico.edu.br;490.341.099-63;2007-10-08;2026-02-25;C007;Salvador;MS;ATIVO;+55 17 94320-5366
+20260417;André Barbosa;andré.barbosa.20260417@aluno.unilago.edu.br;150.261.258-19;1997-11-15;2026-01-20;C006;Salvador;GO;ATIVO;+55 17 94877-7187
+20260418;Davi Silva;davi.silva.20260418@aluno.unilago.edu.br;876.197.824-81;2003-01-18;2025-12-04;C010;Porto Alegre;RS;TRANCADO;+55 17 97160-8141
+20260419;Renata Farias Oliveira;renata.farias.oliveira.20260419@academico.edu.br;178.882.724-11;2008-04-19;2026-01-19;C007;Rio de Janeiro;PA;CANCELADO;+55 17 96102-5623
+20260420;Daniela Costa;daniela.costa.20260420@faculdade.br;057.761.328-66;2000-02-20;2026-01-19;C006;Belo Horizonte;MG;ATIVO;+55 17 92539-4021
+20260421;Carla Machado Machado;carla.machado.machado.20260421@academico.edu.br;403.571.206-19;2003-07-05;2026-02-08;C003;Ribeirão Preto;PE;ATIVO;+55 17 94693-7773
+20260422;Natália Lima Ribeiro;natália.lima.ribeiro.20260422@academico.edu.br;191.994.995-10;2001-04-09;2025-11-13;C005;Campinas;PR;TRANCADO;+55 17 97585-9781
+20260423;Vitor Melo;vitor.melo.20260423@aluno.unilago.edu.br;770.180.319-93;2007-01-21;2025-12-22;C001;Belém;RS;ATIVO;+55 17 97139-7037
+20260424;André Guimarães;andré.guimarães.20260424@faculdade.br;847.840.110-54;1996-06-04;2025-12-13;C009;Rio de Janeiro;SP;ATIVO;+55 17 93968-8328
+20260425;Natália Guimarães Andrade;natália.guimarães.andrad.20260425@faculdade.br;431.162.003-25;1998-11-24;2026-03-15;C008;Belém;BA;ATIVO;+55 17 94852-3077
+20260426;Vitor Moura Souza;vitor.moura.souza.20260426@aluno.unilago.edu.br;083.617.762-13;1997-07-08;2026-01-19;C007;Goiânia;PE;ATIVO;+55 17 92276-5591
+20260427;Renata Carvalho;renata.carvalho.20260427@campus.edu.br;919.525.971-85;1997-07-14;2025-11-07;C010;São Paulo;SC;CANCELADO;+55 17 94966-2432
+20260428;Sofia Pinto;sofia.pinto.20260428@academico.edu.br;294.116.501-53;2000-06-04;2025-12-16;C007;Recife;ES;ATIVO;+55 17 98954-8391
+20260429;Patrícia Moreira Guimarães;patrícia.moreira.guimarã.20260429@aluno.unilago.edu.br;961.534.199-03;1999-08-18;2025-11-07;C004;Porto Alegre;MT;ATIVO;+55 17 92305-4290
+20260430;Patrícia Lima Oliveira;patrícia.lima.oliveira.20260430@campus.edu.br;126.310.459-72;2007-05-21;2026-02-17;C007;Brasília;GO;ATIVO;+55 17 99732-4720
+20260431;Irene Thais Souza Lima;irene.thais.souza.lima.20260431@faculdade.br;413.101.142-66;2004-12-26;2026-01-15;C009;Florianópolis;MT;ATIVO;+55 17 95375-2429
+20260432;Enzo Tiago Araújo Cardoso;enzo.tiago.araújo.cardos.20260432@faculdade.br;810.491.008-83;2005-02-09;2025-12-03;C001;Londrina;RS;ATIVO;+55 17 98253-3316
+20260433;Patrícia Batista Machado;patrícia.batista.machado.20260433@academico.edu.br;033.741.372-72;1997-04-30;2025-12-17;C003;Curitiba;GO;ATIVO;+55 17 96930-7947
+20260434;Maria Oliveira Monteiro;maria.oliveira.monteiro.20260434@campus.edu.br;539.003.432-99;2002-04-16;2026-03-05;C004;Londrina;MT;ATIVO;+55 17 95227-6439
+20260435;Natália Caio Pinto;natália.caio.pinto.20260435@academico.edu.br;800.427.434-00;1997-09-19;2025-11-24;C001;Ribeirão Preto;DF;TRANCADO;+55 17 96824-6785
+20260436;Mariana Silva;mariana.silva.20260436@academico.edu.br;167.874.038-65;1999-06-29;2026-02-18;C004;São José do Rio Preto;ES;ATIVO;+55 17 96010-1478
+20260437;Beatriz Monteiro Almeida;beatriz.monteiro.almeida.20260437@campus.edu.br;408.119.251-11;1998-10-24;2026-03-10;C010;São Paulo;MG;ATIVO;+55 17 91746-4217
+20260438;Geovana Freitas;geovana.freitas.20260438@campus.edu.br;234.938.546-08;1998-08-27;2026-03-01;C009;Londrina;DF;ATIVO;+55 17 91676-4770
+20260439;Leandro Castro;leandro.castro.20260439@aluno.unilago.edu.br;538.064.569-67;2003-03-27;2026-02-24;C004;São Paulo;SC;ATIVO;+55 17 94837-2522
+20260440;Mariana Farias Monteiro;mariana.farias.monteiro.20260440@campus.edu.br;977.017.774-49;2003-10-22;2026-03-12;C006;Belo Horizonte;SC;ATIVO;+55 17 93861-5626
+20260441;Lucas Ana Melo;lucas.ana.melo.20260441@campus.edu.br;882.907.483-98;1996-05-06;2026-01-09;C004;Salvador;DF;ATIVO;+55 17 94614-9864
+20260442;Tiago Farias Melo;tiago.farias.melo.20260442@aluno.unilago.edu.br;494.127.594-59;2003-08-07;2026-01-30;C004;Brasília;SC;ATIVO;+55 17 95907-3893
+20260443;Leandro Santos Barbosa;leandro.santos.barbosa.20260443@aluno.unilago.edu.br;877.367.057-89;2004-07-19;2026-01-06;C009;Recife;MG;ATIVO;+55 17 94963-1332
+20260444;Vitória Castro;vitória.castro.20260444@faculdade.br;364.799.540-67;2007-07-04;2026-01-26;C001;Salvador;ES;ATIVO;+55 17 99834-3704
+20260445;Gabriela Santos Melo;gabriela.santos.melo.20260445@academico.edu.br;631.600.389-06;2008-06-30;2025-12-07;C004;Brasília;MT;ATIVO;+55 17 94669-1803
+20260446;Patrícia Maria Martins;patrícia.maria.martins.20260446@aluno.unilago.edu.br;260.803.496-44;1999-01-19;2026-02-25;C006;São José do Rio Preto;GO;ATIVO;+55 17 91363-1996
+20260447;Henrique Machado Guimarães;henrique.machado.guimarã.20260447@campus.edu.br;926.205.727-04;1999-01-02;2025-12-19;C002;Londrina;PA;ATIVO;+55 17 98537-3381
+20260448;Enzo Rocha;enzo.rocha.20260448@campus.edu.br;298.041.718-55;2006-10-25;2025-12-04;C007;Porto Alegre;DF;ATIVO;+55 17 97967-5112
+20260449;Tiago Rezende;tiago.rezende.20260449@aluno.unilago.edu.br;196.608.702-47;2007-10-24;2026-01-03;C007;Londrina;RS;ATIVO;+55 17 96460-4500
+20260450;Irene Teixeira Silva;irene.teixeira.silva.20260450@aluno.unilago.edu.br;831.276.780-03;2002-02-23;2025-12-15;C007;Vitória;PE;ATIVO;+55 17 93421-8787
+20260451;Irene Costa Castro;irene.costa.castro.20260451@faculdade.br;309.298.464-99;1996-02-07;2026-01-30;C010;São Paulo;RJ;TRANCADO;+55 17 97842-8341
+20260452;Geovana Helena Souza Machado;geovana.helena.souza.mac.20260452@campus.edu.br;979.036.514-30;2007-07-22;2025-11-05;C009;São Paulo;PR;ATIVO;+55 17 96406-5951
+20260453;Rafael Rocha Correia;rafael.rocha.correia.20260453@aluno.unilago.edu.br;907.893.790-97;2005-03-12;2025-11-19;C004;Campinas;RS;ATIVO;+55 17 92604-7972
+20260454;Fábio Moreira;fábio.moreira.20260454@aluno.unilago.edu.br;241.027.028-30;2004-05-22;2026-02-06;C005;Brasília;MT;ATIVO;+55 17 91632-4853
+20260455;João Azevedo Campos;joão.azevedo.campos.20260455@faculdade.br;650.150.713-18;2002-03-23;2025-12-04;C003;Campinas;PR;ATIVO;+55 17 93155-2909
+20260456;Ana Gomes;ana.gomes.20260456@campus.edu.br;349.863.321-18;2003-07-23;2025-11-06;C006;Florianópolis;PA;ATIVO;+55 17 93791-6707
+20260457;Maria Batista;maria.batista.20260457@aluno.unilago.edu.br;397.391.826-83;2004-03-19;2026-01-26;C005;Belém;MG;ATIVO;+55 17 97316-3044
+20260458;Henrique Almeida;henrique.almeida.20260458@aluno.unilago.edu.br;383.316.743-05;2007-01-17;2025-12-01;C006;Rio de Janeiro;RS;ATIVO;+55 17 94514-9469
+20260459;Helena Otávio Melo Andrade;helena.otávio.melo.andra.20260459@aluno.unilago.edu.br;215.454.744-18;2006-09-13;2025-11-08;C003;São José do Rio Preto;PA;ATIVO;+55 17 97052-6618
+20260460;Otávio Pereira Pinto;otávio.pereira.pinto.20260460@faculdade.br;055.075.714-99;1999-04-18;2026-01-22;C002;Florianópolis;SC;ATIVO;+55 17 97002-6672
+20260461;Isabela Borges;isabela.borges.20260461@campus.edu.br;914.464.553-00;2008-02-10;2026-01-07;C005;Belém;PE;ATIVO;+55 17 95738-1036
+20260462;Alberto Castro;alberto.castro.20260462@campus.edu.br;284.191.924-47;2004-01-09;2025-11-03;C006;Curitiba;CE;ATIVO;+55 17 93352-7043
+20260463;Julia Teixeira Costa;julia.teixeira.costa.20260463@aluno.unilago.edu.br;917.690.245-29;1997-10-30;2026-01-28;C006;Salvador;RS;ATIVO;+55 17 91406-4728
+20260464;Pedro Souza;pedro.souza.20260464@aluno.unilago.edu.br;366.066.721-61;2003-11-20;2026-01-24;C009;Joinville;MG;ATIVO;+55 17 95231-9155
+20260465;Carla Pinto;carla.pinto.20260465@aluno.unilago.edu.br;940.174.183-93;1997-09-02;2026-02-01;C008;Ribeirão Preto;DF;ATIVO;+55 17 94165-2062
+20260466;Cecilia Araújo;cecilia.araújo.20260466@campus.edu.br;454.174.547-38;2005-06-21;2026-02-07;C005;São José do Rio Preto;GO;ATIVO;+55 17 98555-2780
+20260467;Yasmin Campos Correia;yasmin.campos.correia.20260467@aluno.unilago.edu.br;986.874.939-78;1997-12-29;2026-02-14;C002;Florianópolis;SP;ATIVO;+55 17 99369-4217
+20260468;Bianca Monteiro Araújo;bianca.monteiro.araújo.20260468@aluno.unilago.edu.br;287.633.766-97;1996-07-14;2025-11-19;C005;Recife;PA;ATIVO;+55 17 95864-1422
+20260469;Carla Correia;carla.correia.20260469@campus.edu.br;748.582.805-57;2001-05-06;2026-01-07;C001;Salvador;PE;ATIVO;+55 17 96668-9199
+20260470;Sofia Campos Ferreira;sofia.campos.ferreira.20260470@faculdade.br;339.337.115-01;2008-02-17;2026-01-06;C010;Recife;DF;ATIVO;+55 17 98096-1474
+20260471;Jéssica Gomes Ramos;jéssica.gomes.ramos.20260471@aluno.unilago.edu.br;773.005.301-43;1998-11-04;2025-11-06;C001;Porto Alegre;MG;ATIVO;+55 17 96107-6408
+20260472;André Vieira;andré.vieira.20260472@academico.edu.br;840.276.905-88;2000-10-04;2026-01-29;C008;São Paulo;RJ;ATIVO;+55 17 94385-3720
+20260473;Mariana Lucas Guimarães Ribeiro;mariana.lucas.guimarães.20260473@academico.edu.br;113.485.751-86;2003-03-19;2026-01-08;C005;Londrina;SC;ATIVO;+55 17 96913-5693
+20260474;Nicolas Monteiro;nicolas.monteiro.20260474@academico.edu.br;535.811.441-46;2001-11-19;2026-01-16;C002;Joinville;CE;ATIVO;+55 17 92355-7109
+20260475;Sofia Lucas Campos;sofia.lucas.campos.20260475@campus.edu.br;833.487.854-03;2005-01-07;2025-11-21;C003;Cuiabá;RJ;ATIVO;+55 17 92800-2592
+20260476;Igor Pedro Martins;igor.pedro.martins.20260476@aluno.unilago.edu.br;626.277.615-31;2002-01-07;2025-11-29;C004;Recife;SC;ATIVO;+55 17 94152-7852
+20260477;André Martins;andré.martins.20260477@faculdade.br;588.749.412-13;2004-03-14;2025-12-16;C001;Belém;RJ;ATIVO;+55 17 91029-9289
+20260478;Elaine Nogueira;elaine.nogueira.20260478@campus.edu.br;977.482.998-50;2001-05-05;2026-03-15;C002;Florianópolis;DF;ATIVO;+55 17 95393-9085
+20260479;Mariana Felipe Cunha Moreira;mariana.felipe.cunha.mor.20260479@aluno.unilago.edu.br;999.467.376-95;2001-03-18;2025-12-10;C007;Vitória;MS;ATIVO;+55 17 98014-1081
+20260480;Ursula Ramos;ursula.ramos.20260480@aluno.unilago.edu.br;799.017.080-55;2006-12-08;2025-12-01;C001;Brasília;SC;ATIVO;+55 17 99141-3848
+20260481;Ursula Monteiro Cunha;ursula.monteiro.cunha.20260481@academico.edu.br;645.277.682-01;1997-05-02;2026-02-19;C002;Recife;SP;ATIVO;+55 17 94825-3176
+20260482;Pedro Lima Nogueira;pedro.lima.nogueira.20260482@academico.edu.br;660.710.799-84;2003-09-12;2025-12-14;C009;Campinas;SP;ATIVO;+55 17 94484-5581
+20260483;Otávio Lima;otávio.lima.20260483@aluno.unilago.edu.br;658.842.579-15;2008-05-20;2026-01-23;C002;São José do Rio Preto;DF;ATIVO;+55 17 97485-9988
+20260484;Maria Cardoso;maria.cardoso.20260484@faculdade.br;859.266.270-64;2008-11-06;2026-01-06;C002;Fortaleza;CE;ATIVO;+55 17 94096-6261
+20260485;Pedro Ursula Ferreira Pinto;pedro.ursula.ferreira.pi.20260485@campus.edu.br;383.770.010-49;2005-04-22;2026-01-23;C001;Recife;RJ;ATIVO;+55 17 99354-9955
+20260486;Irene Fábio Moura;irene.fábio.moura.20260486@campus.edu.br;571.818.152-75;2007-02-23;2026-02-22;C001;Vitória;PE;ATIVO;+55 17 97528-3879
+20260487;Enzo Carvalho;enzo.carvalho.20260487@campus.edu.br;842.199.074-19;2001-09-01;2026-02-16;C010;Florianópolis;MS;ATIVO;+55 17 92005-5072
+20260488;Vitor Dias;vitor.dias.20260488@faculdade.br;551.136.690-66;1998-02-13;2026-02-05;C005;Fortaleza;SP;ATIVO;+55 17 97649-9665
+20260489;Bianca Pereira Guimarães;bianca.pereira.guimarães.20260489@aluno.unilago.edu.br;520.475.734-99;2000-05-26;2026-02-28;C007;Campo Grande;MS;ATIVO;+55 17 99970-3928
+20260490;Alberto Gomes Freitas;alberto.gomes.freitas.20260490@aluno.unilago.edu.br;014.184.703-41;2007-09-25;2026-01-23;C001;Fortaleza;RS;ATIVO;+55 17 91197-2234
+20260491;Maria Gomes Freitas;maria.gomes.freitas.20260491@aluno.unilago.edu.br;845.184.360-39;2000-05-17;2025-11-23;C007;Curitiba;BA;ATIVO;+55 17 92083-5117
+20260492;Felipe Rezende;felipe.rezende.20260492@faculdade.br;189.166.507-77;2001-03-29;2025-12-24;C004;Rio de Janeiro;SP;ATIVO;+55 17 91508-9362
+20260493;Cecilia Otávio Gomes;cecilia.otávio.gomes.20260493@faculdade.br;701.569.509-07;2007-10-03;2026-02-27;C003;Belo Horizonte;ES;ATIVO;+55 17 91568-7470
+20260494;Julia Julia Vieira;julia.julia.vieira.20260494@campus.edu.br;650.635.490-94;2004-09-17;2026-02-17;C001;Fortaleza;MT;TRANCADO;+55 17 92169-4602
+20260495;Otávio Ribeiro Azevedo;otávio.ribeiro.azevedo.20260495@faculdade.br;502.711.268-08;1999-02-17;2025-11-22;C001;Cuiabá;MS;ATIVO;+55 17 99537-7657
+20260496;Otávio Campos;otávio.campos.20260496@faculdade.br;925.452.008-16;2003-07-04;2026-02-20;C010;Campo Grande;MS;ATIVO;+55 17 95895-7067
+20260497;Ana Patrícia Oliveira;ana.patrícia.oliveira.20260497@aluno.unilago.edu.br;435.921.133-07;1998-03-06;2025-12-08;C006;Curitiba;PR;ATIVO;+55 17 92227-9372
+20260498;Otávio Souza Castro;otávio.souza.castro.20260498@faculdade.br;783.584.969-94;2001-01-09;2026-01-13;C008;Campo Grande;PE;ATIVO;+55 17 93350-8814
+20260499;Nicolas Freitas Martins;nicolas.freitas.martins.20260499@aluno.unilago.edu.br;495.435.841-19;2005-05-14;2026-02-26;C005;Porto Alegre;SC;CANCELADO;+55 17 98793-4961
+20260500;Samuel Lima;samuel.lima.20260500@campus.edu.br;024.675.025-28;2003-09-15;2025-11-07;C001;Florianópolis;DF;ATIVO;+55 17 94735-5706
+20260501;Caio Elaine Melo Moura;caio.elaine.melo.moura.20260501@aluno.unilago.edu.br;933.712.394-65;2001-06-28;2026-03-15;C009;Londrina;BA;ATIVO;+55 17 93295-3470
+20260502;Gabriela Carla Teixeira;gabriela.carla.teixeira.20260502@academico.edu.br;786.661.590-37;2007-12-04;2025-11-12;C005;Campo Grande;PA;ATIVO;+55 17 93447-6242
+20260503;João Araújo;joão.araújo.20260503@aluno.unilago.edu.br;620.367.170-90;2005-09-14;2025-11-11;C003;São Paulo;MS;ATIVO;+55 17 93170-8123
+20260504;Diego Patrícia Lima;diego.patrícia.lima.20260504@faculdade.br;073.280.558-55;2002-09-06;2025-11-04;C006;Campinas;BA;ATIVO;+55 17 94815-9972
+20260505;Natália Souza Pereira;natália.souza.pereira.20260505@academico.edu.br;100.266.051-11;2008-04-11;2026-01-20;C010;Recife;PE;ATIVO;+55 17 97348-1729
+20260506;Felipe Souza;felipe.souza.20260506@academico.edu.br;876.568.714-14;2001-01-27;2026-03-15;C009;Goiânia;MS;ATIVO;+55 17 94709-2232
+20260507;Cecilia Carla Pinto;cecilia.carla.pinto.20260507@academico.edu.br;105.507.251-57;2001-12-07;2025-11-15;C006;Belém;DF;TRANCADO;+55 17 93307-3514
+20260508;Davi Guimarães Monteiro;davi.guimarães.monteiro.20260508@aluno.unilago.edu.br;905.332.608-71;1999-04-23;2025-11-04;C008;Campinas;MS;ATIVO;+55 17 98905-9138
+20260509;Sofia Almeida Dias;sofia.almeida.dias.20260509@campus.edu.br;333.353.211-15;2008-08-24;2025-12-20;C004;Recife;MG;ATIVO;+55 17 97191-4037
+20260510;Isabela Moreira Ferreira;isabela.moreira.ferreira.20260510@aluno.unilago.edu.br;333.174.669-62;1996-11-27;2026-01-29;C008;Campo Grande;BA;ATIVO;+55 17 91182-8545
+20260511;Ana Machado;ana.machado.20260511@campus.edu.br;625.409.444-92;2007-06-02;2025-11-12;C003;Rio de Janeiro;ES;ATIVO;+55 17 93045-5695
+20260512;Geovana Lima Machado;geovana.lima.machado.20260512@academico.edu.br;683.793.345-38;2004-12-19;2026-02-24;C004;Campo Grande;GO;ATIVO;+55 17 92310-3444
+20260513;Gustavo Natália Borges Correia;gustavo.natália.borges.c.20260513@faculdade.br;765.152.844-06;2004-06-11;2026-03-09;C002;Curitiba;RS;ATIVO;+55 17 91370-5072
+20260514;Lucas Melo;lucas.melo.20260514@faculdade.br;434.861.964-22;2006-12-01;2026-03-08;C002;Salvador;RS;ATIVO;+55 17 91840-8020
+20260515;Davi Cardoso;davi.cardoso.20260515@campus.edu.br;845.300.782-51;2001-05-23;2026-02-14;C003;Salvador;MG;ATIVO;+55 17 91940-5476
+20260516;Tiago Enzo Campos;tiago.enzo.campos.20260516@academico.edu.br;425.626.526-39;1996-04-01;2026-02-02;C002;Cuiabá;SP;ATIVO;+55 17 98707-4671
+20260517;Mariana Patrícia Moreira Melo;mariana.patrícia.moreira.20260517@campus.edu.br;223.009.072-75;2005-03-22;2025-12-31;C005;Cuiabá;DF;ATIVO;+55 17 96966-2364
+20260518;Isabela Rafael Monteiro;isabela.rafael.monteiro.20260518@academico.edu.br;879.474.427-93;2001-07-10;2026-02-28;C007;Recife;PE;ATIVO;+55 17 96801-3745
+20260519;Alberto Gabriela Correia;alberto.gabriela.correia.20260519@faculdade.br;270.408.630-59;2002-08-17;2025-11-12;C005;Florianópolis;CE;ATIVO;+55 17 94163-8149
+20260520;Caio Batista;caio.batista.20260520@academico.edu.br;729.727.706-07;1999-04-18;2025-12-20;C007;Curitiba;MS;ATIVO;+55 17 95484-3379
+20260521;Maria Batista;maria.batista.20260521@academico.edu.br;045.600.696-20;1999-03-07;2025-12-01;C001;Vitória;CE;ATIVO;+55 17 95745-8784
+20260522;Henrique Daniela Souza;henrique.daniela.souza.20260522@campus.edu.br;767.774.785-46;1999-08-30;2025-12-23;C001;Brasília;MS;ATIVO;+55 17 99992-5329
+20260523;Mariana Rezende;mariana.rezende.20260523@faculdade.br;756.401.273-45;2002-11-22;2025-12-13;C001;Fortaleza;PA;ATIVO;+55 17 93347-6379
+20260524;Hugo Cardoso;hugo.cardoso.20260524@faculdade.br;265.991.738-27;1997-08-25;2025-12-07;C004;São José do Rio Preto;SC;ATIVO;+55 17 93177-8794
+20260525;João Freitas Cardoso;joão.freitas.cardoso.20260525@faculdade.br;141.650.144-33;2004-08-15;2026-02-11;C009;Rio de Janeiro;SC;ATIVO;+55 17 93727-1974
+20260526;Caio Cunha;caio.cunha.20260526@campus.edu.br;521.230.031-90;2001-06-25;2025-11-02;C006;Joinville;MS;TRANCADO;+55 17 99081-9058
+20260527;Bruno Farias;bruno.farias.20260527@academico.edu.br;277.916.284-08;1998-09-24;2025-12-23;C006;Fortaleza;PR;ATIVO;+55 17 92437-5906
+20260528;Fábio Enzo Andrade;fábio.enzo.andrade.20260528@campus.edu.br;430.082.345-75;2007-02-01;2026-03-07;C006;São Paulo;ES;ATIVO;+55 17 91562-3715
+20260529;Patrícia Borges;patrícia.borges.20260529@campus.edu.br;747.582.609-21;2001-11-25;2025-12-09;C009;Londrina;PR;ATIVO;+55 17 92032-4862
+20260530;Samuel Almeida;samuel.almeida.20260530@campus.edu.br;809.107.615-17;2002-03-19;2026-02-19;C001;Brasília;BA;ATIVO;+55 17 99411-2476
+20260531;Karen Campos;karen.campos.20260531@faculdade.br;167.516.854-54;2003-03-30;2025-11-13;C009;Joinville;GO;ATIVO;+55 17 94234-7557
+20260532;André Leandro Teixeira Borges;andré.leandro.teixeira.b.20260532@faculdade.br;427.539.046-72;2005-12-28;2025-11-18;C005;Curitiba;CE;ATIVO;+55 17 93094-5483
+20260533;Otávio Araújo;otávio.araújo.20260533@faculdade.br;176.581.719-71;2001-07-28;2026-03-10;C001;Porto Alegre;BA;ATIVO;+55 17 99074-1027
+20260534;Vitória Barbosa;vitória.barbosa.20260534@aluno.unilago.edu.br;213.159.457-75;2006-02-15;2026-03-14;C007;Rio de Janeiro;BA;ATIVO;+55 17 91643-8044
+20260535;Renata Moura;renata.moura.20260535@faculdade.br;814.729.214-99;2007-08-20;2026-01-04;C008;Cuiabá;SP;ATIVO;+55 17 92991-2144
+20260536;Samuel Gustavo Silva;samuel.gustavo.silva.20260536@aluno.unilago.edu.br;686.783.572-02;2006-10-26;2025-12-16;C004;Campo Grande;BA;ATIVO;+55 17 93521-6576
+20260537;Maria Martins Barbosa;maria.martins.barbosa.20260537@aluno.unilago.edu.br;860.113.312-60;2007-03-25;2025-12-14;C003;Ribeirão Preto;SP;ATIVO;+55 17 99627-9112
+20260538;Julia Andrade Costa;julia.andrade.costa.20260538@academico.edu.br;526.570.720-84;2000-10-13;2026-02-20;C002;Belém;RS;ATIVO;+55 17 98834-5381
+20260539;Helena Araújo;helena.araújo.20260539@aluno.unilago.edu.br;754.777.418-54;2008-12-16;2026-02-19;C008;São Paulo;DF;ATIVO;+55 17 98559-1556
+20260540;Fábio Borges Campos;fábio.borges.campos.20260540@aluno.unilago.edu.br;208.130.870-73;1996-01-26;2026-02-17;C005;Belo Horizonte;PR;ATIVO;+55 17 95524-9785
+20260541;Cecilia Mariana Rocha Batista;cecilia.mariana.rocha.ba.20260541@faculdade.br;460.776.450-91;1997-02-07;2026-01-25;C005;Goiânia;PE;ATIVO;+55 17 93620-1962
+20260542;Carla Carvalho;carla.carvalho.20260542@academico.edu.br;954.379.309-42;2008-04-21;2026-02-13;C005;Campinas;PA;ATIVO;+55 17 92675-7128
+20260543;Ursula Monteiro;ursula.monteiro.20260543@faculdade.br;228.877.606-37;2004-04-08;2026-01-23;C008;Recife;BA;ATIVO;+55 17 99453-6945
+20260544;Tiago Karen Azevedo;tiago.karen.azevedo.20260544@campus.edu.br;278.219.986-12;1996-03-01;2025-11-10;C010;Vitória;DF;ATIVO;+55 17 98619-8028
+20260545;Nicolas Rocha;nicolas.rocha.20260545@aluno.unilago.edu.br;434.596.271-30;2006-07-06;2026-02-01;C007;Curitiba;PR;TRANCADO;+55 17 93767-4035
+20260546;Renata Caio Borges;renata.caio.borges.20260546@academico.edu.br;414.823.630-73;2008-06-26;2026-02-05;C008;Brasília;SC;ATIVO;+55 17 91105-7064
+20260547;Nicolas Moura Martins;nicolas.moura.martins.20260547@faculdade.br;522.149.985-69;1998-05-24;2025-12-31;C009;Joinville;BA;ATIVO;+55 17 94933-7168
+20260548;Sofia Rezende;sofia.rezende.20260548@campus.edu.br;894.241.450-24;2000-04-05;2026-01-19;C003;Ribeirão Preto;SC;ATIVO;+55 17 95024-7676
+20260549;Isabela Araújo Pereira;isabela.araújo.pereira.20260549@academico.edu.br;926.310.597-99;2007-01-21;2025-11-25;C009;Fortaleza;PR;ATIVO;+55 17 94583-5762
+20260550;Fábio Melo;fábio.melo.20260550@faculdade.br;270.421.146-19;1998-04-05;2026-01-12;C009;Vitória;PA;TRANCADO;+55 17 92773-1183
+20260551;Henrique Oliveira;henrique.oliveira.20260551@campus.edu.br;427.801.514-16;2003-03-25;2026-01-19;C004;Florianópolis;GO;ATIVO;+55 17 94992-7345
+20260552;Helena Martins;helena.martins.20260552@campus.edu.br;160.561.640-76;2003-01-28;2026-03-12;C004;Recife;CE;CANCELADO;+55 17 98673-4609
+20260553;Nicolas Azevedo Azevedo;nicolas.azevedo.azevedo.20260553@academico.edu.br;418.674.008-33;1997-05-28;2026-01-15;C005;Campo Grande;SP;ATIVO;+55 17 94341-1019
+20260554;Gabriela Moura;gabriela.moura.20260554@academico.edu.br;291.869.778-43;2008-01-11;2025-12-10;C010;Curitiba;PR;ATIVO;+55 17 92504-1536
+20260555;Bianca Cardoso Rocha;bianca.cardoso.rocha.20260555@academico.edu.br;123.725.100-96;1998-05-03;2026-01-23;C003;Rio de Janeiro;SP;ATIVO;+55 17 95570-9915
+20260556;Tiago Souza;tiago.souza.20260556@aluno.unilago.edu.br;548.542.318-47;2006-02-11;2025-11-11;C006;Brasília;RJ;TRANCADO;+55 17 92492-9500
+20260557;Igor Farias;igor.farias.20260557@aluno.unilago.edu.br;785.156.588-26;2007-01-03;2026-03-05;C002;São José do Rio Preto;GO;ATIVO;+55 17 97112-9704
+20260558;Hugo Nogueira;hugo.nogueira.20260558@aluno.unilago.edu.br;311.279.259-15;1998-03-13;2025-12-26;C007;Goiânia;RS;ATIVO;+55 17 97176-2068
+20260559;Thais Castro;thais.castro.20260559@aluno.unilago.edu.br;693.288.666-62;1996-12-05;2026-03-02;C010;Porto Alegre;DF;ATIVO;+55 17 95869-1735
+20260560;Maria Costa Machado;maria.costa.machado.20260560@aluno.unilago.edu.br;877.654.087-97;2006-03-01;2025-12-18;C007;Cuiabá;PE;ATIVO;+55 17 93063-5837
+20260561;João Rezende Vieira;joão.rezende.vieira.20260561@campus.edu.br;617.518.168-73;2001-04-19;2025-12-01;C008;Goiânia;SC;ATIVO;+55 17 96769-7156
+20260562;Thais Henrique Batista;thais.henrique.batista.20260562@academico.edu.br;970.087.145-48;1999-01-12;2026-03-06;C004;Campinas;GO;ATIVO;+55 17 95475-2885
+20260563;Rafael Isabela Correia Dias;rafael.isabela.correia.d.20260563@campus.edu.br;195.408.532-28;2005-09-01;2025-12-29;C008;Porto Alegre;SC;ATIVO;+55 17 92632-7571
+20260564;Isabela Vitor Souza Almeida;isabela.vitor.souza.alme.20260564@aluno.unilago.edu.br;476.910.091-37;1996-04-12;2026-02-07;C004;Joinville;RS;ATIVO;+55 17 92632-6216
+20260565;Isabela Pereira Nogueira;isabela.pereira.nogueira.20260565@campus.edu.br;969.865.535-35;1997-01-30;2025-11-11;C001;Curitiba;RS;ATIVO;+55 17 98096-8362
+20260566;Tiago Martins;tiago.martins.20260566@academico.edu.br;707.742.098-32;2000-08-18;2026-01-13;C001;Goiânia;SP;ATIVO;+55 17 93831-6583
+20260567;Patrícia Freitas;patrícia.freitas.20260567@campus.edu.br;888.632.675-43;2004-06-18;2025-12-31;C007;Campinas;PA;ATIVO;+55 17 99727-7297
+20260568;Samuel Batista Farias;samuel.batista.farias.20260568@academico.edu.br;187.354.406-13;2003-08-21;2026-01-19;C001;Campo Grande;MG;ATIVO;+55 17 94972-6300
+20260569;Bruno Castro Oliveira;bruno.castro.oliveira.20260569@aluno.unilago.edu.br;204.493.857-78;2007-03-04;2026-02-09;C008;Fortaleza;PR;ATIVO;+55 17 93460-8885
+20260570;Carla Santos Costa;carla.santos.costa.20260570@aluno.unilago.edu.br;673.378.199-13;2003-01-04;2026-01-29;C006;Vitória;MG;ATIVO;+55 17 95174-7947
+20260571;Caio Farias;caio.farias.20260571@campus.edu.br;679.577.022-46;2004-01-15;2025-11-06;C006;Fortaleza;GO;ATIVO;+55 17 92011-4791
+20260572;Caio Ribeiro;caio.ribeiro.20260572@campus.edu.br;185.487.583-57;2006-06-04;2026-01-05;C007;Belém;MT;ATIVO;+55 17 97918-3108
+20260573;Isabela Otávio Oliveira Machado;isabela.otávio.oliveira.20260573@academico.edu.br;033.153.117-26;1998-06-03;2026-03-09;C010;Campo Grande;RJ;ATIVO;+55 17 97385-7869
+20260574;Gustavo Pinto;gustavo.pinto.20260574@academico.edu.br;843.783.184-76;2008-10-05;2026-01-16;C002;Recife;CE;ATIVO;+55 17 91233-7215
+20260575;Ana Batista;ana.batista.20260575@campus.edu.br;905.422.796-09;2007-07-11;2025-12-06;C006;Belo Horizonte;SP;ATIVO;+55 17 98215-2315
+20260576;Carla Rocha;carla.rocha.20260576@campus.edu.br;255.996.909-88;2000-01-09;2025-11-15;C004;Ribeirão Preto;MG;ATIVO;+55 17 94976-2944
+20260577;Lucas Freitas;lucas.freitas.20260577@academico.edu.br;250.067.483-24;2002-04-14;2026-02-10;C005;Rio de Janeiro;ES;TRANCADO;+55 17 98476-5921
+20260578;Karen Davi Moura Ribeiro;karen.davi.moura.ribeiro.20260578@academico.edu.br;546.938.240-11;1998-12-17;2026-03-10;C010;Brasília;PE;ATIVO;+55 17 94634-3523
+20260579;Ana Nogueira;ana.nogueira.20260579@academico.edu.br;678.330.857-01;2005-11-27;2025-12-19;C004;Belém;SP;ATIVO;+55 17 97909-1259
+20260580;Elaine Moreira Farias;elaine.moreira.farias.20260580@faculdade.br;449.084.754-72;2000-06-19;2025-12-21;C006;Fortaleza;DF;ATIVO;+55 17 99822-6752
+20260581;Otávio Cunha Pereira;otávio.cunha.pereira.20260581@academico.edu.br;690.240.680-03;2000-06-19;2025-11-22;C009;Cuiabá;BA;ATIVO;+55 17 98289-7409
+20260582;Yasmin Monteiro Batista;yasmin.monteiro.batista.20260582@campus.edu.br;019.548.320-96;2008-05-10;2026-02-11;C004;São José do Rio Preto;CE;ATIVO;+55 17 97319-9494
+20260583;Fernanda Monteiro;fernanda.monteiro.20260583@aluno.unilago.edu.br;657.808.347-80;2006-01-06;2026-01-27;C004;Goiânia;DF;ATIVO;+55 17 95867-4684
+20260584;Vitória Santos Carvalho;vitória.santos.carvalho.20260584@faculdade.br;639.136.977-80;2001-06-07;2025-12-10;C002;Goiânia;PR;CANCELADO;+55 17 99470-4861
+20260585;Hugo Vieira;hugo.vieira.20260585@academico.edu.br;302.070.722-79;2008-10-11;2025-12-15;C001;Campinas;MG;ATIVO;+55 17 97609-9528
+20260586;Cecilia Melo;cecilia.melo.20260586@aluno.unilago.edu.br;106.643.822-48;2001-02-10;2026-02-12;C003;Recife;MG;ATIVO;+55 17 91987-8906
+20260587;Caio Cardoso;caio.cardoso.20260587@campus.edu.br;510.160.195-11;2003-03-04;2026-02-27;C003;Cuiabá;MS;ATIVO;+55 17 97646-5840
+20260588;Cecilia Andrade;cecilia.andrade.20260588@faculdade.br;776.108.230-90;2000-03-17;2026-03-14;C001;Londrina;GO;ATIVO;+55 17 94609-3265
+20260589;Natália André Campos;natália.andré.campos.20260589@faculdade.br;645.759.384-41;2006-04-15;2026-01-10;C005;Curitiba;PR;ATIVO;+55 17 91547-6189
+20260590;Beatriz Bianca Campos;beatriz.bianca.campos.20260590@academico.edu.br;353.490.726-52;2007-07-18;2026-02-03;C007;Recife;CE;ATIVO;+55 17 93768-2798
+20260591;Beatriz Pereira;beatriz.pereira.20260591@aluno.unilago.edu.br;687.998.649-41;2006-09-23;2026-01-26;C006;Ribeirão Preto;MT;ATIVO;+55 17 91183-7221
+20260592;Hugo Costa;hugo.costa.20260592@campus.edu.br;882.161.068-31;2005-01-27;2026-01-03;C005;Belo Horizonte;DF;ATIVO;+55 17 95936-2375
+20260593;Natália Cunha Gomes;natália.cunha.gomes.20260593@academico.edu.br;060.870.656-11;2007-11-24;2026-03-03;C001;Joinville;ES;TRANCADO;+55 17 95606-2821
+20260594;Hugo Vieira;hugo.vieira.20260594@aluno.unilago.edu.br;784.502.528-80;2000-01-18;2026-02-14;C003;Florianópolis;CE;ATIVO;+55 17 95548-1404
+20260595;Diego Andrade;diego.andrade.20260595@campus.edu.br;368.290.209-26;2001-08-19;2025-12-30;C004;Londrina;CE;ATIVO;+55 17 92743-3185
+20260596;Isabela Nogueira Almeida;isabela.nogueira.almeida.20260596@campus.edu.br;085.397.709-70;1997-03-22;2026-01-19;C008;Vitória;ES;ATIVO;+55 17 99593-9925
+20260597;Leandro Enzo Costa;leandro.enzo.costa.20260597@faculdade.br;402.434.583-73;2004-12-06;2026-01-19;C007;Florianópolis;SP;ATIVO;+55 17 98425-5794
+20260598;Thais Correia;thais.correia.20260598@aluno.unilago.edu.br;112.349.181-26;2004-09-21;2025-12-08;C002;São José do Rio Preto;RS;ATIVO;+55 17 97204-4352
+20260599;Bruno Azevedo;bruno.azevedo.20260599@faculdade.br;148.512.979-26;1997-02-10;2026-02-07;C003;Curitiba;RS;ATIVO;+55 17 99961-5302
+20260600;Gabriela Souza Cunha;gabriela.souza.cunha.20260600@faculdade.br;556.754.818-59;2000-01-25;2025-12-27;C003;São Paulo;ES;ATIVO;+55 17 97877-3533
+20260601;Natália Vieira Oliveira;natália.vieira.oliveira.20260601@aluno.unilago.edu.br;037.461.376-34;1998-12-26;2026-02-21;C008;Ribeirão Preto;GO;ATIVO;+55 17 94256-2893
+20260602;Lucas Araújo;lucas.araújo.20260602@aluno.unilago.edu.br;453.326.137-25;2000-05-25;2026-01-05;C003;Curitiba;CE;ATIVO;+55 17 97277-2301
+20260603;Beatriz Gomes Ribeiro;beatriz.gomes.ribeiro.20260603@academico.edu.br;869.590.317-27;1996-10-01;2025-11-19;C002;Recife;GO;ATIVO;+55 17 93335-5652
+20260604;Thais Ramos;thais.ramos.20260604@campus.edu.br;494.404.506-86;2003-05-02;2025-11-14;C006;São José do Rio Preto;GO;ATIVO;+55 17 96827-1553
+20260605;Lucas Renata Pinto;lucas.renata.pinto.20260605@faculdade.br;173.790.703-78;1998-06-21;2026-02-20;C003;Belém;CE;ATIVO;+55 17 93476-3609
+20260606;Geovana Dias;geovana.dias.20260606@academico.edu.br;294.071.298-31;2000-05-22;2025-12-26;C005;Vitória;MG;ATIVO;+55 17 97452-8256
+20260607;Maria Vieira;maria.vieira.20260607@aluno.unilago.edu.br;228.550.664-25;2000-04-27;2025-12-15;C001;São Paulo;BA;ATIVO;+55 17 92730-1917
+20260608;Leandro Machado Silva;leandro.machado.silva.20260608@campus.edu.br;792.432.734-36;1996-11-03;2026-02-10;C002;Belém;PR;ATIVO;+55 17 94159-5566
+20260609;Jéssica Almeida;jéssica.almeida.20260609@academico.edu.br;141.438.430-74;1999-01-16;2026-01-26;C005;Curitiba;SP;ATIVO;+55 17 97921-4719
+20260610;Felipe Castro Ferreira;felipe.castro.ferreira.20260610@academico.edu.br;986.252.057-54;2006-09-26;2025-12-26;C008;Florianópolis;BA;ATIVO;+55 17 95555-5402
+20260611;Carla Enzo Machado;carla.enzo.machado.20260611@campus.edu.br;385.721.354-60;1998-12-02;2026-01-21;C001;Campinas;MG;ATIVO;+55 17 98393-9884
+20260612;Daniela Yasmin Melo;daniela.yasmin.melo.20260612@aluno.unilago.edu.br;715.215.861-57;2006-04-26;2026-02-22;C006;Brasília;SC;CANCELADO;+55 17 99038-4805
+20260613;Daniela Teixeira;daniela.teixeira.20260613@academico.edu.br;290.659.106-00;2007-05-24;2026-03-15;C006;Campinas;BA;ATIVO;+55 17 99473-5954
+20260614;Carla Oliveira Moreira;carla.oliveira.moreira.20260614@faculdade.br;518.494.710-69;2002-07-31;2026-02-13;C001;Ribeirão Preto;PR;ATIVO;+55 17 99825-2405
+20260615;Fábio Silva Correia;fábio.silva.correia.20260615@faculdade.br;275.144.126-05;2001-07-26;2025-12-20;C003;Recife;GO;ATIVO;+55 17 92141-3067
+20260616;Nicolas Martins;nicolas.martins.20260616@aluno.unilago.edu.br;890.980.078-51;2003-03-26;2026-01-29;C009;Salvador;DF;ATIVO;+55 17 94719-7778
+20260617;Hugo Melo Andrade;hugo.melo.andrade.20260617@aluno.unilago.edu.br;548.959.836-48;2003-02-14;2026-01-02;C002;Ribeirão Preto;GO;ATIVO;+55 17 96016-3547
+20260618;Davi Almeida;davi.almeida.20260618@academico.edu.br;599.694.861-01;2001-12-03;2025-12-07;C010;São José do Rio Preto;PE;ATIVO;+55 17 92267-8056
+20260619;Bianca Daniela Batista;bianca.daniela.batista.20260619@aluno.unilago.edu.br;465.394.781-11;1998-10-18;2025-11-15;C005;Curitiba;PR;ATIVO;+55 17 97266-1643
+20260620;Diego Isabela Andrade Farias;diego.isabela.andrade.fa.20260620@academico.edu.br;418.189.845-26;2005-01-23;2026-02-08;C003;Londrina;BA;ATIVO;+55 17 95664-5076
+20260621;Alberto Mariana Azevedo Andrade;alberto.mariana.azevedo.20260621@faculdade.br;725.308.154-19;1997-09-17;2026-02-28;C010;Londrina;BA;ATIVO;+55 17 95530-9195
+20260622;Diego Patrícia Farias Gomes;diego.patrícia.farias.go.20260622@academico.edu.br;941.121.249-99;1997-04-27;2025-12-29;C002;Brasília;ES;ATIVO;+55 17 96422-5138
+20260623;Cecilia Machado;cecilia.machado.20260623@campus.edu.br;246.067.607-76;1996-02-11;2026-03-08;C002;Curitiba;MS;ATIVO;+55 17 98636-5486
+20260624;Diego Moreira;diego.moreira.20260624@academico.edu.br;503.370.765-44;2001-02-12;2026-01-11;C004;Curitiba;RJ;ATIVO;+55 17 98276-6675
+20260625;Davi Davi Pinto Ramos;davi.davi.pinto.ramos.20260625@academico.edu.br;144.411.620-75;2008-07-28;2025-11-28;C004;Salvador;GO;ATIVO;+55 17 93475-3582
+20260626;Carla Igor Santos;carla.igor.santos.20260626@academico.edu.br;642.676.805-86;2007-11-28;2026-03-07;C002;Campinas;PR;ATIVO;+55 17 91490-1277
+20260627;Samuel Almeida;samuel.almeida.20260627@aluno.unilago.edu.br;408.449.561-79;1996-09-05;2026-02-14;C004;Rio de Janeiro;CE;ATIVO;+55 17 92653-2270
+20260628;Carla Elaine Cunha;carla.elaine.cunha.20260628@aluno.unilago.edu.br;487.758.134-84;2001-12-03;2026-02-01;C001;São Paulo;ES;ATIVO;+55 17 92777-3937
+20260629;Hugo Melo;hugo.melo.20260629@faculdade.br;005.558.914-40;1998-08-18;2025-11-22;C002;Florianópolis;RS;ATIVO;+55 17 94596-2813
+20260630;Samuel Ferreira;samuel.ferreira.20260630@aluno.unilago.edu.br;848.351.523-44;2004-04-03;2025-12-30;C007;Campo Grande;MS;ATIVO;+55 17 95493-1171
+20260631;Pedro Ferreira Freitas;pedro.ferreira.freitas.20260631@academico.edu.br;232.946.013-98;2007-01-23;2026-03-15;C006;Londrina;ES;ATIVO;+55 17 97817-8045
+20260632;Ana Lucas Ramos Silva;ana.lucas.ramos.silva.20260632@academico.edu.br;175.340.554-14;2007-06-02;2026-02-21;C004;Curitiba;SC;ATIVO;+55 17 96575-1931
+20260633;Fernanda Vieira;fernanda.vieira.20260633@academico.edu.br;885.099.325-37;1999-09-12;2026-02-03;C005;Fortaleza;CE;ATIVO;+55 17 99987-2623
+20260634;Davi Maria Ribeiro Batista;davi.maria.ribeiro.batis.20260634@academico.edu.br;568.597.029-07;2003-05-02;2025-12-11;C002;Campinas;PR;ATIVO;+55 17 93620-4267
+20260635;Alberto Gomes;alberto.gomes.20260635@faculdade.br;237.830.067-08;2001-06-25;2025-11-25;C002;Fortaleza;GO;ATIVO;+55 17 94173-3810
+20260636;João Santos Araújo;joão.santos.araújo.20260636@academico.edu.br;391.131.476-30;2007-08-27;2026-01-10;C004;Recife;MT;ATIVO;+55 17 91164-6858
+20260637;Samuel Pereira Martins;samuel.pereira.martins.20260637@aluno.unilago.edu.br;975.057.605-58;2003-11-20;2026-02-15;C006;Goiânia;RJ;TRANCADO;+55 17 99371-2314
+20260638;Geovana Castro;geovana.castro.20260638@faculdade.br;940.416.005-54;2003-10-26;2026-02-07;C006;Porto Alegre;MT;ATIVO;+55 17 96959-9960
+20260639;Bianca Costa Dias;bianca.costa.dias.20260639@campus.edu.br;087.177.596-11;1996-01-16;2025-11-04;C008;São José do Rio Preto;ES;ATIVO;+55 17 94219-3231
+20260640;Helena Martins Dias;helena.martins.dias.20260640@academico.edu.br;773.523.765-77;2004-05-13;2025-12-21;C009;Porto Alegre;RS;ATIVO;+55 17 99415-2194
+20260641;Rafael Borges Costa;rafael.borges.costa.20260641@aluno.unilago.edu.br;326.873.676-79;2007-03-30;2026-01-17;C003;Ribeirão Preto;MS;ATIVO;+55 17 94563-7316
+20260642;Karen Bruno Teixeira Silva;karen.bruno.teixeira.sil.20260642@academico.edu.br;147.527.676-38;2006-06-23;2026-03-05;C010;Joinville;MG;ATIVO;+55 17 97826-7060
+20260643;Pedro Ribeiro Carvalho;pedro.ribeiro.carvalho.20260643@aluno.unilago.edu.br;062.499.153-19;2007-05-19;2025-11-22;C005;Rio de Janeiro;PA;ATIVO;+55 17 99853-7275
+20260644;Vitória Ribeiro;vitória.ribeiro.20260644@academico.edu.br;876.994.737-53;2003-02-10;2025-12-20;C009;Recife;PA;ATIVO;+55 17 93517-6461
+20260645;André Lima;andré.lima.20260645@aluno.unilago.edu.br;008.738.565-44;1999-01-24;2026-01-30;C003;Belém;MT;ATIVO;+55 17 94686-8791
+20260646;Geovana Guimarães;geovana.guimarães.20260646@faculdade.br;584.335.686-29;2000-12-29;2026-03-08;C005;Rio de Janeiro;PE;ATIVO;+55 17 92589-8699
+20260647;Bianca Correia;bianca.correia.20260647@aluno.unilago.edu.br;941.447.172-26;2000-09-27;2025-11-14;C003;Campo Grande;MT;ATIVO;+55 17 93584-5715
+20260648;Yasmin Monteiro;yasmin.monteiro.20260648@academico.edu.br;946.484.915-82;1997-08-31;2026-01-18;C002;Salvador;MG;ATIVO;+55 17 96574-3615
+20260649;Ana João Freitas Rocha;ana.joão.freitas.rocha.20260649@faculdade.br;089.082.480-15;1999-05-07;2026-01-10;C005;Campo Grande;BA;ATIVO;+55 17 97684-4884
+20260650;Hugo Cunha Nogueira;hugo.cunha.nogueira.20260650@campus.edu.br;837.237.503-96;1998-09-15;2025-12-25;C001;Recife;SP;ATIVO;+55 17 98857-1065
+20260651;Bruno João Souza Gomes;bruno.joão.souza.gomes.20260651@campus.edu.br;182.680.126-99;1999-04-07;2026-01-01;C005;Campinas;GO;ATIVO;+55 17 99160-4738
+20260652;Pedro Melo;pedro.melo.20260652@campus.edu.br;419.081.085-27;2004-06-07;2025-12-07;C004;Ribeirão Preto;ES;ATIVO;+55 17 91862-8727
+20260653;Maria Castro;maria.castro.20260653@academico.edu.br;006.124.219-15;2006-03-21;2025-11-10;C010;Vitória;PE;ATIVO;+55 17 91336-7497
+20260654;Pedro João Borges;pedro.joão.borges.20260654@campus.edu.br;323.928.181-16;2000-06-30;2026-02-04;C010;Campo Grande;RS;ATIVO;+55 17 93985-9201
+20260655;Lucas Santos Martins;lucas.santos.martins.20260655@faculdade.br;898.950.971-95;2002-04-22;2025-11-11;C010;Goiânia;RJ;ATIVO;+55 17 94765-5193
+20260656;Nicolas Castro;nicolas.castro.20260656@faculdade.br;132.305.453-12;1997-04-30;2026-02-25;C005;Curitiba;RS;ATIVO;+55 17 97952-1529
+20260657;Pedro Henrique Monteiro;pedro.henrique.monteiro.20260657@aluno.unilago.edu.br;993.314.668-80;2000-08-14;2025-11-22;C006;Rio de Janeiro;MG;ATIVO;+55 17 97579-3127
+20260658;Hugo Ribeiro;hugo.ribeiro.20260658@aluno.unilago.edu.br;486.384.801-01;1999-09-15;2026-01-08;C010;Vitória;PE;ATIVO;+55 17 98261-8303
+20260659;Carla Gomes Azevedo;carla.gomes.azevedo.20260659@academico.edu.br;006.351.015-53;2001-11-13;2025-12-31;C006;Goiânia;RS;ATIVO;+55 17 95397-1748
+20260660;Ana Campos Carvalho;ana.campos.carvalho.20260660@academico.edu.br;745.446.896-59;2004-12-11;2025-12-19;C009;Goiânia;PR;ATIVO;+55 17 93038-9907
+20260661;Gabriela Costa Moura;gabriela.costa.moura.20260661@aluno.unilago.edu.br;725.411.193-35;1999-05-02;2026-01-02;C007;Fortaleza;DF;ATIVO;+55 17 92866-9600
+20260662;Helena Correia Batista;helena.correia.batista.20260662@academico.edu.br;507.847.811-92;2008-04-17;2025-11-08;C010;Cuiabá;BA;ATIVO;+55 17 97902-5917
+20260663;Fernanda Cardoso Correia;fernanda.cardoso.correia.20260663@academico.edu.br;249.038.134-91;2003-05-04;2025-11-19;C004;Cuiabá;MG;ATIVO;+55 17 98952-6202
+20260664;Pedro Moreira;pedro.moreira.20260664@faculdade.br;963.279.327-93;1996-05-16;2025-11-15;C004;Rio de Janeiro;RJ;ATIVO;+55 17 92967-2772
+20260665;Maria Melo Guimarães;maria.melo.guimarães.20260665@campus.edu.br;717.395.100-90;2008-10-23;2025-12-19;C003;Fortaleza;RS;TRANCADO;+55 17 94388-4693
+20260666;Henrique Ursula Souza Santos;henrique.ursula.souza.sa.20260666@aluno.unilago.edu.br;820.536.053-62;2002-05-04;2025-11-09;C008;Florianópolis;SP;ATIVO;+55 17 91968-4904
+20260667;Vitor Ramos Castro;vitor.ramos.castro.20260667@aluno.unilago.edu.br;284.428.333-75;2002-09-26;2026-01-28;C008;Vitória;PR;ATIVO;+55 17 93781-3633
+20260668;Carla Gomes Costa;carla.gomes.costa.20260668@academico.edu.br;001.133.410-15;2000-03-01;2025-12-25;C009;Porto Alegre;CE;ATIVO;+55 17 99203-2499
+20260669;Cecilia Machado Castro;cecilia.machado.castro.20260669@academico.edu.br;835.038.172-92;1999-11-10;2025-11-12;C009;Curitiba;SP;ATIVO;+55 17 91147-8722
+20260670;Jéssica Fernanda Costa;jéssica.fernanda.costa.20260670@aluno.unilago.edu.br;956.020.953-65;1999-05-01;2026-01-17;C010;Florianópolis;MG;ATIVO;+55 17 92268-7771
+20260671;Bruno Cardoso Farias;bruno.cardoso.farias.20260671@campus.edu.br;902.517.824-61;2001-08-08;2026-02-20;C002;Joinville;SP;ATIVO;+55 17 93217-9262
+20260672;Samuel Souza;samuel.souza.20260672@campus.edu.br;937.210.593-67;2008-11-12;2025-12-15;C010;Rio de Janeiro;RS;ATIVO;+55 17 92091-6706
+20260673;Helena Machado;helena.machado.20260673@aluno.unilago.edu.br;231.826.759-90;1997-06-03;2026-02-02;C003;Rio de Janeiro;PR;ATIVO;+55 17 94431-5017
+20260674;Yasmin Machado;yasmin.machado.20260674@faculdade.br;971.737.476-52;1999-02-17;2026-01-30;C007;Rio de Janeiro;MS;ATIVO;+55 17 98832-7526
+20260675;Samuel Borges;samuel.borges.20260675@campus.edu.br;279.421.596-04;2006-08-11;2025-12-27;C001;Porto Alegre;MG;ATIVO;+55 17 93165-3198
+20260676;André Monteiro Borges;andré.monteiro.borges.20260676@faculdade.br;525.551.417-79;2007-07-17;2025-12-25;C001;Joinville;BA;ATIVO;+55 17 91849-3523
+20260677;Pedro Machado Guimarães;pedro.machado.guimarães.20260677@campus.edu.br;463.491.543-48;2006-05-27;2025-11-06;C001;São Paulo;SP;ATIVO;+55 17 94752-4038
+20260678;Bianca Pereira Borges;bianca.pereira.borges.20260678@academico.edu.br;951.516.740-99;1999-09-02;2026-02-02;C007;Fortaleza;MG;ATIVO;+55 17 98570-2288
+20260679;Fábio Cunha;fábio.cunha.20260679@faculdade.br;165.555.896-80;1998-10-11;2025-11-21;C006;Joinville;MG;ATIVO;+55 17 93393-8724
+20260680;Davi Teixeira;davi.teixeira.20260680@campus.edu.br;480.376.049-51;2002-02-01;2025-12-30;C008;Vitória;RS;TRANCADO;+55 17 98687-7833
+20260681;Lucas Costa Silva;lucas.costa.silva.20260681@faculdade.br;651.857.884-46;2007-11-14;2026-03-14;C005;Brasília;ES;ATIVO;+55 17 95823-8688
+20260682;Davi Monteiro Almeida;davi.monteiro.almeida.20260682@campus.edu.br;310.172.827-74;2002-02-21;2026-02-05;C010;Porto Alegre;DF;ATIVO;+55 17 99756-6721
+20260683;Gabriela Ramos;gabriela.ramos.20260683@academico.edu.br;598.772.561-50;2007-03-24;2025-11-29;C006;São José do Rio Preto;PA;ATIVO;+55 17 99015-4891
+20260684;Fábio Irene Cunha;fábio.irene.cunha.20260684@academico.edu.br;649.618.462-04;1996-06-10;2025-12-02;C002;Brasília;BA;ATIVO;+55 17 91063-6120
+20260685;Eduarda Moura;eduarda.moura.20260685@academico.edu.br;409.191.672-32;2005-06-06;2026-01-25;C007;Porto Alegre;BA;ATIVO;+55 17 92897-6621
+20260686;Nicolas Almeida;nicolas.almeida.20260686@academico.edu.br;988.429.622-54;2001-02-16;2025-11-28;C010;Curitiba;RJ;ATIVO;+55 17 91786-5030
+20260687;Fernanda Batista Rocha;fernanda.batista.rocha.20260687@academico.edu.br;779.700.825-14;2004-05-24;2025-11-23;C004;Porto Alegre;ES;ATIVO;+55 17 94792-1447
+20260688;Caio Carvalho Moura;caio.carvalho.moura.20260688@campus.edu.br;888.345.926-47;2003-03-09;2025-12-29;C006;Brasília;GO;ATIVO;+55 17 96330-7377
+20260689;Geovana Rafael Souza;geovana.rafael.souza.20260689@aluno.unilago.edu.br;938.957.094-37;2000-08-14;2026-02-05;C007;Campinas;ES;ATIVO;+55 17 98943-7801
+20260690;Ana Caio Araújo;ana.caio.araújo.20260690@academico.edu.br;900.149.143-01;1997-11-04;2025-12-16;C003;Vitória;SC;ATIVO;+55 17 96435-9387
+20260691;João Santos;joão.santos.20260691@faculdade.br;326.444.702-49;2007-08-12;2026-01-13;C009;Porto Alegre;SC;CANCELADO;+55 17 92244-2649
+20260692;Karen Melo;karen.melo.20260692@aluno.unilago.edu.br;989.030.406-63;2005-11-06;2026-02-23;C002;Brasília;RJ;ATIVO;+55 17 98618-9174
+20260693;Vitória Alberto Ribeiro;vitória.alberto.ribeiro.20260693@faculdade.br;680.172.138-06;2002-06-02;2025-11-26;C003;Ribeirão Preto;RS;ATIVO;+55 17 96373-8466
+20260694;Caio Rafael Ramos;caio.rafael.ramos.20260694@faculdade.br;369.058.031-12;2001-10-27;2026-01-16;C002;Campo Grande;MG;ATIVO;+55 17 93914-2766
+20260695;Ana Nicolas Rocha;ana.nicolas.rocha.20260695@academico.edu.br;077.229.035-12;2008-08-06;2025-11-25;C008;Florianópolis;DF;ATIVO;+55 17 94962-4030
+20260696;Sofia Pinto Azevedo;sofia.pinto.azevedo.20260696@academico.edu.br;021.979.338-48;2007-01-03;2026-01-07;C009;Florianópolis;BA;ATIVO;+55 17 95612-5122
+20260697;Daniela Ramos;daniela.ramos.20260697@academico.edu.br;269.871.249-28;2003-10-22;2026-02-02;C001;São José do Rio Preto;MT;ATIVO;+55 17 92864-3489
+20260698;Isabela Cunha;isabela.cunha.20260698@faculdade.br;539.169.635-80;2008-09-10;2025-11-22;C007;Vitória;SP;ATIVO;+55 17 91662-5918
+20260699;Caio Teixeira;caio.teixeira.20260699@aluno.unilago.edu.br;496.014.520-53;2007-08-31;2025-11-15;C002;Recife;PR;TRANCADO;+55 17 95679-6187
+20260700;Patrícia Martins Farias;patrícia.martins.farias.20260700@campus.edu.br;690.009.060-05;1998-01-17;2026-01-05;C009;Porto Alegre;PE;ATIVO;+55 17 99080-1311
+20260701;Henrique Pinto Gomes;henrique.pinto.gomes.20260701@campus.edu.br;769.574.609-49;1997-02-17;2025-11-12;C001;Joinville;BA;ATIVO;+55 17 92538-5765
+20260702;Caio Ferreira;caio.ferreira.20260702@campus.edu.br;237.768.562-56;2008-02-15;2025-12-09;C002;São Paulo;PR;ATIVO;+55 17 95729-2734
+20260703;Isabela Teixeira;isabela.teixeira.20260703@academico.edu.br;833.097.033-19;2002-01-19;2025-12-16;C006;Belo Horizonte;PR;CANCELADO;+55 17 93154-5967
+20260704;Pedro Farias Rezende;pedro.farias.rezende.20260704@aluno.unilago.edu.br;869.714.220-35;1999-09-26;2026-01-22;C007;Curitiba;PE;ATIVO;+55 17 97411-2867
+20260705;Diego Melo;diego.melo.20260705@academico.edu.br;266.241.114-41;2007-10-29;2026-02-05;C010;Vitória;MS;CANCELADO;+55 17 92707-9210
+20260706;João Felipe Melo;joão.felipe.melo.20260706@faculdade.br;436.209.769-63;2002-08-11;2026-01-13;C007;São Paulo;PE;ATIVO;+55 17 91055-7978
+20260707;Irene Batista Rocha;irene.batista.rocha.20260707@aluno.unilago.edu.br;551.871.122-75;2004-10-17;2026-01-25;C009;Londrina;GO;ATIVO;+55 17 99789-2576
+20260708;Daniela Azevedo Batista;daniela.azevedo.batista.20260708@aluno.unilago.edu.br;030.248.873-47;1997-06-11;2026-02-12;C001;Florianópolis;MS;ATIVO;+55 17 94784-2543
+20260709;Enzo Monteiro;enzo.monteiro.20260709@aluno.unilago.edu.br;332.309.682-54;2000-11-04;2025-12-13;C002;Belém;DF;ATIVO;+55 17 91742-9558
+20260710;Rafael Fábio Correia;rafael.fábio.correia.20260710@academico.edu.br;783.228.188-37;2006-08-23;2025-11-23;C009;Belém;MG;ATIVO;+55 17 95815-2477
+20260711;Hugo Nogueira Vieira;hugo.nogueira.vieira.20260711@aluno.unilago.edu.br;868.003.986-56;2007-03-27;2025-11-29;C005;Curitiba;PA;ATIVO;+55 17 98600-9566
+20260712;Natália Diego Nogueira;natália.diego.nogueira.20260712@faculdade.br;615.467.785-86;2008-12-12;2026-03-06;C004;Brasília;CE;ATIVO;+55 17 92851-6595
+20260713;Isabela Souza Araújo;isabela.souza.araújo.20260713@academico.edu.br;493.831.518-40;2000-09-29;2026-01-12;C002;Goiânia;SC;ATIVO;+55 17 99487-4460
+20260714;Hugo Ribeiro;hugo.ribeiro.20260714@aluno.unilago.edu.br;810.154.954-02;1997-07-26;2026-01-05;C003;Londrina;PR;ATIVO;+55 17 92789-9010
+20260715;Jéssica Ferreira;jéssica.ferreira.20260715@academico.edu.br;790.115.852-49;2002-03-04;2025-11-10;C005;Recife;BA;ATIVO;+55 17 97469-9455
+20260716;Patrícia Lucas Moreira;patrícia.lucas.moreira.20260716@aluno.unilago.edu.br;203.191.163-68;1996-05-27;2025-12-05;C006;Ribeirão Preto;DF;CANCELADO;+55 17 94617-5782
+20260717;Leandro Ribeiro;leandro.ribeiro.20260717@campus.edu.br;464.130.516-39;1997-08-21;2025-12-04;C008;Fortaleza;PA;ATIVO;+55 17 92126-6158
+20260718;Irene Barbosa;irene.barbosa.20260718@academico.edu.br;050.874.789-15;2002-03-31;2025-11-28;C009;Rio de Janeiro;PR;ATIVO;+55 17 99462-7954
+20260719;Gustavo Rezende Oliveira;gustavo.rezende.oliveira.20260719@aluno.unilago.edu.br;344.334.695-02;2008-06-28;2026-02-19;C006;Curitiba;SP;ATIVO;+55 17 92253-7335
+20260720;Fernanda Freitas Farias;fernanda.freitas.farias.20260720@faculdade.br;387.188.235-77;1998-05-25;2026-01-08;C006;Brasília;MG;ATIVO;+55 17 94451-2536
+20260721;Maria Correia;maria.correia.20260721@academico.edu.br;682.237.953-96;2008-10-08;2026-02-15;C006;São José do Rio Preto;PE;ATIVO;+55 17 96422-7044
+20260722;Rafael Correia Farias;rafael.correia.farias.20260722@academico.edu.br;324.225.331-95;2002-09-23;2026-02-15;C001;Londrina;DF;ATIVO;+55 17 98182-8799
+20260723;Julia Barbosa;julia.barbosa.20260723@academico.edu.br;545.290.482-27;2000-08-08;2025-12-10;C005;Joinville;CE;ATIVO;+55 17 92036-6431
+20260724;Jéssica Ramos;jéssica.ramos.20260724@aluno.unilago.edu.br;836.916.663-18;2002-09-16;2025-12-27;C004;Porto Alegre;CE;ATIVO;+55 17 94146-9796
+20260725;Nicolas Martins Campos;nicolas.martins.campos.20260725@campus.edu.br;052.856.143-49;2008-05-22;2026-01-11;C009;Salvador;SP;CANCELADO;+55 17 92608-3841
+20260726;Henrique Mariana Carvalho Oliveira;henrique.mariana.carvalh.20260726@aluno.unilago.edu.br;013.883.635-81;1999-09-12;2026-01-09;C002;São Paulo;ES;ATIVO;+55 17 92885-7973
+20260727;Carla Diego Pinto;carla.diego.pinto.20260727@aluno.unilago.edu.br;040.205.350-81;1997-08-11;2025-12-12;C001;Ribeirão Preto;ES;ATIVO;+55 17 97673-5825
+20260728;Yasmin Castro;yasmin.castro.20260728@faculdade.br;573.528.901-52;1998-04-12;2025-11-28;C006;Brasília;DF;ATIVO;+55 17 94735-5916
+20260729;Lucas Rezende;lucas.rezende.20260729@faculdade.br;089.533.542-43;2004-04-22;2026-02-27;C003;Florianópolis;RS;ATIVO;+55 17 97371-9672
+20260730;Yasmin André Gomes;yasmin.andré.gomes.20260730@aluno.unilago.edu.br;106.204.432-86;2005-11-26;2025-11-29;C004;São Paulo;PA;TRANCADO;+55 17 96451-6576
+20260731;Davi Cardoso;davi.cardoso.20260731@faculdade.br;230.642.573-25;1997-08-16;2026-01-07;C010;Goiânia;PA;ATIVO;+55 17 99992-3152
+20260732;Bianca Carvalho;bianca.carvalho.20260732@campus.edu.br;133.312.504-88;2006-05-21;2026-02-24;C007;São José do Rio Preto;GO;ATIVO;+55 17 92167-1217
+20260733;Irene Teixeira Silva;irene.teixeira.silva.20260733@faculdade.br;474.397.555-16;1999-09-18;2025-11-02;C001;Campo Grande;BA;ATIVO;+55 17 93561-6917
+20260734;Vitor Rezende Santos;vitor.rezende.santos.20260734@aluno.unilago.edu.br;113.220.786-79;2004-10-15;2026-03-15;C004;Vitória;ES;ATIVO;+55 17 96235-5022
+20260735;João Batista;joão.batista.20260735@faculdade.br;256.831.522-56;1997-02-23;2025-11-22;C007;São José do Rio Preto;DF;ATIVO;+55 17 98608-9610
+20260736;Bruno Campos;bruno.campos.20260736@campus.edu.br;575.364.829-79;2007-03-31;2026-02-02;C001;Florianópolis;PR;ATIVO;+55 17 98126-6055
+20260737;Fernanda Rocha;fernanda.rocha.20260737@aluno.unilago.edu.br;399.423.587-88;1998-12-19;2025-12-26;C010;Florianópolis;PE;ATIVO;+55 17 97544-9900
+20260738;Jéssica Farias Vieira;jéssica.farias.vieira.20260738@academico.edu.br;817.417.300-93;2002-11-04;2026-01-09;C002;Porto Alegre;SP;ATIVO;+55 17 98203-5166
+20260739;Alberto Renata Andrade Campos;alberto.renata.andrade.c.20260739@academico.edu.br;980.372.109-40;2000-02-26;2025-12-31;C002;Fortaleza;PA;ATIVO;+55 17 97051-7990
+20260740;Felipe Teixeira;felipe.teixeira.20260740@faculdade.br;460.037.463-92;2003-06-28;2025-12-27;C004;Joinville;RS;ATIVO;+55 17 91289-8155
+20260741;Elaine Pereira Ramos;elaine.pereira.ramos.20260741@faculdade.br;618.600.903-44;2004-07-31;2025-12-10;C005;Campinas;PE;ATIVO;+55 17 91972-7483
+20260742;Tiago Silva;tiago.silva.20260742@academico.edu.br;963.065.650-84;2003-06-20;2026-01-07;C008;São Paulo;RJ;ATIVO;+55 17 94422-2021
+20260743;Isabela Santos;isabela.santos.20260743@aluno.unilago.edu.br;334.395.597-31;1998-10-30;2025-11-11;C005;Florianópolis;GO;ATIVO;+55 17 99554-8361
+20260744;Gabriela Guimarães Souza;gabriela.guimarães.souza.20260744@faculdade.br;481.722.148-05;2001-06-17;2026-02-07;C002;Rio de Janeiro;DF;CANCELADO;+55 17 97046-5145
+20260745;Bruno Andrade Monteiro;bruno.andrade.monteiro.20260745@academico.edu.br;938.922.378-35;1996-09-30;2026-01-11;C008;Ribeirão Preto;ES;ATIVO;+55 17 91863-9088
+20260746;Samuel Araújo;samuel.araújo.20260746@faculdade.br;505.977.968-55;2006-11-09;2026-03-02;C009;Vitória;SC;TRANCADO;+55 17 99303-5690
+20260747;João Pedro Pinto Rocha;joão.pedro.pinto.rocha.20260747@faculdade.br;902.838.292-81;2003-02-07;2025-12-26;C002;Belo Horizonte;RJ;ATIVO;+55 17 92161-7226
+20260748;Mariana Leandro Andrade Nogueira;mariana.leandro.andrade.20260748@faculdade.br;914.661.568-28;2002-10-11;2025-11-12;C008;Campo Grande;MS;ATIVO;+55 17 96638-4237
+20260749;Felipe Karen Farias;felipe.karen.farias.20260749@aluno.unilago.edu.br;957.785.643-54;2001-04-28;2025-11-03;C008;Rio de Janeiro;GO;ATIVO;+55 17 91828-3736
+20260750;Irene Guimarães;irene.guimarães.20260750@academico.edu.br;176.027.392-52;2000-12-09;2025-12-11;C009;Ribeirão Preto;MG;ATIVO;+55 17 97340-6565
+20260751;Fernanda Azevedo Vieira;fernanda.azevedo.vieira.20260751@campus.edu.br;975.058.815-40;2001-09-26;2025-11-02;C008;Florianópolis;SP;ATIVO;+55 17 96582-4894
+20260752;Ursula Ribeiro;ursula.ribeiro.20260752@academico.edu.br;641.029.606-09;2001-11-11;2026-03-10;C006;Londrina;CE;ATIVO;+55 17 91841-4800
+20260753;Carla André Monteiro;carla.andré.monteiro.20260753@campus.edu.br;113.122.455-31;2006-10-04;2026-02-03;C008;Campinas;MG;ATIVO;+55 17 95121-2355
+20260754;Otávio Lima Ramos;otávio.lima.ramos.20260754@campus.edu.br;945.069.028-38;1998-05-01;2025-12-08;C006;Fortaleza;SP;ATIVO;+55 17 98391-7186
+20260755;Igor Carla Machado Ribeiro;igor.carla.machado.ribei.20260755@aluno.unilago.edu.br;347.618.581-04;2006-08-08;2026-01-02;C004;Porto Alegre;MT;TRANCADO;+55 17 96317-6088
+20260756;Rafael Martins Moreira;rafael.martins.moreira.20260756@academico.edu.br;129.145.935-42;2001-06-23;2025-12-01;C001;Campinas;DF;ATIVO;+55 17 93164-4537
+20260757;Gabriela Farias;gabriela.farias.20260757@faculdade.br;133.969.240-71;2002-09-07;2026-02-21;C010;Brasília;RJ;ATIVO;+55 17 97426-9600
+20260758;Pedro Cardoso Cardoso;pedro.cardoso.cardoso.20260758@campus.edu.br;147.082.064-92;1997-10-05;2025-12-02;C001;Curitiba;SP;ATIVO;+55 17 92447-9278
+20260759;Bianca Oliveira Campos;bianca.oliveira.campos.20260759@campus.edu.br;873.315.285-38;2008-04-27;2026-01-16;C004;Curitiba;MS;ATIVO;+55 17 95428-5401
+20260760;Henrique Martins;henrique.martins.20260760@aluno.unilago.edu.br;621.430.736-52;2000-04-06;2025-11-13;C001;Vitória;DF;ATIVO;+55 17 94294-3927
+20260761;Geovana Rezende;geovana.rezende.20260761@faculdade.br;594.658.338-89;1996-08-26;2025-11-28;C007;Cuiabá;MT;ATIVO;+55 17 94821-7007
+20260762;Geovana Pereira Oliveira;geovana.pereira.oliveira.20260762@academico.edu.br;790.836.295-75;1998-08-17;2025-12-24;C001;Rio de Janeiro;RS;ATIVO;+55 17 97574-9966
+20260763;Jéssica Geovana Souza Lima;jéssica.geovana.souza.li.20260763@aluno.unilago.edu.br;099.907.453-05;1999-03-01;2026-01-23;C001;Joinville;SP;ATIVO;+55 17 92185-7391
+20260764;Carla Vieira;carla.vieira.20260764@faculdade.br;965.611.542-55;1997-08-20;2026-03-06;C009;Vitória;BA;ATIVO;+55 17 98803-3734
+20260765;Isabela Machado;isabela.machado.20260765@academico.edu.br;283.538.516-26;1996-06-26;2025-12-14;C008;Vitória;PE;ATIVO;+55 17 91666-8392
+20260766;Fábio Eduarda Melo;fábio.eduarda.melo.20260766@faculdade.br;092.465.952-34;2000-12-14;2026-01-24;C007;Campinas;CE;TRANCADO;+55 17 96378-8582
+20260767;Cecilia Yasmin Silva;cecilia.yasmin.silva.20260767@aluno.unilago.edu.br;827.005.620-61;2003-12-22;2026-03-10;C007;Florianópolis;RS;ATIVO;+55 17 99072-3365
+20260768;Felipe Pinto Dias;felipe.pinto.dias.20260768@aluno.unilago.edu.br;530.652.990-81;2002-05-24;2026-01-31;C009;São Paulo;MG;ATIVO;+55 17 96212-1134
+20260769;Ursula Barbosa Castro;ursula.barbosa.castro.20260769@campus.edu.br;773.060.037-74;2006-09-27;2026-02-20;C007;Ribeirão Preto;PR;ATIVO;+55 17 92910-6269
+20260770;Alberto Vieira;alberto.vieira.20260770@aluno.unilago.edu.br;016.040.856-23;2003-07-26;2026-02-09;C003;Goiânia;RJ;ATIVO;+55 17 97459-3124
+20260771;Gustavo Fernanda Castro Batista;gustavo.fernanda.castro.20260771@campus.edu.br;060.589.893-10;2003-08-15;2025-11-06;C008;Recife;MT;ATIVO;+55 17 96069-9985
+20260772;Gustavo Elaine Moreira;gustavo.elaine.moreira.20260772@faculdade.br;221.362.670-37;2003-01-31;2025-11-25;C008;Rio de Janeiro;BA;ATIVO;+55 17 99101-6235
+20260773;Nicolas Pinto;nicolas.pinto.20260773@aluno.unilago.edu.br;090.922.232-67;2007-12-18;2026-01-25;C006;Salvador;RJ;ATIVO;+55 17 93370-9583
+20260774;Samuel Tiago Cardoso;samuel.tiago.cardoso.20260774@aluno.unilago.edu.br;747.371.507-52;2007-10-14;2026-01-20;C006;Recife;BA;ATIVO;+55 17 97552-6837
+20260775;Diego Teixeira Ramos;diego.teixeira.ramos.20260775@campus.edu.br;095.437.925-71;2008-04-09;2026-03-07;C001;Florianópolis;MG;ATIVO;+55 17 91303-9452
+20260776;Carla Borges;carla.borges.20260776@faculdade.br;985.629.741-93;2008-12-28;2025-11-30;C006;Recife;SC;ATIVO;+55 17 96335-7013
+20260777;Thais Souza;thais.souza.20260777@campus.edu.br;880.460.522-75;2007-07-18;2025-12-14;C005;Campo Grande;MT;ATIVO;+55 17 95505-3918
+20260778;Diego Cardoso Andrade;diego.cardoso.andrade.20260778@aluno.unilago.edu.br;943.425.743-23;2007-09-03;2025-11-09;C008;Brasília;SP;ATIVO;+55 17 96404-8688
+20260779;Mariana Borges Dias;mariana.borges.dias.20260779@aluno.unilago.edu.br;939.902.610-59;1997-01-20;2026-03-02;C005;Rio de Janeiro;PE;TRANCADO;+55 17 95247-9068
+20260780;Davi Melo;davi.melo.20260780@academico.edu.br;589.406.526-70;2003-11-20;2025-11-14;C007;Rio de Janeiro;PE;ATIVO;+55 17 94674-8262
+20260781;Thais Otávio Carvalho Cunha;thais.otávio.carvalho.cu.20260781@aluno.unilago.edu.br;879.185.454-57;2005-10-17;2026-02-12;C006;Curitiba;ES;ATIVO;+55 17 97634-9219
+20260782;Natália Renata Machado Oliveira;natália.renata.machado.o.20260782@academico.edu.br;251.708.166-43;1996-10-02;2026-03-10;C005;Campo Grande;PA;ATIVO;+55 17 96135-6877
+20260783;Sofia Hugo Gomes Vieira;sofia.hugo.gomes.vieira.20260783@faculdade.br;500.136.726-30;2004-12-06;2026-02-01;C007;Curitiba;MS;ATIVO;+55 17 99417-3205
+20260784;Samuel Ferreira Rocha;samuel.ferreira.rocha.20260784@faculdade.br;502.048.730-23;1997-10-26;2025-11-11;C004;Curitiba;BA;ATIVO;+55 17 92126-8421
+20260785;Vitória Freitas;vitória.freitas.20260785@academico.edu.br;773.850.578-22;1999-09-19;2025-11-24;C009;São Paulo;PE;ATIVO;+55 17 99398-5712
+20260786;Carla Correia;carla.correia.20260786@aluno.unilago.edu.br;040.789.476-14;2005-07-12;2026-02-28;C002;São José do Rio Preto;MS;ATIVO;+55 17 92236-9600
+20260787;Isabela Nogueira;isabela.nogueira.20260787@faculdade.br;622.206.574-26;2007-08-05;2026-02-22;C002;São Paulo;DF;ATIVO;+55 17 97457-7485
+20260788;Maria Cunha;maria.cunha.20260788@faculdade.br;169.122.862-66;2002-11-04;2026-01-27;C002;Florianópolis;PE;ATIVO;+55 17 97436-8564
+20260789;Sofia Gomes;sofia.gomes.20260789@academico.edu.br;983.462.087-87;1996-11-26;2026-01-12;C009;Vitória;PE;ATIVO;+55 17 93352-5222
+20260790;Maria Fábio Araújo;maria.fábio.araújo.20260790@campus.edu.br;891.786.394-23;2007-10-11;2026-02-18;C005;São José do Rio Preto;PE;ATIVO;+55 17 93387-1068
+20260791;Elaine Pinto Gomes;elaine.pinto.gomes.20260791@campus.edu.br;571.828.568-27;1997-09-02;2025-12-28;C010;Recife;MG;ATIVO;+55 17 91307-3219
+20260792;Vitor Daniela Andrade;vitor.daniela.andrade.20260792@aluno.unilago.edu.br;830.423.234-53;2006-05-09;2025-12-23;C010;São Paulo;MG;ATIVO;+55 17 95429-1839
+20260793;Sofia Farias Pinto;sofia.farias.pinto.20260793@faculdade.br;807.110.922-34;1999-05-20;2026-01-27;C008;Recife;GO;ATIVO;+55 17 97659-6445
+20260794;Alberto Silva;alberto.silva.20260794@aluno.unilago.edu.br;057.349.783-17;2002-12-15;2025-12-30;C004;Vitória;PE;ATIVO;+55 17 99922-3290
+20260795;Karen Borges Pereira;karen.borges.pereira.20260795@faculdade.br;628.443.722-22;1999-06-04;2025-12-24;C001;Curitiba;DF;ATIVO;+55 17 98756-8811
+20260796;Elaine Freitas;elaine.freitas.20260796@campus.edu.br;887.167.161-11;2007-11-08;2026-01-04;C005;Fortaleza;MS;ATIVO;+55 17 93180-9761
+20260797;Gustavo Patrícia Rocha;gustavo.patrícia.rocha.20260797@academico.edu.br;282.295.199-20;2008-10-12;2026-03-02;C008;Rio de Janeiro;CE;ATIVO;+55 17 96491-1717
+20260798;Rafael Patrícia Silva;rafael.patrícia.silva.20260798@faculdade.br;852.009.729-60;1996-09-27;2025-11-22;C010;Goiânia;BA;ATIVO;+55 17 95071-4494
+20260799;Ana Castro Castro;ana.castro.castro.20260799@aluno.unilago.edu.br;310.825.736-24;2004-02-26;2025-12-27;C009;Londrina;ES;ATIVO;+55 17 92683-4996
+20260800;Pedro Teixeira;pedro.teixeira.20260800@faculdade.br;564.138.936-60;2002-02-01;2025-11-25;C005;Rio de Janeiro;PR;ATIVO;+55 17 96510-7075
+20260801;Alberto Enzo Silva;alberto.enzo.silva.20260801@academico.edu.br;473.004.287-58;2006-09-10;2026-01-05;C010;Porto Alegre;CE;ATIVO;+55 17 94921-3658
+20260802;Vitor Gomes;vitor.gomes.20260802@academico.edu.br;066.109.745-49;2001-06-26;2026-01-25;C006;Londrina;ES;TRANCADO;+55 17 93844-4670
+20260803;Carla Patrícia Freitas;carla.patrícia.freitas.20260803@academico.edu.br;120.292.279-35;2004-08-30;2026-02-21;C008;Rio de Janeiro;RS;ATIVO;+55 17 91047-6967
+20260804;Cecilia Farias;cecilia.farias.20260804@academico.edu.br;228.539.603-01;1999-05-02;2026-02-19;C007;Campo Grande;GO;ATIVO;+55 17 93827-3574
+20260805;Cecilia Melo;cecilia.melo.20260805@campus.edu.br;966.004.769-82;1996-01-07;2026-01-06;C003;Goiânia;DF;TRANCADO;+55 17 98221-7121
+20260806;Ana Moura Borges;ana.moura.borges.20260806@faculdade.br;616.441.155-55;2006-11-05;2026-03-09;C010;Joinville;SP;ATIVO;+55 17 97468-2829
+20260807;Daniela Freitas;daniela.freitas.20260807@faculdade.br;691.385.324-03;2007-03-26;2026-01-09;C001;Brasília;MT;ATIVO;+55 17 92311-1169
+20260808;Thais Pedro Ribeiro;thais.pedro.ribeiro.20260808@campus.edu.br;285.449.181-84;2005-06-13;2025-12-21;C003;Fortaleza;PE;ATIVO;+55 17 93705-1791
+20260809;Carla Guimarães;carla.guimarães.20260809@faculdade.br;074.858.859-98;1996-04-06;2025-12-08;C005;Curitiba;SP;ATIVO;+55 17 94105-5666
+20260810;Lucas Pereira;lucas.pereira.20260810@academico.edu.br;532.635.487-22;2006-12-15;2025-11-13;C009;Vitória;BA;ATIVO;+55 17 92300-4633
+20260811;Davi Castro Teixeira;davi.castro.teixeira.20260811@campus.edu.br;588.937.323-76;2005-07-07;2025-11-23;C001;Belo Horizonte;PA;ATIVO;+55 17 95637-6938
+20260812;Fernanda André Cardoso;fernanda.andré.cardoso.20260812@academico.edu.br;716.868.105-63;2006-10-14;2025-11-02;C010;Cuiabá;CE;ATIVO;+55 17 94916-2544
+20260813;Fernanda Fernanda Campos;fernanda.fernanda.campos.20260813@faculdade.br;920.613.746-21;2002-08-22;2026-02-18;C006;Joinville;PA;ATIVO;+55 17 96365-1412
+20260814;Ana Araújo;ana.araújo.20260814@campus.edu.br;732.805.710-01;2000-02-17;2025-11-24;C001;Salvador;GO;ATIVO;+55 17 95449-4913
+20260815;Fábio Barbosa;fábio.barbosa.20260815@campus.edu.br;541.957.836-03;1997-07-05;2025-11-17;C009;Campinas;RJ;ATIVO;+55 17 99236-5226
+20260816;Natália Thais Dias Teixeira;natália.thais.dias.teixe.20260816@aluno.unilago.edu.br;683.192.205-99;2002-01-16;2025-11-17;C002;Belém;MS;ATIVO;+55 17 98333-1507
+20260817;João Diego Melo;joão.diego.melo.20260817@academico.edu.br;206.987.082-72;2005-02-15;2026-03-02;C009;Belo Horizonte;RS;ATIVO;+55 17 99870-6199
+20260818;João Vieira;joão.vieira.20260818@campus.edu.br;868.455.134-46;2002-12-25;2025-12-25;C008;Cuiabá;MS;ATIVO;+55 17 91612-6669
+20260819;Irene Beatriz Vieira;irene.beatriz.vieira.20260819@faculdade.br;038.183.335-37;1999-03-07;2026-02-12;C001;Campinas;SC;ATIVO;+55 17 93865-5238
+20260820;Gabriela Freitas Cunha;gabriela.freitas.cunha.20260820@faculdade.br;787.855.379-25;1999-10-17;2026-01-26;C007;Campo Grande;SP;ATIVO;+55 17 96609-8572
+20260821;André Henrique Barbosa;andré.henrique.barbosa.20260821@aluno.unilago.edu.br;103.357.135-24;2001-08-01;2026-02-02;C005;Belo Horizonte;DF;ATIVO;+55 17 91766-8653
+20260822;Jéssica Araújo Ramos;jéssica.araújo.ramos.20260822@aluno.unilago.edu.br;746.963.096-12;2004-11-18;2026-02-14;C002;Joinville;MS;ATIVO;+55 17 91163-6530
+20260823;Tiago Moura;tiago.moura.20260823@academico.edu.br;412.692.779-42;1996-08-26;2025-12-13;C008;Campinas;PR;ATIVO;+55 17 97323-7322
+20260824;Alberto Gomes;alberto.gomes.20260824@faculdade.br;243.048.177-76;2001-09-23;2026-02-05;C009;Goiânia;MS;ATIVO;+55 17 92634-2123
+20260825;Rafael Fernanda Machado Martins;rafael.fernanda.machado.20260825@campus.edu.br;902.675.693-70;2006-04-27;2026-01-28;C008;Rio de Janeiro;MS;ATIVO;+55 17 97072-1516
+20260826;Leandro Ribeiro;leandro.ribeiro.20260826@campus.edu.br;355.041.102-94;2000-09-24;2026-03-01;C009;Recife;RS;CANCELADO;+55 17 92600-7128
+20260827;Julia Diego Campos;julia.diego.campos.20260827@faculdade.br;521.287.725-89;2001-09-30;2025-11-02;C008;Belém;BA;ATIVO;+55 17 92255-9384
+20260828;Otávio Samuel Rezende;otávio.samuel.rezende.20260828@campus.edu.br;379.558.785-64;2006-08-23;2025-12-01;C008;Florianópolis;RJ;ATIVO;+55 17 98166-1617
+20260829;Renata Carla Batista;renata.carla.batista.20260829@faculdade.br;783.921.430-39;1996-02-24;2026-03-13;C006;Londrina;MS;ATIVO;+55 17 97069-5821
+20260830;Gabriela Moura;gabriela.moura.20260830@faculdade.br;265.283.312-40;2005-06-29;2026-02-20;C010;Londrina;SP;ATIVO;+55 17 98647-5471
+20260831;Gustavo Farias;gustavo.farias.20260831@aluno.unilago.edu.br;501.440.624-38;1999-06-28;2025-12-27;C005;Joinville;GO;ATIVO;+55 17 98898-4405
+20260832;Gustavo Bruno Castro;gustavo.bruno.castro.20260832@academico.edu.br;308.551.188-61;2006-05-01;2026-02-02;C009;Recife;SC;ATIVO;+55 17 95524-1896
+20260833;Sofia Ferreira;sofia.ferreira.20260833@aluno.unilago.edu.br;701.543.510-59;2006-07-25;2026-02-15;C008;Rio de Janeiro;RJ;ATIVO;+55 17 93568-2563
+20260834;Elaine Azevedo Vieira;elaine.azevedo.vieira.20260834@campus.edu.br;829.829.135-97;1997-04-21;2025-12-19;C009;Fortaleza;SP;ATIVO;+55 17 94655-8572
+20260835;Gustavo Elaine Melo;gustavo.elaine.melo.20260835@academico.edu.br;035.251.742-68;2007-11-23;2026-03-10;C003;Curitiba;PA;ATIVO;+55 17 96112-6795
+20260836;Felipe Bruno Batista;felipe.bruno.batista.20260836@campus.edu.br;190.149.490-53;2005-12-07;2026-01-16;C001;Salvador;RJ;ATIVO;+55 17 99035-9284
+20260837;Isabela Rezende Almeida;isabela.rezende.almeida.20260837@aluno.unilago.edu.br;165.316.159-88;2001-02-15;2026-01-30;C002;Londrina;MT;ATIVO;+55 17 91934-8570
+20260838;Gabriela Monteiro Ferreira;gabriela.monteiro.ferrei.20260838@academico.edu.br;749.580.934-55;2002-03-06;2026-01-21;C007;Salvador;RJ;ATIVO;+55 17 96404-4208
+20260839;Isabela Santos Batista;isabela.santos.batista.20260839@faculdade.br;509.568.786-38;2007-12-07;2026-01-13;C003;Porto Alegre;RS;ATIVO;+55 17 91804-9692
+20260840;Geovana Vieira;geovana.vieira.20260840@aluno.unilago.edu.br;648.854.306-47;2006-11-26;2026-02-17;C007;Fortaleza;BA;ATIVO;+55 17 92865-6242
+20260841;Rafael Cunha;rafael.cunha.20260841@faculdade.br;443.805.309-75;1999-11-21;2026-02-25;C006;São José do Rio Preto;RS;ATIVO;+55 17 97470-7565
+20260842;Caio Barbosa Freitas;caio.barbosa.freitas.20260842@faculdade.br;024.931.013-03;1997-04-20;2026-02-16;C009;Joinville;MS;ATIVO;+55 17 98066-6351
+20260843;Felipe Tiago Monteiro;felipe.tiago.monteiro.20260843@faculdade.br;903.698.852-49;2004-04-26;2025-12-30;C005;Goiânia;DF;ATIVO;+55 17 94270-9941
+20260844;Igor Fernanda Pereira Borges;igor.fernanda.pereira.bo.20260844@campus.edu.br;214.109.509-48;1998-06-29;2026-01-10;C007;Fortaleza;BA;ATIVO;+55 17 99313-9544
+20260845;Beatriz Helena Gomes Monteiro;beatriz.helena.gomes.mon.20260845@campus.edu.br;981.400.405-60;1999-04-27;2025-12-02;C002;Recife;PA;TRANCADO;+55 17 93337-7891
+20260846;Carla Silva Oliveira;carla.silva.oliveira.20260846@faculdade.br;895.374.497-32;1997-12-16;2026-02-26;C002;Ribeirão Preto;PE;ATIVO;+55 17 94330-5221
+20260847;Mariana Cardoso;mariana.cardoso.20260847@faculdade.br;317.834.134-33;2007-07-26;2025-11-04;C004;Florianópolis;ES;ATIVO;+55 17 93865-9546
+20260848;Enzo Nicolas Vieira Costa;enzo.nicolas.vieira.cost.20260848@faculdade.br;374.562.978-78;1997-06-13;2025-12-03;C002;Campo Grande;PR;ATIVO;+55 17 93946-2225
+20260849;Sofia Costa Rezende;sofia.costa.rezende.20260849@campus.edu.br;195.121.959-69;2007-12-06;2025-11-24;C002;Ribeirão Preto;GO;ATIVO;+55 17 96930-6391
+20260850;Renata Araújo;renata.araújo.20260850@aluno.unilago.edu.br;396.859.402-79;2003-01-18;2026-02-04;C009;Cuiabá;PA;ATIVO;+55 17 91910-6563
+20260851;Bruno Cunha Batista;bruno.cunha.batista.20260851@academico.edu.br;902.492.886-89;2008-06-16;2025-11-02;C007;Campinas;MS;TRANCADO;+55 17 98842-9081
+20260852;Karen Ribeiro Azevedo;karen.ribeiro.azevedo.20260852@faculdade.br;543.352.778-46;1999-01-31;2026-02-27;C003;Florianópolis;PR;ATIVO;+55 17 97615-1200
+20260853;Samuel Guimarães;samuel.guimarães.20260853@campus.edu.br;123.041.481-39;2004-01-07;2026-02-01;C010;Campo Grande;SP;ATIVO;+55 17 96998-7162
+20260854;Geovana Pereira;geovana.pereira.20260854@aluno.unilago.edu.br;625.946.159-22;2002-07-04;2026-02-25;C002;Recife;SP;ATIVO;+55 17 93452-1612
+20260855;Davi Caio Machado;davi.caio.machado.20260855@academico.edu.br;908.116.984-16;2005-01-09;2025-12-06;C006;Cuiabá;MG;ATIVO;+55 17 92564-5727
+20260856;João Rafael Azevedo Machado;joão.rafael.azevedo.mach.20260856@aluno.unilago.edu.br;269.996.187-68;2001-09-22;2026-03-06;C004;Londrina;GO;ATIVO;+55 17 91024-2574
+20260857;Igor Monteiro;igor.monteiro.20260857@campus.edu.br;361.722.900-17;2004-01-27;2025-11-24;C005;Brasília;ES;ATIVO;+55 17 94042-4915
+20260858;Nicolas Borges Cardoso;nicolas.borges.cardoso.20260858@campus.edu.br;147.924.785-16;1999-09-26;2025-12-16;C005;Fortaleza;PE;ATIVO;+55 17 92111-6440
+20260859;Rafael Azevedo;rafael.azevedo.20260859@campus.edu.br;195.361.200-90;2004-03-16;2026-01-01;C005;Ribeirão Preto;RS;ATIVO;+55 17 95288-7239
+20260860;Fábio Barbosa;fábio.barbosa.20260860@faculdade.br;395.239.785-92;2005-02-17;2026-02-20;C006;Rio de Janeiro;SP;ATIVO;+55 17 99947-5968
+20260861;Vitor Rocha;vitor.rocha.20260861@aluno.unilago.edu.br;603.630.854-58;1998-11-11;2025-12-15;C005;Brasília;MT;ATIVO;+55 17 92250-8359
+20260862;Rafael Machado Rocha;rafael.machado.rocha.20260862@academico.edu.br;563.838.507-46;1998-12-13;2026-02-02;C007;Goiânia;DF;ATIVO;+55 17 92359-1533
+20260863;Rafael Vieira Castro;rafael.vieira.castro.20260863@faculdade.br;738.832.626-33;2008-10-27;2025-12-23;C005;Florianópolis;PA;ATIVO;+55 17 91400-5478
+20260864;Caio Campos Silva;caio.campos.silva.20260864@academico.edu.br;046.625.573-19;2007-05-12;2026-03-06;C010;Ribeirão Preto;DF;ATIVO;+55 17 95699-3862
+20260865;Gustavo Borges;gustavo.borges.20260865@academico.edu.br;171.043.196-38;1998-11-20;2025-12-04;C002;Recife;GO;ATIVO;+55 17 98936-5611
+20260866;Fernanda Geovana Carvalho;fernanda.geovana.carvalh.20260866@academico.edu.br;000.221.076-77;1998-04-28;2026-02-05;C010;Salvador;PR;ATIVO;+55 17 99438-9314
+20260867;Nicolas Monteiro;nicolas.monteiro.20260867@campus.edu.br;838.385.703-72;2004-09-06;2025-12-18;C010;São José do Rio Preto;RJ;ATIVO;+55 17 93013-3587
+20260868;Julia Moreira Dias;julia.moreira.dias.20260868@faculdade.br;513.122.595-68;2007-04-08;2025-11-24;C010;Campinas;SC;ATIVO;+55 17 97298-5197
+20260869;Fábio Julia Martins Lima;fábio.julia.martins.lima.20260869@aluno.unilago.edu.br;488.648.637-31;2005-08-04;2025-11-14;C010;Londrina;PR;ATIVO;+55 17 94769-7457
+20260870;Hugo Silva;hugo.silva.20260870@aluno.unilago.edu.br;047.116.200-33;1997-06-27;2026-03-08;C004;Londrina;ES;ATIVO;+55 17 97812-5971
+20260871;Fábio Souza Azevedo;fábio.souza.azevedo.20260871@campus.edu.br;042.297.979-16;1997-07-03;2026-01-24;C007;Goiânia;RJ;ATIVO;+55 17 97314-2529
+20260872;Caio Almeida;caio.almeida.20260872@campus.edu.br;036.076.230-09;1999-02-05;2025-12-12;C008;Porto Alegre;SC;ATIVO;+55 17 95362-1399
+20260873;Ursula Freitas Carvalho;ursula.freitas.carvalho.20260873@campus.edu.br;961.300.198-92;1999-03-18;2025-12-22;C003;Porto Alegre;ES;CANCELADO;+55 17 93029-7341
+20260874;Helena Gomes Monteiro;helena.gomes.monteiro.20260874@campus.edu.br;787.041.043-41;2003-05-16;2026-03-04;C009;Brasília;MS;ATIVO;+55 17 93649-9784
+20260875;Rafael Ramos;rafael.ramos.20260875@aluno.unilago.edu.br;345.615.131-92;1998-01-11;2025-12-28;C003;São Paulo;BA;ATIVO;+55 17 98675-8841
+20260876;Rafael Nogueira Costa;rafael.nogueira.costa.20260876@aluno.unilago.edu.br;320.738.775-92;1998-08-15;2026-01-16;C002;São Paulo;PA;ATIVO;+55 17 94924-6990
+20260877;Maria Felipe Santos Azevedo;maria.felipe.santos.azev.20260877@academico.edu.br;676.198.821-31;1996-11-04;2025-12-15;C001;Ribeirão Preto;PE;ATIVO;+55 17 99829-8253
+20260878;Hugo Silva;hugo.silva.20260878@aluno.unilago.edu.br;655.266.617-10;2001-03-26;2025-11-11;C008;Cuiabá;MT;ATIVO;+55 17 94479-5645
+20260879;Gabriela Gomes Ribeiro;gabriela.gomes.ribeiro.20260879@aluno.unilago.edu.br;026.612.492-34;2007-11-26;2026-01-06;C004;São Paulo;RS;ATIVO;+55 17 91868-5039
+20260880;André Correia Oliveira;andré.correia.oliveira.20260880@academico.edu.br;198.013.747-04;2003-09-01;2026-01-15;C007;São Paulo;RS;ATIVO;+55 17 99559-2128
+20260881;Igor Tiago Gomes;igor.tiago.gomes.20260881@faculdade.br;988.652.896-52;1998-12-07;2025-12-14;C006;Joinville;RS;ATIVO;+55 17 99083-1335
+20260882;Alberto Cunha Nogueira;alberto.cunha.nogueira.20260882@faculdade.br;069.362.978-00;1997-07-12;2025-12-11;C002;Belo Horizonte;CE;ATIVO;+55 17 95532-5335
+20260883;Karen Ribeiro;karen.ribeiro.20260883@academico.edu.br;011.046.877-85;2000-07-12;2026-02-20;C006;Ribeirão Preto;SC;ATIVO;+55 17 99130-2161
+20260884;Natália Bruno Rocha;natália.bruno.rocha.20260884@faculdade.br;508.730.865-62;1998-10-06;2025-11-29;C003;Rio de Janeiro;DF;ATIVO;+55 17 96282-7603
+20260885;Helena Azevedo;helena.azevedo.20260885@faculdade.br;436.692.596-47;1996-05-27;2025-11-14;C008;Porto Alegre;PR;ATIVO;+55 17 99647-4669
+20260886;Pedro Moura Pinto;pedro.moura.pinto.20260886@academico.edu.br;894.783.652-66;2008-04-15;2025-11-11;C009;Belém;SP;ATIVO;+55 17 92167-2565
+20260887;Irene Martins Monteiro;irene.martins.monteiro.20260887@academico.edu.br;756.139.188-20;2001-09-15;2026-03-02;C009;Fortaleza;GO;ATIVO;+55 17 93092-5358
+20260888;Mariana João Freitas Monteiro;mariana.joão.freitas.mon.20260888@academico.edu.br;580.103.643-15;2004-03-15;2026-02-18;C002;Joinville;DF;ATIVO;+55 17 92129-3820
+20260889;Patrícia Helena Souza;patrícia.helena.souza.20260889@faculdade.br;179.078.720-03;1999-07-28;2026-02-10;C007;Recife;GO;CANCELADO;+55 17 99780-2520
+20260890;Irene Martins Rezende;irene.martins.rezende.20260890@campus.edu.br;751.203.285-47;2003-09-16;2026-02-28;C006;Goiânia;RS;ATIVO;+55 17 91886-1439
+20260891;Carla Almeida;carla.almeida.20260891@campus.edu.br;220.113.535-57;1998-01-06;2026-03-13;C008;Vitória;MS;ATIVO;+55 17 99494-4928
+20260892;Enzo Santos;enzo.santos.20260892@aluno.unilago.edu.br;159.949.233-97;2000-01-14;2025-11-14;C009;Ribeirão Preto;RJ;ATIVO;+55 17 96329-2026
+20260893;Beatriz Nogueira Guimarães;beatriz.nogueira.guimarã.20260893@campus.edu.br;034.103.189-75;1996-03-16;2026-01-20;C010;Goiânia;PA;ATIVO;+55 17 93267-7062
+20260894;Karen Melo;karen.melo.20260894@academico.edu.br;850.752.551-88;1998-04-18;2026-01-27;C005;Campo Grande;ES;ATIVO;+55 17 96822-6050
+20260895;Pedro Moreira Araújo;pedro.moreira.araújo.20260895@academico.edu.br;517.742.424-48;1996-12-24;2025-11-12;C001;Cuiabá;CE;ATIVO;+55 17 96821-8951
+20260896;João Davi Santos Ribeiro;joão.davi.santos.ribeiro.20260896@academico.edu.br;157.990.094-85;2005-09-23;2026-01-26;C006;Porto Alegre;SC;ATIVO;+55 17 98729-3786
+20260897;Elaine Batista;elaine.batista.20260897@academico.edu.br;299.684.178-36;1998-12-05;2026-01-24;C010;Salvador;MT;ATIVO;+55 17 93509-9622
+20260898;Samuel Martins;samuel.martins.20260898@aluno.unilago.edu.br;254.237.019-05;2003-04-03;2026-02-07;C007;Florianópolis;PA;ATIVO;+55 17 98815-6847
+20260899;Henrique Batista Dias;henrique.batista.dias.20260899@faculdade.br;189.851.653-19;2000-07-02;2026-02-17;C007;Cuiabá;MG;ATIVO;+55 17 98333-3870
+20260900;Vitor Pereira Melo;vitor.pereira.melo.20260900@aluno.unilago.edu.br;825.596.397-01;2000-09-22;2025-11-20;C009;Porto Alegre;BA;ATIVO;+55 17 95151-5855
+20260901;Davi Correia Rezende;davi.correia.rezende.20260901@faculdade.br;805.558.616-89;2001-04-26;2025-12-02;C009;Ribeirão Preto;ES;ATIVO;+55 17 99619-1224
+20260902;Bruno Nogueira;bruno.nogueira.20260902@campus.edu.br;874.287.501-18;2004-06-09;2025-11-13;C005;Belo Horizonte;ES;ATIVO;+55 17 94057-3724
+20260903;Leandro Rezende Melo;leandro.rezende.melo.20260903@aluno.unilago.edu.br;922.769.607-94;2001-07-25;2025-11-20;C010;Florianópolis;MG;ATIVO;+55 17 95566-8473
+20260904;Ursula Azevedo Freitas;ursula.azevedo.freitas.20260904@faculdade.br;602.847.194-33;1997-02-02;2026-01-07;C004;Fortaleza;ES;ATIVO;+55 17 99006-8651
+20260905;Caio Borges;caio.borges.20260905@campus.edu.br;926.868.093-53;1996-06-15;2026-01-15;C005;Ribeirão Preto;RS;ATIVO;+55 17 99678-7905
+20260906;Vitória Farias Ferreira;vitória.farias.ferreira.20260906@campus.edu.br;619.248.562-97;2008-07-09;2026-02-26;C009;Cuiabá;MS;ATIVO;+55 17 98526-8348
+20260907;Mariana Oliveira;mariana.oliveira.20260907@aluno.unilago.edu.br;085.280.164-31;2006-11-24;2026-03-02;C001;Porto Alegre;PE;ATIVO;+55 17 93475-2554
+20260908;Thais Santos;thais.santos.20260908@aluno.unilago.edu.br;086.800.878-12;2004-02-16;2025-12-01;C002;Florianópolis;PA;ATIVO;+55 17 98751-4975
+20260909;Pedro Monteiro;pedro.monteiro.20260909@aluno.unilago.edu.br;722.220.666-77;2001-12-14;2026-01-30;C008;Salvador;SP;ATIVO;+55 17 94100-7615
+20260910;Caio Costa;caio.costa.20260910@aluno.unilago.edu.br;438.056.139-45;2000-08-20;2025-12-31;C002;Joinville;ES;ATIVO;+55 17 98461-8137
+20260911;Maria Geovana Machado;maria.geovana.machado.20260911@academico.edu.br;993.797.890-20;2004-12-29;2026-02-25;C006;Rio de Janeiro;MS;ATIVO;+55 17 93557-1310
+20260912;Vitória Almeida Carvalho;vitória.almeida.carvalho.20260912@campus.edu.br;397.264.339-00;2004-03-14;2026-02-16;C006;Campinas;PA;ATIVO;+55 17 91240-6737
+20260913;Karen Melo Dias;karen.melo.dias.20260913@faculdade.br;018.999.439-63;2008-04-04;2025-12-08;C001;Florianópolis;PR;ATIVO;+55 17 92529-4816
+20260914;Bruno Almeida;bruno.almeida.20260914@aluno.unilago.edu.br;461.887.274-35;1998-08-06;2025-12-14;C001;Salvador;RS;ATIVO;+55 17 98795-9126
+20260915;Fábio Vitória Almeida;fábio.vitória.almeida.20260915@campus.edu.br;052.208.269-34;2004-03-04;2026-02-15;C010;Salvador;ES;ATIVO;+55 17 97708-7663
+20260916;Leandro Rezende;leandro.rezende.20260916@aluno.unilago.edu.br;643.115.674-77;1997-01-04;2025-11-30;C009;Campo Grande;RS;ATIVO;+55 17 98877-2170
+20260917;Felipe Teixeira;felipe.teixeira.20260917@academico.edu.br;723.362.669-50;2007-01-26;2025-11-26;C007;Fortaleza;PE;ATIVO;+55 17 96091-5761
+20260918;Gustavo Farias;gustavo.farias.20260918@faculdade.br;138.372.699-34;1998-03-21;2026-02-22;C006;Rio de Janeiro;PR;ATIVO;+55 17 93849-9810
+20260919;Henrique Igor Farias;henrique.igor.farias.20260919@campus.edu.br;433.157.436-83;2001-03-19;2025-11-17;C008;Belo Horizonte;PA;ATIVO;+55 17 92006-2495
+20260920;Felipe Machado;felipe.machado.20260920@academico.edu.br;586.297.224-52;2003-11-04;2026-03-01;C009;Recife;DF;ATIVO;+55 17 92929-2609
+20260921;Felipe Campos;felipe.campos.20260921@faculdade.br;762.503.121-64;2006-06-04;2026-01-22;C009;Porto Alegre;PR;ATIVO;+55 17 92538-9644
+20260922;Gustavo Freitas Nogueira;gustavo.freitas.nogueira.20260922@academico.edu.br;241.050.935-69;1999-09-19;2025-12-17;C009;Londrina;PA;ATIVO;+55 17 93831-6285
+20260923;Felipe Martins Dias;felipe.martins.dias.20260923@faculdade.br;231.297.653-99;1998-05-13;2025-11-29;C010;Belém;PA;ATIVO;+55 17 92353-9111
+20260924;João Melo Correia;joão.melo.correia.20260924@campus.edu.br;609.751.754-82;2007-02-06;2026-03-01;C003;Brasília;PR;ATIVO;+55 17 97680-9635
+20260925;Maria Nicolas Freitas Moura;maria.nicolas.freitas.mo.20260925@academico.edu.br;648.409.858-63;1996-12-26;2026-01-04;C001;Londrina;BA;ATIVO;+55 17 97745-2871
+20260926;Igor Dias;igor.dias.20260926@aluno.unilago.edu.br;921.084.258-49;1998-10-31;2025-12-28;C001;Campinas;MS;ATIVO;+55 17 99831-9977
+20260927;Enzo Enzo Cardoso;enzo.enzo.cardoso.20260927@aluno.unilago.edu.br;098.546.022-13;2008-01-20;2025-11-15;C004;Florianópolis;SP;TRANCADO;+55 17 93150-9558
+20260928;André João Farias;andré.joão.farias.20260928@aluno.unilago.edu.br;077.244.099-07;1998-02-15;2026-01-24;C010;Campinas;BA;ATIVO;+55 17 93505-1338
+20260929;Lucas Moreira Moura;lucas.moreira.moura.20260929@campus.edu.br;291.168.395-08;2008-08-24;2026-01-11;C007;Cuiabá;CE;ATIVO;+55 17 97784-2209
+20260930;Diego Igor Moura;diego.igor.moura.20260930@campus.edu.br;353.197.121-70;2008-06-04;2026-01-03;C005;Florianópolis;PE;ATIVO;+55 17 92843-8942
+20260931;Carla Vitória Batista Castro;carla.vitória.batista.ca.20260931@campus.edu.br;467.097.992-14;2005-09-04;2026-01-14;C002;São Paulo;GO;ATIVO;+55 17 99087-3115
+20260932;Vitória Araújo;vitória.araújo.20260932@faculdade.br;234.480.146-19;2008-08-27;2025-12-02;C009;Brasília;SC;ATIVO;+55 17 97884-3770
+20260933;Isabela Correia;isabela.correia.20260933@aluno.unilago.edu.br;436.327.517-41;1997-02-12;2025-11-15;C006;Fortaleza;PA;ATIVO;+55 17 92545-6607
+20260934;Patrícia Diego Araújo Machado;patrícia.diego.araújo.ma.20260934@academico.edu.br;110.623.796-25;2003-12-08;2025-12-06;C001;Belo Horizonte;RS;ATIVO;+55 17 96690-7450
+20260935;Bianca Almeida;bianca.almeida.20260935@aluno.unilago.edu.br;741.240.219-08;2002-02-17;2026-02-13;C003;Porto Alegre;PA;CANCELADO;+55 17 98036-9178
+20260936;Igor Mariana Nogueira;igor.mariana.nogueira.20260936@campus.edu.br;286.290.799-53;2002-04-07;2026-03-03;C010;Campo Grande;MT;ATIVO;+55 17 93969-6214
+20260937;Enzo Thais Souza;enzo.thais.souza.20260937@aluno.unilago.edu.br;140.064.456-27;2007-06-24;2026-03-06;C003;Curitiba;RJ;ATIVO;+55 17 95553-2090
+20260938;Fernanda Nicolas Araújo;fernanda.nicolas.araújo.20260938@faculdade.br;896.485.724-73;2000-02-17;2025-11-26;C009;Joinville;SC;ATIVO;+55 17 96093-2521
+20260939;Ana Cunha Silva;ana.cunha.silva.20260939@academico.edu.br;846.495.219-83;2001-09-07;2025-11-12;C006;Recife;MG;ATIVO;+55 17 99983-6674
+20260940;Gabriela Vitória Carvalho;gabriela.vitória.carvalh.20260940@campus.edu.br;090.184.062-05;2005-05-30;2025-12-06;C006;Florianópolis;PR;ATIVO;+55 17 91189-8616
+20260941;Hugo Hugo Souza;hugo.hugo.souza.20260941@campus.edu.br;730.475.451-75;1998-11-15;2025-11-26;C005;Ribeirão Preto;PE;ATIVO;+55 17 98430-7370
+20260942;Thais Oliveira;thais.oliveira.20260942@academico.edu.br;702.169.583-24;2006-11-29;2026-03-11;C006;Londrina;PA;ATIVO;+55 17 99800-3181
+20260943;Bianca Alberto Freitas;bianca.alberto.freitas.20260943@campus.edu.br;201.003.402-18;1996-02-26;2026-02-21;C007;Recife;SC;ATIVO;+55 17 91347-4513
+20260944;Thais Cunha;thais.cunha.20260944@campus.edu.br;977.307.866-42;2006-08-29;2026-01-02;C008;São José do Rio Preto;DF;CANCELADO;+55 17 97681-6377
+20260945;Leandro Santos;leandro.santos.20260945@faculdade.br;755.793.889-05;1998-01-06;2025-11-23;C005;Fortaleza;PE;ATIVO;+55 17 99840-7650
+20260946;Irene Silva;irene.silva.20260946@campus.edu.br;876.184.735-21;2001-03-19;2025-12-24;C010;Florianópolis;RJ;ATIVO;+55 17 96632-3545
+20260947;Felipe Nicolas Batista;felipe.nicolas.batista.20260947@campus.edu.br;514.872.679-04;2000-01-15;2026-01-24;C001;Fortaleza;PR;ATIVO;+55 17 95109-9949
+20260948;Samuel Cunha;samuel.cunha.20260948@aluno.unilago.edu.br;302.905.742-98;1999-11-17;2025-12-20;C003;Goiânia;MS;TRANCADO;+55 17 95406-2351
+20260949;Renata Ferreira;renata.ferreira.20260949@academico.edu.br;635.843.420-53;2004-03-11;2025-11-01;C005;Campinas;MT;ATIVO;+55 17 98800-8783
+20260950;Igor Gomes;igor.gomes.20260950@campus.edu.br;065.635.230-34;1997-05-04;2026-02-04;C010;Curitiba;PR;ATIVO;+55 17 99494-9897
+20260951;Helena Lucas Farias;helena.lucas.farias.20260951@academico.edu.br;632.620.234-13;1998-03-05;2026-01-13;C008;Florianópolis;SP;ATIVO;+55 17 96417-9142
+20260952;Isabela Santos;isabela.santos.20260952@academico.edu.br;018.924.358-43;2001-01-10;2025-11-07;C007;Ribeirão Preto;GO;ATIVO;+55 17 92202-3245
+20260953;Natália André Cardoso;natália.andré.cardoso.20260953@aluno.unilago.edu.br;233.457.112-98;2003-04-03;2025-12-03;C008;Campo Grande;BA;ATIVO;+55 17 99018-1334
+20260954;Mariana Felipe Rocha Oliveira;mariana.felipe.rocha.oli.20260954@academico.edu.br;787.464.092-84;2007-11-17;2025-12-03;C007;Campo Grande;DF;ATIVO;+55 17 91331-2344
+20260955;Ursula Rocha;ursula.rocha.20260955@faculdade.br;325.964.875-22;2007-05-30;2025-12-23;C004;Rio de Janeiro;SP;ATIVO;+55 17 99340-3594
+20260956;Nicolas Gomes;nicolas.gomes.20260956@campus.edu.br;318.976.581-46;2008-02-06;2025-11-18;C009;Londrina;PA;ATIVO;+55 17 93663-9726
+20260957;Tiago Freitas;tiago.freitas.20260957@faculdade.br;094.997.965-09;1999-05-19;2025-12-23;C008;São Paulo;MG;ATIVO;+55 17 92321-4345
+20260958;Leandro Silva;leandro.silva.20260958@aluno.unilago.edu.br;794.044.753-00;2004-07-16;2026-02-11;C009;São Paulo;PR;ATIVO;+55 17 98106-5105
+20260959;Irene Martins;irene.martins.20260959@academico.edu.br;561.895.120-93;2002-05-19;2025-12-19;C002;Brasília;PA;ATIVO;+55 17 94052-2048
+20260960;Jéssica Gomes;jéssica.gomes.20260960@aluno.unilago.edu.br;435.847.460-16;2007-02-22;2025-11-27;C009;Ribeirão Preto;ES;CANCELADO;+55 17 97352-1343
+20260961;Vitor Campos;vitor.campos.20260961@faculdade.br;425.876.933-76;2005-12-20;2026-02-17;C003;São José do Rio Preto;PA;ATIVO;+55 17 94804-5082
+20260962;Bruno Campos;bruno.campos.20260962@academico.edu.br;012.064.068-06;1996-01-26;2026-01-25;C010;Curitiba;GO;ATIVO;+55 17 94065-3580
+20260963;Carla Silva;carla.silva.20260963@aluno.unilago.edu.br;192.892.094-07;2008-08-08;2025-12-27;C003;Curitiba;MS;ATIVO;+55 17 96189-7680
+20260964;Leandro André Oliveira;leandro.andré.oliveira.20260964@aluno.unilago.edu.br;164.082.936-66;2008-12-13;2025-11-25;C006;Goiânia;GO;ATIVO;+55 17 93363-5480
+20260965;Gabriela Machado;gabriela.machado.20260965@academico.edu.br;887.003.759-53;1996-07-30;2025-11-21;C009;São Paulo;SP;ATIVO;+55 17 97134-2921
+20260966;Enzo Dias;enzo.dias.20260966@aluno.unilago.edu.br;652.312.118-75;2001-11-02;2025-12-05;C009;Florianópolis;SC;ATIVO;+55 17 92657-7456
+20260967;Elaine Sofia Cunha;elaine.sofia.cunha.20260967@academico.edu.br;781.755.816-94;1999-06-08;2025-11-19;C005;Goiânia;ES;ATIVO;+55 17 99275-8073
+20260968;João Nogueira Machado;joão.nogueira.machado.20260968@campus.edu.br;666.542.883-50;2005-03-06;2026-03-15;C005;Fortaleza;SC;ATIVO;+55 17 92193-2956
+20260969;Alberto Enzo Castro Correia;alberto.enzo.castro.corr.20260969@faculdade.br;322.935.189-94;2007-08-31;2025-12-09;C004;São José do Rio Preto;RJ;ATIVO;+55 17 95469-2162
+20260970;Thais Borges Pinto;thais.borges.pinto.20260970@faculdade.br;388.036.254-68;2002-11-04;2025-11-09;C003;São Paulo;CE;TRANCADO;+55 17 95940-2472
+20260971;André Monteiro Ribeiro;andré.monteiro.ribeiro.20260971@aluno.unilago.edu.br;132.104.119-75;1997-12-08;2025-12-24;C002;São José do Rio Preto;BA;ATIVO;+55 17 99717-1065
+20260972;Enzo Guimarães;enzo.guimarães.20260972@campus.edu.br;526.497.535-90;2004-10-06;2026-02-10;C001;Curitiba;SP;ATIVO;+55 17 97786-1239
+20260973;Fernanda Castro Teixeira;fernanda.castro.teixeira.20260973@campus.edu.br;521.425.983-28;2004-08-25;2026-01-30;C005;Curitiba;RS;ATIVO;+55 17 98459-2148
+20260974;Tiago Monteiro Silva;tiago.monteiro.silva.20260974@faculdade.br;792.059.924-53;2000-06-03;2026-01-22;C002;São Paulo;CE;ATIVO;+55 17 94046-6769
+20260975;Vitor Cunha;vitor.cunha.20260975@campus.edu.br;712.884.716-55;1996-10-03;2026-02-10;C008;Londrina;PE;TRANCADO;+55 17 97229-4665
+20260976;André Ferreira Nogueira;andré.ferreira.nogueira.20260976@campus.edu.br;493.443.195-70;2004-04-08;2026-02-22;C004;Porto Alegre;SC;ATIVO;+55 17 99069-8678
+20260977;Sofia Vitória Ramos;sofia.vitória.ramos.20260977@aluno.unilago.edu.br;938.887.297-13;2008-10-03;2026-01-07;C010;Brasília;DF;ATIVO;+55 17 92422-4858
+20260978;Thais Souza;thais.souza.20260978@faculdade.br;727.622.347-81;2007-02-28;2025-12-19;C001;Vitória;RJ;ATIVO;+55 17 99123-9459
+20260979;Samuel Nogueira;samuel.nogueira.20260979@campus.edu.br;383.411.567-00;2000-04-24;2026-01-29;C006;Recife;RS;ATIVO;+55 17 95672-6244
+20260980;Lucas Ferreira Azevedo;lucas.ferreira.azevedo.20260980@campus.edu.br;793.167.428-83;1996-04-05;2026-03-02;C009;Belém;GO;TRANCADO;+55 17 94453-7816
+20260981;Caio Farias Freitas;caio.farias.freitas.20260981@faculdade.br;007.445.462-54;2006-06-15;2026-02-02;C009;Vitória;MT;ATIVO;+55 17 91083-4305
+20260982;Hugo Melo Pinto;hugo.melo.pinto.20260982@aluno.unilago.edu.br;394.992.761-90;2002-07-30;2026-01-01;C004;Salvador;RS;ATIVO;+55 17 92677-9159
+20260983;Renata Helena Vieira;renata.helena.vieira.20260983@academico.edu.br;396.554.914-88;2004-08-25;2026-02-08;C008;São Paulo;MT;ATIVO;+55 17 98594-8205
+20260984;Henrique Fábio Araújo;henrique.fábio.araújo.20260984@faculdade.br;704.536.829-69;2000-09-21;2026-02-05;C004;Joinville;MG;ATIVO;+55 17 91520-4418
+20260985;Yasmin Lucas Nogueira Silva;yasmin.lucas.nogueira.si.20260985@campus.edu.br;531.172.274-08;2008-03-12;2026-01-15;C009;Ribeirão Preto;DF;ATIVO;+55 17 91285-8276
+20260986;Tiago Melo;tiago.melo.20260986@aluno.unilago.edu.br;116.331.131-82;1997-01-10;2026-02-14;C003;Londrina;ES;ATIVO;+55 17 98493-3457
+20260987;Pedro Silva Castro;pedro.silva.castro.20260987@faculdade.br;847.889.752-53;1998-06-17;2025-11-22;C003;São Paulo;MT;TRANCADO;+55 17 99967-5542
+20260988;Ana Lima Martins;ana.lima.martins.20260988@aluno.unilago.edu.br;395.185.002-69;1998-04-03;2025-11-12;C002;São José do Rio Preto;CE;ATIVO;+55 17 93564-8949
+20260989;João Melo;joão.melo.20260989@campus.edu.br;270.529.787-38;1999-09-11;2026-01-22;C006;Curitiba;SP;ATIVO;+55 17 94755-4019
+20260990;Pedro Pinto Melo;pedro.pinto.melo.20260990@campus.edu.br;176.739.221-07;1997-11-01;2026-02-24;C003;Campinas;RS;ATIVO;+55 17 92096-5107
+20260991;Irene Guimarães;irene.guimarães.20260991@faculdade.br;829.204.323-14;2005-09-15;2025-12-13;C008;Goiânia;CE;ATIVO;+55 17 96065-5571
+20260992;Irene Borges Gomes;irene.borges.gomes.20260992@faculdade.br;089.867.526-33;2005-06-29;2025-11-27;C002;Cuiabá;GO;ATIVO;+55 17 94132-9293
+20260993;Davi Ursula Farias;davi.ursula.farias.20260993@academico.edu.br;243.589.791-09;1997-10-13;2025-12-21;C010;Belo Horizonte;GO;ATIVO;+55 17 95445-8375
+20260994;Yasmin Vieira Araújo;yasmin.vieira.araújo.20260994@faculdade.br;515.683.046-57;2005-10-11;2026-02-28;C008;Vitória;SC;ATIVO;+55 17 91289-2594
+20260995;Diego Vieira;diego.vieira.20260995@campus.edu.br;281.975.909-36;2004-08-31;2025-12-19;C010;Rio de Janeiro;GO;TRANCADO;+55 17 91829-7365
+20260996;Beatriz Borges Melo;beatriz.borges.melo.20260996@aluno.unilago.edu.br;382.299.872-70;2001-02-07;2025-11-30;C008;Belo Horizonte;MS;ATIVO;+55 17 91804-6927
+20260997;Geovana Moura;geovana.moura.20260997@academico.edu.br;297.758.758-99;2007-11-17;2026-02-07;C007;Belém;RJ;ATIVO;+55 17 96542-6616
+20260998;Isabela Patrícia Ribeiro;isabela.patrícia.ribeiro.20260998@faculdade.br;334.158.646-75;2004-06-04;2026-02-16;C010;Campo Grande;GO;ATIVO;+55 17 92368-7533
+20260999;Patrícia Maria Monteiro Azevedo;patrícia.maria.monteiro.20260999@academico.edu.br;593.363.766-28;1996-09-20;2026-01-23;C003;Porto Alegre;ES;ATIVO;+55 17 95514-4843
+20261000;Ursula Lima;ursula.lima.20261000@faculdade.br;147.573.314-03;1996-11-18;2026-01-18;C004;Goiânia;SP;ATIVO;+55 17 99556-2360
