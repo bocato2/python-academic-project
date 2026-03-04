@@ -1,0 +1,26 @@
+﻿id_disciplina;id_curso;nome_disciplina
+D001;C001;Algoritmos I
+D002;C001;Banco de Dados I
+D003;C001;Python para Dados
+D004;C001;Engenharia de Software
+D005;C001;SQL e Otimizacao
+D006;C002;Estatistica Aplicada
+D007;C002;Processos Industriais
+D008;C002;Pesquisa Operacional
+D009;C002;Gestao da Qualidade
+D010;C002;Planejamento e Controle
+D011;C003;Resistencia dos Materiais
+D012;C003;Materiais de Construcao
+D013;C003;Topografia
+D014;C003;Estruturas I
+D015;C003;Hidraulica
+D016;C004;Contabilidade
+D017;C004;Gestao de Pessoas
+D018;C004;Marketing
+D019;C004;Financas
+D020;C004;Economia
+D021;C005;Direito Civil
+D022;C005;Direito Penal
+D023;C005;Direito Constitucional
+D024;C005;Processo Civil
+D025;C005;Direito do Trabalho
