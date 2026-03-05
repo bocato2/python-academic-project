@@ -1,4 +1,5 @@
 from ler_csv import ler_arquivo
+from gravar_csv import gravar_arquivo
 
 ds_alunos = ler_arquivo("alunos.csv")
 ds_cursos = ler_arquivo("cursos.csv")
@@ -7,9 +8,15 @@ ds_disciplinas = ler_arquivo("disciplinas.csv")
 ds_financeiro = ler_arquivo("financeiro.csv")
 
 #cria um Dictionary Comprehension, o id do curso passa a ser a chave e o nome o valor
-cursos_por_id = {c["id_curso"]: c for c in ds_cursos}
-#notas_por_aluno = {n["ra"]: n for n in ds_notas}
-#dividas_por_aluno = {p["ra"]:  p for p in ds_financeiro}
+indice_cursos = {c["id_curso"]: c for c in ds_cursos}
+
+indice_alunos = {}
+for aluno in ds_alunos:
+    ra = aluno.get("ra")
+    indice_alunos[ra] = indice_alunos.get(ra,{})
+    indice_alunos[ra]= aluno
+
+
 indice_notas ={}
 for nota in ds_notas:
     ra = nota.get("ra")
@@ -19,6 +26,7 @@ for nota in ds_notas:
     indice_notas[ra]=indice_notas.get(ra,{})
     ###se o importante é mostrar apenas uma vez a disciplina com a nota atualizada, descomente aqui:
     #indice_notas[ra][nome_disc]=indice_notas[ra].get(nome_disc,{"media":media, "situacao":situacao})
+    
     ###para mostrar todas as vezes que a disciplina aparece para o aluno, use o codigo abaixo:
     indice_notas[ra][nome_disc]={"media":media, "situacao":situacao}
 
@@ -37,17 +45,6 @@ for receber in ds_financeiro:
     indice_financeiro[ra][ano_mes]={"ano_ref":ano, "mes_ref":mes, "valor":valor_msl,"valor_pago":valor_pago, "situacao":situacao}
 
 
-        #indice_financeiro[ra][situacao].append(receber)
-        #indice_financeiro[ra][situacao].append("ano_ref":ano, "mes_ref":mes, "valor":valor_msl, "valor_pago":valor_pago))
-        #indice_financeiro[ra][situacao]={"ano_ref":ano, "mes_ref":mes, "valor":valor_msl}
-        
-        #indice_financeiro["total_divida"]=indice_financeiro.get[]
-    
-    
-
-#print(indice_financeiro)
-
-
 dados_aluno={
     "ra":None,
     "curso":None,
@@ -57,7 +54,7 @@ dados_aluno={
     }
 for aluno in ds_alunos:
     nome = (aluno.get("nome") or "").strip()
-    curso = cursos_por_id.get(aluno["id_curso"])#aqui pega o id do curso do aluno e procura a chave em cursos_por_id que possui o id
+    curso = indice_cursos.get(aluno["id_curso"])#aqui pega o id do curso do aluno e procura a chave em cursos_por_id que possui o id
     ra = aluno.get("ra")
 
     cd_curso = aluno.get("id_curso")
@@ -74,14 +71,28 @@ for aluno in ds_alunos:
     
     dados_aluno[nome]["boletim"]=notas
     dados_aluno[nome]["financeiro"]=extrato
-                
-    
-    
-    #if nome not in dados_aluno:
-        #dados_aluno[nome]={"curso":curso}
-   
-    #dados_aluno["curso"]=curso
-    #dados_aluno["ra"]=ra
-    #dados_aluno["situacao"]=situacao
 
-print(dados_aluno)
+diario=[]#cria uma lista para receber os dicts
+for linha in ds_notas:
+    
+    ra = linha.get("ra")
+    nm_aluno = indice_alunos[ra].get("nome")
+    id_curso = linha.get("id_curso")
+    nm_curso = indice_cursos[id_curso].get("nome_curso")
+    nova_linha = {**linha, "nome_aluno": nm_aluno, "nome_curso": nm_curso}#concatena a linha com os novos campos
+
+    diario.append(nova_linha)
+
+colunas = diario[0].keys()
+gravar_arquivo("diario.csv",colunas,diario)
+
+matriz_curso=[]
+for linha in ds_disciplinas:
+    id_curso = linha.get("id_curso")
+    nm_curso = indice_cursos[id_curso].get("nome_curso")
+    nova_linha = {"nome_curso":nm_curso,**linha}
+    matriz_curso.append(nova_linha)
+
+colunas = matriz_curso[0].keys()
+
+gravar_arquivo("matrizes.csv",colunas,matriz_curso)

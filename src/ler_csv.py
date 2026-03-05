@@ -9,3 +9,4 @@ def ler_arquivo(arquivo):
     with open(caminho,"r",encoding="utf-8-sig",newline="") as f:
         leitor = csv.DictReader(f,delimiter=";")
         return list(leitor)
+    

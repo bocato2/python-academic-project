@@ -1,0 +1,26 @@
+﻿nome_curso;id_disciplina;id_curso;nome_disciplina
+Analise de Sistemas;D001;C001;Algoritmos I
+Analise de Sistemas;D002;C001;Banco de Dados I
+Analise de Sistemas;D003;C001;Python para Dados
+Analise de Sistemas;D004;C001;Engenharia de Software
+Analise de Sistemas;D005;C001;SQL e Otimizacao
+Engenharia de Producao;D006;C002;Estatistica Aplicada
+Engenharia de Producao;D007;C002;Processos Industriais
+Engenharia de Producao;D008;C002;Pesquisa Operacional
+Engenharia de Producao;D009;C002;Gestao da Qualidade
+Engenharia de Producao;D010;C002;Planejamento e Controle
+Engenharia Civil;D011;C003;Resistencia dos Materiais
+Engenharia Civil;D012;C003;Materiais de Construcao
+Engenharia Civil;D013;C003;Topografia
+Engenharia Civil;D014;C003;Estruturas I
+Engenharia Civil;D015;C003;Hidraulica
+Administracao;D016;C004;Contabilidade
+Administracao;D017;C004;Gestao de Pessoas
+Administracao;D018;C004;Marketing
+Administracao;D019;C004;Financas
+Administracao;D020;C004;Economia
+Direito;D021;C005;Direito Civil
+Direito;D022;C005;Direito Penal
+Direito;D023;C005;Direito Constitucional
+Direito;D024;C005;Processo Civil
+Direito;D025;C005;Direito do Trabalho
